@@ -1,1 +1,2 @@
-This file was created by PyCharm 2.7.2 for binding GitHub repository
+This repository contains scripts to scrape data from the CDC's MMWR (Morbidity
+and Mortality Weekly Report), and write it into an easily accessible database.
