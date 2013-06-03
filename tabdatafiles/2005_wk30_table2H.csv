@@ -1,0 +1,97 @@
+
+TABLE II. (Part 8)  Provisional cases of selected notifiable diseases, United States, week ending July 30, 2005 (WEEK 30)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Streptococcal Disease, Invasive, Group A cummulative for 2005
+Streptococcal Disease, Invasive, Group A cummulative for 2004
+Streptococcus pneumoniae, Invasive, Drug Resistant, all ages cummulative for 2005
+Streptococcus pneumoniae, Invasive, Drug Resistant, all ages cummulative for 2004
+Streptococcus pneumoniae, Invasive, Age < 5 Years cummulative for 2005
+Streptococcus pneumoniae, Invasive, Age < 5 Years cummulative for 2004
+Syphilis (Primary and Secondary) cummulative for 2005
+Syphilis (Primary and Secondary) cummulative for 2004
+Syphilis (Congenital) cummulative for 2005
+Syphilis (Congenital) cummulative for 2004
+
+tab delimited data:
+test
+UNITED STATES	2,673	3,024	1,434	1,453	518	493	4,206	4,435	135	236											
+NEW ENGLAND	100	206	22	91	51	69	112	115	-	1											
+Maine	6	7	N	N	-	2	1	2	-	-											
+N.H.	8	15	-	-	3	N	7	3	-	-											
+Vt.	9	8	9	6	3	1	-	-	-	-											
+Mass.	70	92	-	24	45	39	80	72	-	-											
+R.I.	7	17	13	10	-	5	2	15	-	1											
+Conn.	-	67	U	51	U	22	22	23	-	-											
+MID. ATLANTIC	602	523	142	106	98	75	545	576	11	24											
+Upstate N.Y.	191	171	55	46	45	50	43	45	3	1											
+N.Y. City	102	79	U	U	17	U	341	350	5	9											
+N.J.	120	114	N	N	16	7	77	100	3	13											
+Pa.	189	159	87	60	20	18	84	81	-	1											
+E.N. CENTRAL	537	703	391	331	140	118	404	509	19	30											
+Ohio	133	165	245	233	58	56	120	131	2	2											
+Ind.	58	73	138	98	37	23	38	35	1	1											
+Ill.	113	194	8	-	41	1	178	210	6	5											
+Mich.	210	213	-	N	-	N	48	113	9	22											
+Wis.	23	58	N	N	4	38	20	20	1	-											
+W.N. CENTRAL	179	209	33	14	56	59	135	106	1	3											
+Minn.	64	104	-	-	33	38	32	17	-	1											
+Iowa	N	N	N	N	-	N	1	5	-	-											
+Mo.	52	44	27	11	5	9	85	61	1	1											
+N. Dak.	6	9	1	-	2	2	-	-	-	-											
+S. Dak.	16	9	3	3	-	-	-	-	-	-											
+Nebr.	13	14	2	-	6	6	3	5	-	-											
+Kans.	28	29	N	N	10	4	14	18	-	1											
+S. ATLANTIC	560	605	587	747	61	36	1,041	1,098	25	40											
+Del.	1	3	1	4	-	N	6	4	-	1											
+Md.	134	96	-	-	39	24	191	209	8	5											
+D.C.	7	5	14	7	2	4	67	34	-	1											
+Va.	48	50	N	N	-	N	66	62	3	2											
+W. Va.	17	17	85	82	20	8	2	3	-	-											
+N.C.	81	85	N	N	U	U	139	104	7	6											
+S.C.	22	47	-	77	-	N	30	72	2	10											
+Ga.	100	151	110	177	-	N	149	188	-	2											
+Fla.	150	151	377	400	-	N	391	422	5	13											
+E.S. CENTRAL	118	158	121	101	5	10	241	245	13	19											
+Ky.	23	50	21	22	N	N	22	26	-	1											
+Tenn.	95	108	100	77	-	N	107	78	9	7											
+Ala.	-	-	-	-	-	N	88	110	3	9											
+Miss.	-	-	-	2	5	10	24	31	1	2											
+W.S. CENTRAL	107	233	89	44	66	97	702	701	37	44											
+Ark.	11	12	12	6	13	7	29	29	-	3											
+La.	6	2	77	38	20	21	149	175	5	3											
+Okla.	76	44	N	N	17	28	22	19	1	2											
+Tex.	14	175	N	N	16	41	502	478	31	36											
+MOUNTAIN	411	329	49	18	34	29	218	225	15	29											
+Mont.	-	-	-	-	-	-	5	1	-	-											
+Idaho	1	6	N	N	-	N	18	13	1	2											
+Wyo.	2	6	20	6	-	-	-	1	-	-											
+Colo.	157	65	N	N	33	29	26	40	-	-											
+N. Mex.	26	72	-	N	-	-	27	56	2	2											
+Ariz.	173	154	N	N	-	N	80	94	12	25											
+Utah	51	24	28	10	1	-	4	5	-	-											
+Nev.	1	2	1	2	-	-	58	15	-	-											
+PACIFIC	59	58	-	1	7	-	808	860	14	46											
+Wash.	N	N	N	N	N	N	78	63	-	-											
+Oreg.	N	N	N	N	5	N	17	20	-	-											
+Calif.	-	-	N	N	N	N	705	773	14	46											
+Alaska	-	-	-	-	-	N	5	-	-	-											
+Hawaii	59	58	-	1	2	-	3	4	-	-											
+Guam	-	-	-	-	-	-	-	1	-	-											
+P.R.	N	N	N	N	-	N	102	80	6	3											
+V.I.	-	-	-	-	-	-	-	4	-	-											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2004 and 2005 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

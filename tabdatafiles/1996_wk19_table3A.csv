@@ -1,0 +1,97 @@
+
+TABLE III. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending May 11, 1996 (WEEK 19)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+H. influenzae, Invasive cummulative for 1996
+H. influenzae, Invasive cummulative for 1995
+Hepatitis (Viral), Type A cummulative for 1996
+Hepatitis (Viral), Type A cummulative for 1995
+Hepatitis (Viral), Type B cummulative for 1996
+Hepatitis (Viral), Type B cummulative for 1995
+Measles (Rubeola), Indigenous current week 
+Measles (Rubeola), Indigenous cummulative for 1996
+Measles (Rubeola), Imported current week 
+Measles (Rubeola), Imported cummulative for 1996
+
+tab delimited data:
+test
+UNITED STATES	497	512	9,205	9,312	3,063	3,539	4	95	2	14											
+NEW ENGLAND	12	28	110	70	54	80	-	5	-	1											
+Maine	2	1	10	13	2	2	-	-	-	-											
+N.H.	7	6	3	4	2	9	U	-	U	-											
+Vt.	-	1	2	3	2	1	-	1	-	-											
+Mass.	3	7	60	23	17	26	-	3	-	1											
+R.I.	-	-	3	10	4	7	-	-	-	-											
+Conn.	-	13	32	17	27	35	-	1	-	-											
+MID. ATLANTIC	73	54	596	574	473	480	1	4	-	4											
+Upstate N.Y.	21	14	151	117	117	117	-	-	-	-											
+N.Y. City	10	14	258	279	225	165	1	4	-	3											
+N.J.	25	8	123	82	88	126	-	-	-	-											
+Pa.	17	18	64	96	43	72	-	-	-	1											
+E.N. CENTRAL	71	93	798	1,251	330	421	-	3	1	3											
+Ohio	47	48	372	698	46	35	-	2	-	-											
+Ind.	2	14	130	57	52	93	-	-	-	-											
+Ill.	14	24	122	256	56	115	-	-	1	1											
+Mich.	3	7	131	146	152	150	-	-	-	2											
+Wis.	5	-	43	94	24	28	-	1	-	-											
+W.N. CENTRAL	20	29	684	524	183	236	-	4	-	1											
+Minn.	7	11	27	52	10	17	-	4	-	1											
+Iowa	6	2	168	26	68	15	-	-	-	-											
+Mo.	5	13	311	378	82	171	-	-	-	-											
+N. Dak.	-	-	17	10	-	2	-	-	-	-											
+S. Dak.	1	-	34	11	-	1	-	-	-	-											
+Nebr.	1	1	77	12	6	14	-	-	-	-											
+Kans.	-	2	50	35	17	16	-	-	-	-											
+S. ATLANTIC	121	137	301	393	405	482	-	2	-	-											
+Del.	1	-	5	6	1	3	-	1	-	-											
+Md.	29	39	77	75	111	105	-	1	-	-											
+D.C.	3	-	15	3	14	9	-	-	-	-											
+Va.	4	13	54	71	52	34	-	-	-	-											
+W. Va.	4	6	10	10	11	21	-	-	-	-											
+N.C.	14	18	42	49	129	116	-	-	-	-											
+S.C.	3	-	29	13	38	19	-	-	-	-											
+Ga.	58	29	7	41	5	49	-	-	-	-											
+Fla.	5	32	62	125	44	126	-	-	-	-											
+E.S. CENTRAL	8	4	726	493	291	375	-	-	-	-											
+Ky.	2	1	9	24	21	42	-	-	-	-											
+Tenn.	-	-	519	394	189	287	-	-	-	-											
+Ala.	5	3	84	44	20	46	-	-	-	-											
+Miss.	1	-	114	31	61	-	U	-	U	-											
+W.S. CENTRAL	16	23	1,629	972	319	370	-	-	-	2											
+Ark.	-	4	220	67	31	12	-	-	-	-											
+La.	-	1	47	32	40	64	-	-	-	-											
+Okla.	15	15	673	198	46	44	-	-	-	-											
+Tex.	1	3	689	675	202	250	-	-	-	2											
+MOUNTAIN	59	44	1,327	1,602	389	287	2	9	-	1											
+Mont.	-	-	50	24	4	9	-	-	-	-											
+Idaho	1	2	118	166	50	36	-	-	-	-											
+Wyo.	30	2	17	58	14	8	-	-	-	-											
+Colo.	5	7	146	202	54	49	1	2	-	1											
+N. Mex.	7	6	193	300	142	118	-	-	-	-											
+Ariz.	9	13	393	442	64	33	1	3	-	-											
+Utah	5	5	344	360	47	23	-	-	-	-											
+Nev.	2	9	66	50	14	11	-	4	-	-											
+PACIFIC	117	100	3,034	3,433	619	808	1	68	1	2											
+Wash.	1	4	214	215	44	60	-	4	-	-											
+Oreg.	17	12	437	708	31	43	1	1	-	-											
+Calif.	97	82	2,322	2,432	540	694	-	1	1	1											
+Alaska	-	-	26	14	2	5	-	62	-	-											
+Hawaii	2	2	35	64	2	6	-	-	-	1											
+Guam	-	-	2	2	-	-	U	-	U	-											
+P.R.	1	3	33	19	137	119	-	1	-	-											
+V.I.	-	-	-	-	-	1	U	-	U	-											
+Amer. Samoa	-	-	-	5	-	-	U	-	U	-											
+C.N.M.I.	10	2	1	14	5	6	U	-	U	-											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 1995 and 1996 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

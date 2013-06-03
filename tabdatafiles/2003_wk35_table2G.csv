@@ -1,0 +1,97 @@
+
+TABLE II. (Part 7)  Provisional cases of selected notifiable diseases, United States, week ending August 30, 2003 (WEEK 35)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Syphilis (Primary and Secondary) cummulative for 2003
+Syphilis (Primary and Secondary) cummulative for 2002
+Syphilis (Congenital) cummulative for 2003
+Syphilis (Congenital) cummulative for 2002
+Tuberculosis cummulative for 2003
+Tuberculosis cummulative for 2002
+Typhoid Fever cummulative for 2003
+Typhoid Fever cummulative for 2002
+Varicella (Chicken Pox) cummulative for 2003
+Varicella (Chicken Pox) cummulative for 2002
+
+tab delimited data:
+test
+UNITED STATES	4,441	4,406	236	269	7,068	8,469	174	198	8,394												
+NEW ENGLAND	139	95	1	-	201	269	19	10	1,252												
+Maine	6	2	1	-	5	10	-	-	640												
+N.H.	13	2	-	-	7	9	2	-	-												
+Vt.	-	1	-	-	3	4	-	-	492												
+Mass.	92	64	-	-	126	138	10	7	117												
+R.I.	14	5	-	-	27	38	2	-	3												
+Conn.	14	21	-	-	33	70	5	3	-												
+MID. ATLANTIC	542	469	45	38	1,412	1,460	22	50	24												
+Upstate N.Y.	27	23	13	1	183	213	5	4	N												
+N.Y. City	311	276	24	17	768	710	10	26	-												
+N.J.	113	94	8	19	273	321	6	13	-												
+Pa.	91	76	-	1	188	216	1	7	24												
+E.N. CENTRAL	588	823	42	41	731	844	11	21	3,779												
+Ohio	141	100	2	2	135	139	1	5	934												
+Ind.	31	40	7	2	88	76	3	2	-												
+Ill.	218	313	14	30	334	402	1	7	-												
+Mich.	188	352	19	7	140	178	6	3	2,269												
+Wis.	10	18	-	-	34	49	-	4	576												
+W.N. CENTRAL	94	86	3	-	308	361	3	9	39												
+Minn.	33	41	-	-	126	149	-	3	N												
+Iowa	4	2	-	-	17	21	1	-	N												
+Mo.	33	21	3	-	77	101	1	2	-												
+N. Dak.	-	-	-	-	-	4	-	-	39												
+S. Dak.	1	-	-	-	16	10	-	-	-												
+Nebr.	3	5	-	-	8	17	1	4	-												
+Kans.	20	17	-	-	64	59	-	-	-												
+S. ATLANTIC	1,203	1,093	44	63	1,382	1,749	35	26	1,572												
+Del.	4	9	-	-	-	13	-	-	20												
+Md.	210	129	8	12	145	200	7	5	-												
+D.C.	35	35	-	1	-	-	-	-	22												
+Va.	57	52	1	1	176	181	10	3	436												
+W. Va.	2	2	-	-	12	24	-	-	919												
+N.C.	110	202	14	17	198	216	6	1	N												
+S.C.	78	83	4	8	105	115	-	-	175												
+Ga.	292	233	4	10	200	353	6	5	-												
+Fla.	415	348	13	14	546	647	6	12	N												
+E.S. CENTRAL	204	343	12	19	436	516	5	4	-												
+Ky.	29	66	1	3	82	95	-	4	N												
+Tenn.	88	126	5	6	148	206	2	-	N												
+Ala.	71	117	4	7	139	133	3	-	-												
+Miss.	16	34	2	3	67	82	-	-	-												
+W.S. CENTRAL	568	568	41	61	959	1,293	7	24	1,331												
+Ark.	37	22	-	4	64	81	-	-	-												
+La.	82	98	-	-	-	-	-	-	4												
+Okla.	34	43	1	1	90	107	-	-	N												
+Tex.	415	405	40	56	805	1,105	7	24	1,327												
+MOUNTAIN	201	216	21	9	255	255	3	7	397												
+Mont.	-	-	-	-	5	6	-	-	N												
+Idaho	6	1	-	-	5	10	-	-	N												
+Wyo.	-	-	-	-	3	2	-	-	42												
+Colo.	12	45	3	1	56	58	3	3	-												
+N. Mex.	35	22	-	-	6	23	-	-	-												
+Ariz.	134	136	18	8	130	125	-	-	4												
+Utah	5	4	-	-	28	18	-	2	351												
+Nev.	9	8	-	-	22	13	-	2	-												
+PACIFIC	902	713	27	38	1,384	1,722	69	47	-												
+Wash.	50	37	-	1	169	155	2	4	-												
+Oreg.	27	11	-	-	65	75	3	2	-												
+Calif.	823	658	27	36	1,070	1,354	63	40	-												
+Alaska	-	-	-	-	39	32	-	-	-												
+Hawaii	2	7	-	1	41	106	1	1	-												
+Guam	-	6	-	-	-	44	-	-	-												
+P.R.	118	177	1	21	33	75	-	-	275												
+V.I.	1	1	-	-	-	-	-	-	-												
+Amer. Samoa	U	U	U	U	U	U	U	U	U												
+C.N.M.I.	-	U	-	U	-	U	-	U	-												
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2002 and 2003 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

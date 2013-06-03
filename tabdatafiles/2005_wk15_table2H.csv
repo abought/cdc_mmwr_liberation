@@ -1,0 +1,97 @@
+
+TABLE II. (Part 8)  Provisional cases of selected notifiable diseases, United States, week ending April 16, 2005 (WEEK 15)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Streptococcal Disease, Invasive, Group A cummulative for 2005
+Streptococcal Disease, Invasive, Group A cummulative for 2004
+Streptococcus pneumoniae, Invasive, Drug Resistant, all ages cummulative for 2005
+Streptococcus pneumoniae, Invasive, Drug Resistant, all ages cummulative for 2004
+Streptococcus pneumoniae, Invasive, Age < 5 Years cummulative for 2005
+Streptococcus pneumoniae, Invasive, Age < 5 Years cummulative for 2004
+Syphilis (Primary and Secondary) cummulative for 2005
+Syphilis (Primary and Secondary) cummulative for 2004
+Syphilis (Congenital) cummulative for 2005
+Syphilis (Congenital) cummulative for 2004
+
+tab delimited data:
+test
+UNITED STATES	1,405	1,614	920	899	241	267	1,798	2,129	71	115											
+NEW ENGLAND	54	80	9	12	23	35	53	44	-	-											
+Maine	2	3	N	N	-	-	1	-	-	-											
+N.H.	4	9	-	-	1	N	4	1	-	-											
+Vt.	6	3	3	4	1	1	-	-	-	-											
+Mass.	36	63	-	3	21	32	43	27	-	-											
+R.I.	6	2	6	5	-	2	2	2	-	-											
+Conn.	-	-	-	-	U	U	3	14	-	-											
+MID. ATLANTIC	308	273	94	57	48	36	223	280	15	16											
+Upstate N.Y.	115	87	35	21	31	20	19	19	11	1											
+N.Y. City	35	51	U	U	U	U	143	171	3	7											
+N.J.	64	55	N	N	6	5	36	52	1	7											
+Pa.	94	80	59	36	11	11	25	38	-	1											
+E.N. CENTRAL	227	373	221	211	57	67	149	231	10	23											
+Ohio	81	95	150	162	28	31	60	65	2	1											
+Ind.	28	34	71	49	14	13	17	11	1	1											
+Ill.	2	106	-	-	11	-	45	96	1	4											
+Mich.	108	107	-	N	-	N	21	49	5	17											
+Wis.	8	31	N	N	4	23	6	10	1	-											
+W.N. CENTRAL	99	137	16	5	26	26	50	48	-	-											
+Minn.	37	62	-	-	15	14	6	7	-	-											
+Iowa	N	N	N	N	-	N	1	2	-	-											
+Mo.	34	30	15	4	1	6	38	29	-	-											
+N. Dak.	1	4	-	-	1	-	-	-	-	-											
+S. Dak.	7	8	1	1	-	-	-	-	-	-											
+Nebr.	8	10	-	-	2	4	1	5	-	-											
+Kans.	12	23	N	N	7	2	4	5	-	-											
+S. ATLANTIC	302	316	400	465	35	19	479	548	13	18											
+Del.	-	2	-	3	-	N	5	2	-	-											
+Md.	92	55	-	-	25	14	93	83	5	3											
+D.C.	2	2	11	6	2	4	32	24	-	1											
+Va.	18	16	N	N	-	N	25	11	3	1											
+W. Va.	3	11	30	46	8	1	2	3	-	-											
+N.C.	35	45	N	N	U	U	66	44	1	1											
+S.C.	9	26	-	44	-	N	20	40	-	4											
+Ga.	62	84	152	125	-	N	36	112	-	1											
+Fla.	81	75	207	241	-	N	200	229	4	7											
+E.S. CENTRAL	58	83	59	57	1	-	103	106	9	4											
+Ky.	17	30	9	13	N	N	6	14	-	-											
+Tenn.	41	53	50	44	-	N	39	44	7	1											
+Ala.	-	-	-	-	-	N	49	36	2	2											
+Miss.	-	-	-	-	1	-	9	12	-	1											
+W.S. CENTRAL	69	122	57	28	30	61	334	323	16	27											
+Ark.	7	4	6	4	3	4	14	14	-	3											
+La.	4	1	51	24	8	16	52	67	2	-											
+Okla.	49	19	N	N	13	16	13	7	1	2											
+Tex.	9	98	N	N	6	25	255	235	13	22											
+MOUNTAIN	258	197	36	15	21	23	96	109	8	4											
+Mont.	-	-	-	-	-	-	5	-	-	-											
+Idaho	1	3	N	N	-	N	9	8	-	-											
+Wyo.	1	5	12	4	-	-	-	1	-	-											
+Colo.	117	33	N	N	20	21	9	19	-	-											
+N. Mex.	16	42	-	5	-	-	7	31	1	1											
+Ariz.	94	100	N	N	-	N	42	44	7	3											
+Utah	28	14	23	4	1	2	1	2	-	-											
+Nev.	1	-	1	2	-	-	23	4	-	-											
+PACIFIC	30	33	28	49	-	-	311	440	-	23											
+Wash.	N	N	N	N	N	N	50	22	-	-											
+Oreg.	N	N	N	N	-	N	8	11	-	-											
+Calif.	-	-	N	N	N	N	248	403	-	23											
+Alaska	-	-	-	-	-	N	3	-	-	-											
+Hawaii	30	33	28	49	-	-	2	4	-	-											
+Guam	-	-	-	-	-	-	-	-	-	-											
+P.R.	N	N	N	N	-	N	41	38	3	2											
+V.I.	-	-	-	-	-	-	-	4	-	-											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2004 and 2005 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

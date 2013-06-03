@@ -1,0 +1,99 @@
+
+TABLE III. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending January 25, 1997 (WEEK 04)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+H. influenzae, Invasive cummulative for 1997
+H. influenzae, Invasive cummulative for 1996
+Hepatitis (Viral), Type A cummulative for 1997
+Hepatitis (Viral), Type A cummulative for 1996
+Hepatitis (Viral), Type B cummulative for 1997
+Hepatitis (Viral), Type B cummulative for 1996
+Measles (Rubeola), Indigenous current week 
+Measles (Rubeola), Indigenous cummulative for 1997
+Measles (Rubeola), Imported current week 
+Measles (Rubeola), Imported cummulative for 1997
+Measles (Rubeola), Total cummulative for 1997
+Measles (Rubeola), Total cummulative for 1996
+
+tab delimited data:
+test
+UNITED STATES	58	90	1,101	1,629	327	510	1	1	-	-	1	1									
+NEW ENGLAND	2	4	23	12	4	14	-	-	-	-	-	-									
+Maine	-	-	1	2	-	-	-	-	-	-	-	-									
+N.H.	1	4	1	1	-	-	-	-	-	-	-	-									
+Vt.	-	-	2	-	-	-	-	-	-	-	-	-									
+Mass.	1	-	5	2	2	1	-	-	-	-	-	-									
+R.I.	-	-	1	2	-	1	-	-	-	-	-	-									
+Conn.	-	-	13	5	2	12	-	-	-	-	-	-									
+MID. ATLANTIC	10	12	85	93	50	66	-	-	-	-	-	-									
+Upstate N.Y.	-	1	-	2	-	4	-	-	-	-	-	-									
+N.Y. City	4	1	37	59	24	37	-	-	-	-	-	-									
+N.J.	4	8	30	19	21	16	-	-	-	-	-	-									
+Pa.	2	2	18	13	5	9	-	-	-	-	-	-									
+E.N. CENTRAL	8	15	89	169	51	79	-	-	-	-	-	-									
+Ohio	8	13	40	65	5	9	-	-	-	-	-	-									
+Ind.	-	-	15	10	4	3	-	-	-	-	-	-									
+Ill.	-	2	-	46	-	31	-	-	-	-	-	-									
+Mich.	-	-	34	25	42	26	-	-	-	-	-	-									
+Wis.	-	-	-	23	-	10	U	-	U	-	-	-									
+W.N. CENTRAL	-	5	50	131	14	34	-	-	-	-	-	-									
+Minn.	-	-	1	-	-	1	-	-	-	-	-	-									
+Iowa	-	3	12	31	10	5	-	-	-	-	-	-									
+Mo.	-	2	18	65	1	22	-	-	-	-	-	-									
+N. Dak.	-	-	-	1	-	-	-	-	-	-	-	-									
+S. Dak.	-	-	1	6	-	-	-	-	-	-	-	-									
+Nebr.	-	-	-	18	1	3	-	-	-	-	-	-									
+Kans.	-	-	18	10	2	3	-	-	-	-	-	-									
+S. ATLANTIC	15	10	74	50	29	72	-	-	-	-	-	-									
+Del.	-	-	4	1	1	-	-	-	-	-	-	-									
+Md.	6	1	36	17	14	20	-	-	-	-	-	-									
+D.C.	2	-	1	1	1	1	-	-	-	-	-	-									
+Va.	1	-	12	3	-	4	-	-	-	-	-	-									
+W. Va.	-	-	1	2	1	3	-	-	-	-	-	-									
+N.C.	4	2	7	12	8	36	-	-	-	-	-	-									
+S.C.	-	-	2	6	2	4	-	-	-	-	-	-									
+Ga.	1	7	1	-	-	-	-	-	-	-	-	-									
+Fla.	1	-	10	8	2	4	-	-	-	-	-	-									
+E.S. CENTRAL	1	3	22	79	17	57	-	-	-	-	-	-									
+Ky.	1	-	-	4	-	6	-	-	-	-	-	-									
+Tenn.	-	2	-	45	-	47	-	-	-	-	-	-									
+Ala.	-	1	6	7	1	4	-	-	-	-	-	-									
+Miss.	-	-	16	23	16	U	-	-	-	-	-	-									
+W.S. CENTRAL	2	4	85	187	4	11	-	-	-	-	-	-									
+Ark.	-	-	11	31	3	4	-	-	-	-	-	-									
+La.	-	-	-	3	-	1	-	-	-	-	-	-									
+Okla.	2	4	67	139	-	6	-	-	-	-	-	-									
+Tex.	-	-	7	14	1	-	-	-	-	-	-	-									
+MOUNTAIN	4	7	266	248	73	70	-	-	-	-	-	-									
+Mont.	-	-	6	5	-	-	-	-	-	-	-	-									
+Idaho	-	1	19	37	-	10	-	-	-	-	-	-									
+Wyo.	-	-	2	1	1	-	-	-	-	-	-	-									
+Colo.	2	1	64	17	24	11	-	-	-	-	-	-									
+N. Mex.	-	2	17	45	27	25	-	-	-	-	-	-									
+Ariz.	2	1	99	55	13	9	-	-	-	-	-	-									
+Utah	-	1	49	63	6	10	-	-	-	-	-	-									
+Nev.	-	1	10	25	2	5	-	-	-	-	-	-									
+PACIFIC	16	30	407	660	85	107	1	1	-	-	1	1									
+Wash.	-	-	4	11	-	3	-	-	-	-	-	-									
+Oreg.	5	2	43	123	12	8	-	-	-	-	-	-									
+Calif.	9	27	348	518	71	96	1	1	-	-	1	-									
+Alaska	-	-	3	1	-	-	-	-	-	-	-	-									
+Hawaii	2	1	9	7	2	-	-	-	-	-	-	1									
+Guam	-	-	-	1	-	-	U	-	U	-	-	-									
+P.R.	-	-	5	10	6	10	-	-	-	-	-	-									
+V.I.	-	-	-	-	-	-	U	-	U	-	-	-									
+Amer. Samoa	-	-	-	-	-	-	U	-	U	-	-	-									
+C.N.M.I.	-	8	-	1	-	3	U	-	U	-	-	-									
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 1996 and 1997 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

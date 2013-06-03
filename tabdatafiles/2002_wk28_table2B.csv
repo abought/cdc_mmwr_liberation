@@ -1,0 +1,96 @@
+
+TABLE II. (Part 2)  Provisional cases of selected notifiable diseases, United States, week ending July 13, 2002 (WEEK 28)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Escherichia coli, shiga toxin positive, not serogrouped cummulative for 2002
+Escherichia coli, shiga toxin positive, not serogrouped cummulative for 2001
+Giardiasis cummulative for 2002
+Gonorrhea cummulative for 2002
+Gonorrhea cummulative for 2001
+Haemophilus influenzae, Invasive, All ages, All serotypes cummulative for 2002
+Haemophilus influenzae, Invasive, All ages, All serotypes cummulative for 2001
+Haemophilus influenzae, Invasive, Age < 5 years, Serotype B cummulative for 2002
+Haemophilus influenzae, Invasive, Age < 5 years, Serotype B cummulative for 2001
+
+tab delimited data:
+test
+UNITED STATES	17	4	7,198	163,406	182,299	881	878	12	15												
+NEW ENGLAND	-	1	741	3,987	3,118	63	56	-	1												
+Maine	-	-	82	62	70	1	1	-	-												
+N.H.	-	-	25	64	82	5	-	-	-												
+Vt.	-	1	57	45	39	5	2	-	-												
+Mass.	-	-	351	1,780	1,332	30	33	-	1												
+R.I.	-	-	68	474	378	9	2	-	-												
+Conn.	-	-	158	1,562	1,217	13	18	-	-												
+MID. ATLANTIC	-	-	1,608	18,235	20,642	153	125	3	3												
+Upstate N.Y.	-	-	554	4,409	4,293	69	39	2	-												
+N.Y. City	-	-	641	6,133	6,648	34	34	-	-												
+N.J.	-	-	144	2,829	3,232	31	28	-	-												
+Pa.	-	-	269	4,864	6,469	19	24	1	3												
+E.N. CENTRAL	8	2	1,321	31,686	38,086	144	154	2	1												
+Ohio	8	2	410	9,598	10,354	55	48	-	1												
+Ind.	-	-	-	3,776	3,418	31	28	1	-												
+Ill.	-	-	304	9,119	12,007	43	52	-	-												
+Mich.	-	-	398	7,265	9,274	9	8	1	-												
+Wis.	-	-	209	1,928	3,033	6	18	-	-												
+W.N. CENTRAL	-	-	847	8,157	8,550	33	38	-	1												
+Minn.	-	-	309	1,457	1,319	20	20	-	-												
+Iowa	-	-	119	602	648	1	-	-	-												
+Mo.	N	N	243	4,406	4,336	9	12	-	-												
+N. Dak.	-	-	11	27	19	-	4	-	-												
+S. Dak.	-	-	35	138	146	-	-	-	-												
+Nebr.	-	-	52	137	634	-	1	-	1												
+Kans.	-	-	78	1,390	1,448	3	1	-	-												
+S. ATLANTIC	-	-	1,275	43,620	47,054	220	221	1	1												
+Del.	-	-	26	859	887	-	-	-	-												
+Md.	-	-	50	4,339	4,625	52	56	1	-												
+D.C.	-	-	20	1,408	1,560	-	-	-	-												
+Va.	-	-	111	5,375	4,997	16	18	-	-												
+W. Va.	-	-	20	523	328	6	8	-	1												
+N.C.	-	-	-	8,535	8,790	21	31	-	-												
+S.C.	-	-	35	4,212	6,242	11	4	-	-												
+Ga.	-	-	497	7,615	8,801	67	59	-	-												
+Fla.	-	-	516	10,754	10,824	47	45	-	-												
+E.S. CENTRAL	1	1	172	15,029	16,969	37	56	1	-												
+Ky.	1	1	-	1,822	1,835	3	2	-	-												
+Tenn.	-	-	78	4,821	5,137	20	27	-	-												
+Ala.	-	-	94	5,250	5,804	9	25	1	-												
+Miss.	-	-	-	3,136	4,193	5	2	-	-												
+W.S. CENTRAL	-	-	89	24,322	27,735	33	34	2	1												
+Ark.	-	-	66	1,862	2,590	1	-	-	-												
+La.	-	-	1	6,158	6,570	2	6	-	-												
+Okla.	-	-	22	2,344	2,607	28	27	-	-												
+Tex.	-	-	-	13,958	15,968	2	1	2	1												
+MOUNTAIN	8	-	665	4,964	5,505	116	96	2	3												
+Mont.	-	-	35	55	69	-	-	-	-												
+Idaho	-	-	46	40	42	2	1	-	-												
+Wyo.	-	-	12	32	32	1	-	-	-												
+Colo.	8	-	219	1,704	1,657	21	26	-	-												
+N. Mex.	-	-	77	623	519	18	14	-	-												
+Ariz.	-	-	85	1,785	2,153	55	40	1	1												
+Utah	-	-	123	107	80	14	5	-	-												
+Nev.	-	-	68	618	953	5	10	1	2												
+PACIFIC	-	-	480	13,406	14,640	82	98	1	4												
+Wash.	-	-	185	1,485	1,574	2	1	1	-												
+Oreg.	-	-	198	434	615	42	30	-	-												
+Calif.	-	-	-	10,859	11,910	12	44	-	4												
+Alaska	-	-	48	327	202	1	3	-	-												
+Hawaii	-	-	49	301	339	25	20	-	-												
+Guam	-	-	-	-	24	-	-	-	-												
+P.R.	-	-	11	237	336	1	1	-	-												
+V.I.	-	-	-	17	14	-	-	-	-												
+Amer. Samoa	U	U	U	U	U	U	U	U	U												
+C.N.M.I.	-	U	-	11	U	-	U	-	U												
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2001 and 2002 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

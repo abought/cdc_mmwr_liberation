@@ -1,0 +1,106 @@
+
+TABLE II. (Part 8)  Provisional cases of selected notifiable diseases, United States, week ending April 15, 2006 (WEEK 15)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Streptococcus pneumoniae, invasive disease, drug resistant, all ages current week
+Streptococcus pneumoniae, invasive disease, drug resistant, all ages previous 52 weeks median 
+Streptococcus pneumoniae, invasive disease, drug resistant, all ages previous 52 weeks maximum 
+Streptococcus pneumoniae, invasive disease, drug resistant, all ages cummulative for 2006
+Streptococcus pneumoniae, invasive disease, drug resistant, all ages cummulative for 2005
+Syphillis, primary & secondary current week
+Syphillis, primary & secondary previous 52 weeks median 
+Syphillis, primary & secondary previous 52 weeks maximum 
+Syphillis, primary & secondary cummulative for 2006
+Syphillis, primary & secondary cummulative for 2005
+Varicella (chickenpox) current week
+Varicella (chickenpox) previous 52 weeks median 
+Varicella (chickenpox) previous 52 weeks maximum 
+Varicella (chickenpox) cummulative for 2006
+Varicella (chickenpox) cummulative for 2005
+
+tab delimited data:
+test
+UNITED STATES	38	49	303	954	1,003	71	170	313	1,993	2,163	1,082	647	3,062	15,024	7,962						
+NEW ENGLAND	2	1	14	9	57	-	4	17	57	51	20	34	1,130	397	987						
+Conn.	U	0	0	U	U	-	0	11	12	2	U	0	0	U	U						
+Maine	N	0	0	N	N	-	0	2	3	1	-	6	20	85	105						
+Mass.	-	1	6	-	48	-	2	5	34	41	-	14	86	2	862						
+N.H.	-	0	0	-	-	-	0	2	4	3	10	6	1,110	124	-						
+R.I.	-	0	9	1	6	-	0	6	3	4	-	0	0	-	-						
+Vt.	2	0	2	8	3	-	0	1	1	-	10	5	25	186	20						
+MID. ATLANTIC	3	2	15	44	101	14	20	34	211	294	69	118	182	1,844	1,558						
+N.J.	N	0	0	N	N	2	2	7	46	40	-	0	0	-	-						
+N.Y. (Upstate)	1	1	10	11	38	8	2	15	44	19	-	0	0	-	-						
+N.Y. City	U	0	0	U	U	-	10	21	59	191	-	0	0	-	-						
+Pa.	2	2	9	33	63	4	5	8	62	44	69	118	182	1,844	1,558						
+E.N. CENTRAL	10	12	37	245	236	14	19	42	234	148	486	151	541	6,151	2,165						
+Ill.	-	0	2	7	1	3	9	32	88	42	-	1	5	4	28						
+Ind.	-	3	19	53	70	4	1	5	24	17	N	0	347	N	N						
+Mich.	-	1	4	9	16	-	2	8	39	21	63	88	231	1,693	1,354						
+Ohio	10	7	32	176	149	7	4	11	69	61	423	36	380	4,181	589						
+Wis.	N	0	0	N	N	-	1	3	14	7	-	9	41	273	194						
+W.N. CENTRAL	-	1	191	18	17	2	4	9	45	66	84	15	73	673	64						
+Iowa	N	0	0	N	N	-	0	1	2	4	N	0	0	N	N						
+Kans.	N	0	0	N	N	1	0	2	9	6	-	0	0	-	-						
+Minn.	-	0	191	-	-	-	1	4	6	17	-	0	0	-	-						
+Mo.	-	1	3	18	16	1	2	8	27	38	82	12	72	639	2						
+Nebr.	-	0	1	-	-	-	0	1	1	1	-	0	1	-	-						
+N. Dak.	-	0	1	-	-	-	0	1	-	-	2	0	25	15	9						
+S. Dak.	-	0	1	-	1	-	0	1	-	-	-	1	11	19	53						
+S. ATLANTIC	21	21	44	499	417	20	44	183	511	505	78	53	841	1,493	735						
+Del.	-	0	2	-	1	-	0	2	8	5	-	1	5	27	8						
+D.C.	1	0	3	18	11	1	2	9	31	30	3	0	6	14	6						
+Fla.	15	12	36	278	215	13	15	29	211	214	-	0	0	-	-						
+Ga.	5	5	19	163	159	-	8	142	37	62	-	0	0	-	-						
+Md.	-	0	0	-	-	-	5	19	79	82	-	0	0	-	-						
+N.C.	N	0	0	N	N	4	5	17	85	66	-	0	0	-	-						
+S.C.	-	0	0	-	-	2	1	7	20	20	32	14	45	346	180						
+Va.	N	0	0	N	N	-	3	12	40	25	-	13	795	485	94						
+W. Va.	-	2	10	40	31	-	0	1	-	1	43	19	70	621	447						
+E.S. CENTRAL	-	4	14	73	64	9	10	20	156	123	-	0	0	-	-						
+Ala.	N	0	0	N	N	-	3	12	76	55	-	0	0	-	-						
+Ky.	-	0	5	9	11	8	1	5	19	7	N	0	0	N	N						
+Miss.	-	0	0	-	-	-	0	5	11	17	-	0	0	-	-						
+Tenn.	-	3	13	64	53	1	4	11	50	44	N	0	0	N	N						
+W.S. CENTRAL	-	1	7	32	74	4	24	37	341	352	318	160	1,710	3,345	1,269						
+Ark.	-	0	3	6	6	2	1	6	27	15	87	0	99	261	-						
+La.	-	1	5	26	68	1	3	17	21	52	-	0	17	80	93						
+Okla.	N	0	0	N	N	1	1	6	22	12	-	0	0	-	-						
+Tex.	N	0	0	N	N	-	16	29	271	273	231	150	1,611	3,004	1,176						
+MOUNTAIN	2	1	27	34	37	6	7	17	102	126	27	50	133	1,121	1,184						
+Ariz.	N	0	0	N	N	6	3	13	58	39	-	0	0	-	-						
+Colo.	N	0	0	N	N	-	1	3	8	18	-	35	74	618	820						
+Idaho	N	0	0	N	N	-	0	3	1	9	-	0	0	-	-						
+Mont.	-	0	1	-	-	-	0	1	-	5	-	0	0	-	-						
+Nev.	-	0	27	1	1	-	2	6	22	35	-	0	2	-	-						
+N. Mex.	-	0	0	-	-	-	1	4	12	17	-	3	27	159	96						
+Utah	-	0	6	16	22	-	0	2	1	3	27	8	55	335	227						
+Wyo.	2	0	3	17	14	-	0	0	-	-	-	0	3	9	41						
+PACIFIC	-	0	0	-	-	2	34	55	336	498	-	0	0	-	-						
+Alaska	-	0	0	-	-	-	0	4	5	3	-	0	0	-	-						
+Calif.	N	0	0	N	N	2	29	53	259	436	-	0	0	-	-						
+Hawaii	-	0	0	-	-	-	0	2	7	1	N	0	0	N	N						
+Oreg.	N	0	0	N	N	-	0	6	4	8	N	0	0	N	N						
+Wash.	N	0	0	N	N	-	2	11	61	50	N	0	0	N	N						
+Amer. Samoa	-	0	0	-	-	U	0	0	U	U	U	0	0	U	U						
+C.N.M.I.	-	0	0	-	-	U	0	0	U	U	U	0	0	U	U						
+Guam	-	0	0	-	-	-	0	0	-	-	-	0	0	-	26						
+P.R.	N	0	0	N	N	-	4	16	38	41	-	6	47	77	212						
+V.I.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not notifiable.
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Incidence data for reporting years 2005 and 2006 are provisional.
+Data for HIV/AIDS, AIDS, and TB, when available, are displayed in Table IV, which appears quarterly.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

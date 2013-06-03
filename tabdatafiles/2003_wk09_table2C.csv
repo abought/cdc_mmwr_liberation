@@ -1,0 +1,97 @@
+
+TABLE II. (Part 3)  Provisional cases of selected notifiable diseases, United States, week ending March 1, 2003 (WEEK 09)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Haemophilus influenzae, Invasive, All Ages, All serotypes cummulative for 2003
+Haemophilus influenzae, Invasive, All Ages, All serotypes cummulative for 2002
+Haemophilus influenzae, Invasive, Age < 5 years, Serotype B cummulative for 2003
+Haemophilus influenzae, Invasive, Age < 5 years, Serotype B cummulative for 2002
+Haemophilus influenzae, Invasive, Age < 5 years, non-Serotype B cummulative for 2003
+Haemophilus influenzae, Invasive, Age < 5 years, non-Serotype B cummulative for 2002
+Haemophilus influenzae, Invasive, Age < 5 years, Unknown Serotype cummulative for 2003
+Haemophilus influenzae, Invasive, Age < 5 years, Unknown Serotype cummulative for 2002
+Hepatitis (Viral Acute), Type A cummulative for 2003
+Hepatitis (Viral Acute), Type A cummulative for 2002
+
+tab delimited data:
+test
+UNITED STATES	212	324	2	3	27	60	6	2	687	1,671											
+NEW ENGLAND	18	31	-	-	1	5	1	-	22	78											
+Maine	-	1	-	-	-	-	-	-	1	3											
+N.H.	4	3	-	-	-	-	-	-	2	3											
+Vt.	4	2	-	-	-	-	-	-	1	-											
+Mass.	8	16	-	-	1	3	1	-	15	41											
+R.I.	-	-	-	-	-	-	-	-	1	4											
+Conn.	2	9	-	-	-	2	-	-	2	27											
+MID. ATLANTIC	21	52	-	1	2	6	1	-	67	159											
+Upstate N.Y.	11	23	-	1	1	3	1	-	16	25											
+N.Y. City	6	13	-	-	1	2	-	-	50	54											
+N.J.	4	13	-	-	-	1	-	-	1	38											
+Pa.	-	3	-	-	-	-	-	-	-	42											
+E.N. CENTRAL	19	53	1	-	4	7	-	-	87	206											
+Ohio	11	23	-	-	3	3	-	-	26	48											
+Ind.	4	6	-	-	1	1	-	-	3	7											
+Ill.	-	23	-	-	-	3	-	-	23	82											
+Mich.	4	1	1	-	-	-	-	-	32	42											
+Wis.	-	-	-	-	-	-	-	-	3	27											
+W.N. CENTRAL	17	9	-	-	2	1	2	1	32	64											
+Minn.	7	6	-	-	2	1	-	-	4	4											
+Iowa	-	1	-	-	-	-	-	-	11	13											
+Mo.	6	2	-	-	-	-	2	1	5	13											
+N. Dak.	-	-	-	-	-	-	-	-	1	-											
+S. Dak.	1	-	-	-	-	-	-	-	-	2											
+Nebr.	-	-	-	-	-	-	-	-	4	4											
+Kans.	3	-	-	-	-	-	-	-	7	28											
+S. ATLANTIC	49	73	-	-	4	16	-	-	238	415											
+Del.	-	-	-	-	-	-	-	-	1	3											
+Md.	12	16	-	-	1	-	-	-	34	68											
+D.C.	-	-	-	-	-	-	-	-	-	20											
+Va.	2	4	-	-	-	1	-	-	2	5											
+W. Va.	1	-	-	-	-	-	-	-	4	3											
+N.C.	3	9	-	-	-	1	-	-	9	64											
+S.C.	1	1	-	-	-	-	-	-	6	10											
+Ga.	12	27	-	-	2	10	-	-	108	54											
+Fla.	18	16	-	-	1	4	-	-	74	188											
+E.S. CENTRAL	23	14	-	1	3	3	-	-	26	69											
+Ky.	2	1	-	-	-	-	-	-	5	12											
+Tenn.	10	4	-	-	2	1	-	-	13	31											
+Ala.	11	5	-	1	1	2	-	-	7	6											
+Miss.	-	4	-	-	-	-	-	-	1	20											
+W.S. CENTRAL	13	15	-	1	1	4	-	-	19	152											
+Ark.	1	1	-	-	-	-	-	-	-	9											
+La.	3	1	-	-	-	-	-	-	5	4											
+Okla.	9	12	-	-	1	4	-	-	3	9											
+Tex.	-	1	-	1	-	-	-	-	11	130											
+MOUNTAIN	37	40	1	-	7	8	1	-	51	139											
+Mont.	-	-	-	-	-	-	-	-	-	4											
+Idaho	-	-	-	-	-	-	-	-	-	7											
+Wyo.	-	1	-	-	-	-	-	-	-	2											
+Colo.	7	8	-	-	1	1	-	-	5	20											
+N. Mex.	3	8	-	-	1	3	-	-	1	4											
+Ariz.	21	17	1	-	3	3	-	-	31	78											
+Utah	4	4	-	-	2	-	-	-	5	10											
+Nev.	2	2	-	-	-	1	1	-	9	14											
+PACIFIC	15	37	-	-	3	10	1	1	145	389											
+Wash.	2	-	-	-	1	-	1	-	5	10											
+Oreg.	10	21	-	-	2	3	-	-	18	25											
+Calif.	-	8	-	-	-	6	-	1	119	352											
+Alaska	-	1	-	-	-	1	-	-	1	2											
+Hawaii	3	7	-	-	-	-	-	-	2	-											
+Guam	-	-	-	-	-	-	-	-	-	-											
+P.R.	-	-	-	-	-	-	-	-	-	-											
+V.I.	-	-	-	-	-	-	-	-	-	-											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2002 and 2003 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

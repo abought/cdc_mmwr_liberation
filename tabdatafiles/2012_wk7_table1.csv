@@ -1,0 +1,118 @@
+
+TABLE I.  Provisional cases of infrequently reported notifiable diseases (<1,000 cases reported during the preceding year), United States, week ending February 18, 2012 (WEEK 07)*
+
+column labels in same order that data fields appears in each record below:
+Disease
+Current week
+Cummulative for 2012
+5-year weekly average†
+Total cases reported for year 2011
+Total cases reported for year 2010
+Total cases reported for year 2009
+Total cases reported for year 2008
+Total cases reported for year 2007
+States reporting cases during current week (No.)
+
+tab delimited data:
+test
+Anthrax	-	-	-	1	-	1	-	1		
+Arboviral diseases §, ¶ :										
+California serogroup virus disease	-	-	0	131	75	55	62	55		
+Eastern equine encephalitis virus disease	-	-	-	4	10	4	4	4		
+Powassan virus disease	-	-	-	16	8	6	2	7		
+St. Louis encephalitis virus disease	-	-	0	5	10	12	13	9		
+Western equine encephalitis virus disease	-	-	-	-	-	-	-	-		
+Babesiosis	1	9	-	639	NN	NN	NN	NN	NY (1 )	
+Botulism, total	-	7	2	123	112	118	145	144		
+foodborne	-	-	0	11	7	10	17	32		
+infant	-	6	2	80	80	83	109	85		
+other(wound & unspecified)	-	1	0	32	25	25	19	27		
+Brucellosis	-	8	1	80	115	115	80	131		
+Chancroid	1	2	1	27	24	28	25	23	CA (1 )	
+Cholera	-	-	0	32	13	10	5	7		
+Cyclosporiasis §	-	4	2	145	179	141	139	93		
+Diphtheria	-	-	-	-	-	-	-	-		
+Haemophilus influenzae **, invasive disease (age &lt;5 yrs):										
+serotype b	-	3	1	10	23	35	30	22		
+nonserotype b	-	16	5	115	200	236	244	199		
+unknown serotype	3	28	4	250	223	178	163	180	MD (1 ), FL (1 ), TN (1 )	
+Hansen disease §	-	5	2	57	98	103	80	101		
+Hantavirus pulmonary syndrome §	-	1	0	20	20	20	18	32		
+Hemolytic uremic syndrome, post-diarrheal §	-	2	2	211	266	242	330	292		
+Influenza-associated pediatric mortality §, ††	-	3	5	118	61	358	90	77		
+Listeriosis	5	44	9	809	821	851	759	808	NY (1 ), PA (1 ), FL (1 ), CA (2 )	
+Measles §§	-	13	2	217	63	71	140	43		
+Meningococcal disease, invasive ¶¶ :										
+A,C,Y, and W-135	1	12	7	197	280	301	330	325	NV (1 )	
+serogroup B	-	3	4	119	135	174	188	167		
+other serogroup	-	1	1	17	12	23	38	35		
+unknown serogroup	2	49	11	378	406	482	616	550	NYC (1 ), KS (1 )	
+Novel influenza A infection virus ***	-	-	0	8	4	43,774	2	4		
+Plague	-	-	-	2	2	8	3	7		
+Poliomyelitis, paralytic	-	-	-	-	-	1	-	-		
+Polio virus infection, nonparalytic §	-	-	-	-	-	-	-	-		
+Psittacosis §	-	-	0	2	4	9	8	12		
+Q fever total §:	1	6	2	113	131	113	120	171		
+acute	1	3	1	90	106	93	106	-	CA (1 )	
+chronic	-	3	0	23	25	20	14	-		
+Rabies, human	-	-	-	2	2	4	2	1		
+Rubella †††	-	1	0	4	5	3	16	12		
+Rubella, congenital syndrome	-	-	0	-	-	2	-	-		
+SARS CoV §	-	-	-	-	-	-	-	-		
+Smallpox §	-	-	-	-	-	-	-	-		
+Streptococcal toxic-shock syndrome §	1	10	4	127	142	161	157	132	NE (1 )	
+Syphilis, congenital (age &lt;1 yr) §§§	-	3	8	276	377	423	431	430		
+Tetanus	-	-	0	12	26	18	19	28		
+Toxic-shock syndrome (staphylococcal) §	1	5	1	82	82	74	71	92	TN (1 )	
+Trichinellosis	-	1	0	9	7	13	39	5		
+Tularemia	-	-	0	138	124	93	123	137		
+Typhoid fever	3	30	9	337	467	397	449	434	NYC (1 ), GA (2 )	
+Vancomycin-intermediate Staphylococcus aureus §	1	3	1	67	91	78	63	37	MO (1 )	
+Vancomycin-resistant Staphylococcus aureus §	-	-	-	-	2	1	-	2		
+Vibriosis (non-cholera Vibrio species infections) §	1	25	3	749	846	789	588	549	FL (1 )	
+Viral Hemorrhagic Fever ¶¶¶	-	-	-	-	1	NN	NN	NN		
+Yellow fever	-	-	-	-	-	-	-	-		
+
+-: No reported cases
+N: Not reportable
+NN: Not Nationally Notifiable
+Cum: Cumulative year-to-date counts.
+
+* Case counts for reporting years 2011 and 2012 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf.
+
+† Calculated by summing the incidence counts for the current week, the 2 weeks preceding the current week, and the 2 weeks 
+following the current week, for a total of 5 preceding years.  The total sum of incident cases is then 
+divided by 25 weeks. Additional information is available at 
+http://wwwn.cdc.gov/nndss/document/5yearweeklyaverage.pdf.
+
+§ Not reportable in all states.   Data from states where the condition is not reportable are 
+excluded from this table except starting in 2007 for the Arboviral diseases, STD data, 
+TB data, and influenza-associated pediatric mortality, and in 2003 for SARS-CoV.   Reporting 
+exceptions are available at http://wwwn.cdc.gov/nndss/document/SRCA_FINAL_REPORT_2006-2010.xlsx.
+
+¶ Includes both neuroinvasive and nonneuroinvasive. Updated weekly from reports to the Division of Vector-Borne Infectious 
+Diseases, National Center for Zoonotic, Vector-Borne, and Enteric Diseases (ArboNET Surveillance). Data for 
+West Nile virus are available in Table II.
+
+** Data for H. influenzae (all ages, all serotypes) are available in Table II.
+
+†† Updated weekly from reports to the Influenza Division, National Center for Immunization and Respiratory 
+Diseases. Please refer to the MMWR publication for weekly updates to the footnote for this condition.
+
+§§ Please refer to the MMWR publication for weekly updates to the footnote for this condition.
+
+¶¶ Data for meningococcal disease (all serogroups) are available in Table II.
+
+*** Please refer to the http://www.cdc.gov/mmwr/mmwr_wk/wk_cvol.html for weekly updates to the footnote for this condition.
+
+††† Please refer to the MMWR publication for weekly updates to the footnote for this condition.
+
+§§§ Updated weekly from reports to the Division of STD Prevention, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention.
+
+¶¶¶ Please refer to the MMWR publication for weekly updates to the footnote for this condition. See Table II for Dengue Hemorrhagic Fever.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

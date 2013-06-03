@@ -1,0 +1,101 @@
+
+TABLE II. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending February 12, 2000 (WEEK 06)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+AIDS § cummulative for 2000
+AIDS § cummulative for 1999
+Chlamydia† cummulative for 2000
+Chlamydia† cummulative for 1999
+Cryptosporidiosis cummulative for 2000
+Cryptosporidiosis cummulative for 1999
+Escherichia coli O157:H7 NETSS cummulative for 2000
+Escherichia coli O157:H7 NETSS cummulative for 1999
+Escherichia coli O157:H7 PHLIS cummulative for 2000
+Escherichia coli O157:H7 PHLIS cummulative for 1999
+
+tab delimited data:
+test
+UNITED STATES	2,750	3,075	39,345	74,212	93	113	135	121	55	95											
+NEW ENGLAND	289	156	2,316	2,282	2	5	14	22	12	25											
+Maine	3	3	135	57	1	1	1	1	-	-											
+N.H.	3	3	88	120	-	-	3	1	3	1											
+Vt.	1	-	64	42	1	1	1	-	1	-											
+Mass.	234	122	1,161	989	-	2	3	13	2	13											
+R.I.	6	9	-	258	-	-	-	-	-	-											
+Conn.	42	19	868	816	-	1	6	7	6	11											
+MID. ATLANTIC	795	486	438	8,524	9	21	20	6	-	2											
+Upstate N.Y.	21	18	N	N	4	7	20	3	-	-											
+N.Y. City	495	236	-	4,352	4	12	-	1	-	1											
+N.J.	194	158	64	1,389	-	-	-	2	-	1											
+Pa.	85	74	374	2,783	1	2	N	N	-	-											
+E.N. CENTRAL	143	177	8,574	12,363	10	27	14	26	4	16											
+Ohio	25	37	1,824	4,405	5	4	4	16	1	6											
+Ind.	26	25	1,324	1,194	3	2	1	4	1	3											
+Ill.	64	77	2,130	3,145	-	3	6	2	-	2											
+Mich.	19	22	2,329	2,146	2	2	3	4	1	2											
+Wis.	9	16	967	1,473	-	16	N	N	1	3											
+W.N. CENTRAL	49	114	1,862	4,398	2	7	30	23	20	14											
+Minn.	11	22	506	947	-	1	7	6	9	9											
+Iowa	7	4	101	167	-	-	3	5	1	2											
+Mo.	15	73	686	1,800	2	4	18	2	7	1											
+N. Dak.	-	-	-	99	-	-	-	2	-	1											
+S. Dak.	1	-	112	265	-	-	-	-	-	-											
+Nebr.	4	5	263	473	-	1	2	2	2	1											
+Kans.	11	10	194	647	-	1	-	6	1	-											
+S. ATLANTIC	588	845	8,229	16,929	11	7	16	12	9	7											
+Del.	15	13	338	316	-	-	-	-	-	-											
+Md.	92	81	639	1,695	1	2	5	1	1	-											
+D.C.	22	8	302	N	-	2	-	-	U	U											
+Va.	41	54	857	1,785	-	-	3	4	2	2											
+W. Va.	4	10	-	274	-	-	1	-	1	1											
+N.C.	27	68	2,111	2,504	2	1	4	2	-	2											
+S.C.	35	56	669	3,409	-	-	-	1	-	1											
+Ga.	97	110	661	3,364	3	1	1	1	3	U											
+Fla.	255	445	2,652	3,582	5	1	2	3	2	1											
+E.S. CENTRAL	140	155	3,951	3,990	3	2	5	12	1	4											
+Ky.	20	15	950	782	-	1	2	3	U	U											
+Tenn.	35	62	1,168	1,607	-	1	2	5	1	2											
+Ala.	50	30	1,102	1,363	3	-	1	2	-	1											
+Miss.	35	48	731	238	-	-	-	2	-	1											
+W.S. CENTRAL	276	530	3,235	9,450	4	4	4	1	4	6											
+Ark.	8	19	375	567	1	-	2	-	-	2											
+La.	45	26	-	784	-	-	-	-	3	1											
+Okla.	10	6	908	1,097	-	-	-	-	-	-											
+Tex.	213	479	1,952	7,002	3	4	2	1	1	3											
+MOUNTAIN	102	45	2,234	3,953	6	14	15	5	3	4											
+Mont.	1	-	-	114	-	-	5	-	-	-											
+Idaho	3	4	64	186	1	2	1	-	-	-											
+Wyo.	1	-	82	81	-	-	2	1	-	1											
+Colo.	34	26	432	781	-	-	4	2	1	1											
+N. Mex.	8	4	94	614	1	8	-	-	-	-											
+Ariz.	22	4	916	1,591	2	4	1	1	2	-											
+Utah	12	4	319	231	2	N	1	1	-	2											
+Nev.	21	3	327	355	-	-	1	-	-	-											
+PACIFIC	368	567	8,506	12,323	46	26	17	14	2	17											
+Wash.	48	28	1,516	1,436	N	N	1	-	1	5											
+Oreg.	11	15	374	615	1	3	3	8	1	6											
+Calif.	299	509	6,373	9,696	45	23	11	6	-	6											
+Alaska	-	5	243	210	-	-	-	-	-	-											
+Hawaii	10	10	-	366	-	-	2	-	-	-											
+Guam	-	1	-	50	-	-	N	N	U	U											
+P.R.	77	92	113	U	-	-	-	1	U	U											
+V.I.	-	-	-	U	-	U	-	U	U	U											
+Amer. Samoa	-	-	-	U	-	U	-	U	U	U											
+C.N.M.I.	-	-	-	U	-	U	-	U	U	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 1999 and 2000 are provisional and cumulative (year-to-date).
+
+† Chlamydia refers to genital infections caused by Chlamydia trachomatis.
+
+§ Updated monthly from reports to the Division of HIV/AIDS Prevention, National Center for HIV, STD, and TB Prevention. 
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

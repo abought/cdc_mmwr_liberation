@@ -1,0 +1,99 @@
+
+TABLE III. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending January 1, 2000 (WEEK 52)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+H. influenzae, Invasive cummulative for 1999
+H. influenzae, Invasive cummulative for 1998
+Hepatitis (Viral), Type A cummulative for 1999
+Hepatitis (Viral), Type A cummulative for 1998
+Hepatitis (Viral), Type B cummulative for 1999
+Hepatitis (Viral), Type B cummulative for 1998
+Measles (Rubeola), Indigenous current week 
+Measles (Rubeola), Indigenous cummulative for 1999
+Measles (Rubeola), Imported current week 
+Measles (Rubeola), Imported cummulative for 1999
+Measles (Rubeola), Total cummulative for 1999
+Measles (Rubeola), Total cummulative for 1998
+
+tab delimited data:
+test
+UNITED STATES	1,165	1,194	16,919	23,229	6,495	10,258	-	60	1	26	86	100									
+NEW ENGLAND	102	108	307	299	137	230	-	6	-	5	11	3									
+Maine	8	5	14	20	1	5	U	-	U	-	-	-									
+N.H.	21	10	18	19	17	21	-	-	-	1	1	-									
+Vt.	6	9	24	17	3	10	-	-	-	-	-	1									
+Mass.	40	42	122	126	43	81	-	5	-	3	8	2									
+R.I.	6	9	26	18	34	75	U	-	U	-	-	-									
+Conn.	21	33	103	99	39	38	-	1	-	1	2	-									
+MID. ATLANTIC	176	196	954	1,726	588	1,249	-	-	-	2	2	16									
+Upstate N.Y.	81	81	275	376	182	262	-	-	-	2	2	4									
+N.Y. City	41	50	322	591	209	423	-	-	-	-	-	-									
+N.J.	50	53	112	343	41	205	-	-	-	-	-	8									
+Pa.	4	12	245	416	156	359	-	-	-	-	-	4									
+E.N. CENTRAL	176	186	2,837	3,715	682	1,414	-	1	1	3	4	16									
+Ohio	62	48	658	398	95	77	-	-	-	-	-	1									
+Ind.	25	51	109	174	44	117	-	1	-	1	2	3									
+Ill.	74	67	746	821	1	230	-	-	-	-	-	1									
+Mich.	14	13	1,254	2,135	517	476	-	-	1	2	2	10									
+Wis.	1	7	70	187	25	514	-	-	-	-	-	1									
+W.N. CENTRAL	89	104	1,109	1,362	400	438	-	1	-	-	1	-									
+Minn.	48	77	111	145	59	71	-	1	-	-	1	-									
+Iowa	9	5	150	400	41	55	-	-	-	-	-	-									
+Mo.	23	12	732	637	252	252	-	-	-	-	-	-									
+N. Dak.	1	1	3	4	2	4	U	-	U	-	-	-									
+S. Dak.	1	1	9	40	1	4	-	-	-	-	-	-									
+Nebr.	3	2	64	27	18	24	-	-	-	-	-	-									
+Kans.	4	6	40	109	27	28	U	-	U	-	-	-									
+S. ATLANTIC	264	224	2,071	2,395	1,246	1,323	-	14	-	6	20	9									
+Del.	-	1	2	6	1	4	-	-	-	-	-	1									
+Md.	71	57	358	416	170	143	-	-	-	-	-	1									
+D.C.	5	-	59	66	24	19	-	-	-	-	-	-									
+Va.	23	19	181	226	98	109	-	14	-	4	18	2									
+W. Va.	8	7	44	9	23	14	-	-	-	-	-	-									
+N.C.	36	24	167	128	224	243	-	-	-	-	-	1									
+S.C.	6	3	47	54	64	65	-	-	-	-	-	-									
+Ga.	68	69	464	879	186	209	-	-	-	-	-	2									
+Fla.	47	44	749	611	456	517	-	-	-	2	2	2									
+E.S. CENTRAL	67	64	386	416	464	512	-	2	-	-	2	2									
+Ky.	8	7	63	32	45	49	-	2	-	-	2	-									
+Tenn.	38	38	147	234	207	294	-	-	-	-	-	1									
+Ala.	17	16	60	81	78	75	-	-	-	-	-	1									
+Miss.	4	3	116	69	134	94	-	-	-	-	-	-									
+W.S. CENTRAL	61	68	3,832	4,461	917	2,466	-	10	-	4	14	-									
+Ark.	2	-	75	82	75	115	-	5	-	-	5	-									
+La.	13	29	204	174	167	219	U	-	U	-	-	-									
+Okla.	42	36	517	667	147	172	-	-	-	-	-	-									
+Tex.	4	3	3,036	3,538	528	1,960	-	5	-	4	9	-									
+MOUNTAIN	113	127	1,285	3,134	570	813	-	4	-	-	4	11									
+Mont.	3	-	17	96	17	8	U	-	U	-	-	-									
+Idaho	2	2	48	235	29	49	-	-	-	-	-	-									
+Wyo.	1	1	8	37	13	11	-	-	-	-	-	-									
+Colo.	12	21	215	345	97	102	-	-	-	-	-	-									
+N. Mex.	19	8	56	155	185	311	-	-	-	-	-	-									
+Ariz.	61	69	744	1,843	144	185	-	1	-	-	1	11									
+Utah	11	7	66	196	37	66	-	2	-	-	2	-									
+Nev.	4	19	131	227	48	81	U	1	U	-	1	-									
+PACIFIC	117	117	4,138	5,721	1,491	1,813	-	22	-	6	28	43									
+Wash.	7	11	466	1,037	94	136	-	-	-	-	-	1									
+Oreg.	40	42	238	435	100	201	U	9	U	-	9	-									
+Calif.	50	50	3,401	4,178	1,264	1,445	-	13	-	4	17	9									
+Alaska	9	4	12	17	19	13	-	-	-	-	-	33									
+Hawaii	11	10	21	54	14	18	-	-	-	2	2	-									
+Guam	-	-	2	1	2	2	U	1	U	-	1	-									
+P.R.	1	2	236	94	167	276	-	-	-	-	-	-									
+V.I.	U	U	U	U	U	U	U	U	U	U	U	U									
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U	U	U									
+C.N.M.I.	U	U	U	U	U	U	U	U	U	U	U	U									
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting year 1999 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

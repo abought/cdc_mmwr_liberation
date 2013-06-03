@@ -1,0 +1,97 @@
+
+TABLE II. (Part 8)  Provisional cases of selected notifiable diseases, United States, week ending January 22, 2005 (WEEK 03)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Streptococcal Disease, Invasive, Group A cummulative for 2005
+Streptococcal Disease, Invasive, Group A cummulative for 2004
+Streptococcus pneumoniae, Invasive, Drug Resistant, all ages cummulative for 2005
+Streptococcus pneumoniae, Invasive, Drug Resistant, all ages cummulative for 2004
+Streptococcus pneumoniae, Invasive, Age < 5 Years cummulative for 2005
+Streptococcus pneumoniae, Invasive, Age < 5 Years cummulative for 2004
+Syphilis (Primary and Secondary) cummulative for 2005
+Syphilis (Primary and Secondary) cummulative for 2004
+Syphilis (Congenital) cummulative for 2005
+Syphilis (Congenital) cummulative for 2004
+
+tab delimited data:
+test
+UNITED STATES	206	335	109	210	28	36	193	373	4	28											
+NEW ENGLAND	11	17	-	-	1	5	16	6	-	-											
+Maine	1	1	N	-	-	-	-	-	-	-											
+N.H.	1	3	-	-	-	N	-	1	-	-											
+Vt.	1	-	-	-	-	-	-	-	-	-											
+Mass.	8	13	-	-	1	5	16	2	-	-											
+R.I.	-	-	-	-	-	-	-	-	-	-											
+Conn.	-	-	-	-	U	U	-	3	-	-											
+MID. ATLANTIC	31	52	10	13	4	3	14	48	1	4											
+Upstate N.Y.	15	13	2	3	1	1	1	-	1	1											
+N.Y. City	1	17	U	U	U	U	2	32	-	1											
+N.J.	3	9	N	-	1	-	9	8	-	1											
+Pa.	12	13	8	10	2	2	2	8	-	1											
+E.N. CENTRAL	18	90	22	70	9	14	6	35	-	4											
+Ohio	9	26	20	65	7	11	3	7	-	-											
+Ind.	1	-	2	5	2	1	3	4	-	-											
+Ill.	-	28	-	-	-	-	-	14	-	-											
+Mich.	8	28	-	N	-	N	-	7	-	4											
+Wis.	-	8	N	N	-	2	-	3	-	-											
+W.N. CENTRAL	11	17	3	1	3	1	3	9	-	-											
+Minn.	-	-	-	-	-	-	-	1	-	-											
+Iowa	N	N	N	N	-	N	-	1	-	-											
+Mo.	4	5	3	1	-	-	3	7	-	-											
+N. Dak.	1	-	-	-	1	-	-	-	-	-											
+S. Dak.	3	2	-	-	-	-	-	-	-	-											
+Nebr.	3	2	-	-	1	1	-	-	-	-											
+Kans.	-	8	N	N	1	-	-	-	-	-											
+S. ATLANTIC	58	57	58	93	7	3	75	88	-	6											
+Del.	-	-	-	-	-	-	-	1	-	-											
+Md.	25	12	-	-	7	3	11	21	-	2											
+D.C.	-	-	-	-	-	-	7	2	-	-											
+Va.	2	2	N	N	-	N	3	3	-	1											
+W. Va.	-	-	-	2	-	-	-	-	-	-											
+N.C.	5	2	N	N	U	U	13	5	-	-											
+S.C.	-	1	-	4	-	N	1	4	-	1											
+Ga.	12	21	15	33	-	N	-	8	-	-											
+Fla.	14	19	43	54	-	N	40	44	-	2											
+E.S. CENTRAL	5	15	6	7	-	-	15	16	2	2											
+Ky.	1	2	-	1	N	N	-	4	-	-											
+Tenn.	4	13	6	6	-	N	7	8	1	1											
+Ala.	-	-	-	-	-	N	8	2	1	1											
+Miss.	-	-	-	-	-	-	-	2	-	-											
+W.S. CENTRAL	2	30	6	7	1	3	34	64	-	9											
+Ark.	-	-	3	1	-	-	1	4	-	-											
+La.	-	1	3	6	-	1	6	11	-	-											
+Okla.	2	1	N	N	1	-	2	1	-	2											
+Tex.	-	28	N	N	-	2	25	48	-	7											
+MOUNTAIN	50	21	3	5	3	7	11	17	1	-											
+Mont.	-	-	-	-	-	-	-	-	-	-											
+Idaho	-	1	N	N	-	N	-	3	-	-											
+Wyo.	-	2	-	2	-	-	-	-	-	-											
+Colo.	22	8	N	-	3	7	-	3	-	-											
+N. Mex.	2	10	-	2	-	-	-	5	-	-											
+Ariz.	25	-	N	N	-	N	9	5	1	-											
+Utah	1	-	3	1	-	-	-	-	-	-											
+Nev.	-	-	-	-	-	-	2	1	-	-											
+PACIFIC	20	36	1	14	-	-	19	90	-	3											
+Wash.	N	-	N	-	N	N	2	-	-	-											
+Oreg.	N	N	N	N	-	N	-	-	-	-											
+Calif.	12	24	N	N	-	N	17	90	-	3											
+Alaska	-	-	-	-	-	N	-	-	-	-											
+Hawaii	8	12	1	14	-	-	-	-	-	-											
+Guam	-	-	-	-	-	-	-	-	-	-											
+P.R.	N	N	N	N	-	-	3	2	-	-											
+V.I.	-	-	-	-	-	-	-	2	-	-											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2004 and 2005 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

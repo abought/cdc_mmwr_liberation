@@ -1,0 +1,97 @@
+
+TABLE III. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending August 24, 1996 (WEEK 34)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+H. influenzae, Invasive cummulative for 1996
+H. influenzae, Invasive cummulative for 1995
+Hepatitis (Viral), Type A cummulative for 1996
+Hepatitis (Viral), Type A cummulative for 1995
+Hepatitis (Viral), Type B cummulative for 1996
+Hepatitis (Viral), Type B cummulative for 1995
+Measles (Rubeola), Indigenous current week 
+Measles (Rubeola), Indigenous cummulative for 1996
+Measles (Rubeola), Imported current week 
+Measles (Rubeola), Imported cummulative for 1996
+
+tab delimited data:
+test
+UNITED STATES	782	780	17,264	18,474	6,085	6,494	5	377	2	36											
+NEW ENGLAND	20	31	220	175	115	158	2	8	-	6											
+Maine	-	3	13	19	2	7	-	-	-	-											
+N.H.	8	7	10	8	9	16	U	-	U	-											
+Vt.	1	2	4	4	10	2	-	1	-	1											
+Mass.	10	10	122	71	39	57	2	6	-	5											
+R.I.	1	3	9	20	8	8	-	-	-	-											
+Conn.	-	6	62	53	47	68	U	1	U	-											
+MID. ATLANTIC	124	111	1,017	1,142	907	924	-	20	-	5											
+Upstate N.Y.	38	29	276	268	235	253	-	-	-	-											
+N.Y. City	23	26	393	569	419	296	-	9	-	3											
+N.J.	38	13	206	150	157	234	-	-	-	-											
+Pa.	25	43	142	155	96	141	-	11	-	2											
+E.N. CENTRAL	119	133	1,472	2,150	651	738	-	5	-	4											
+Ohio	72	68	561	1,208	86	79	-	2	-	-											
+Ind.	7	17	221	116	110	141	-	-	-	-											
+Ill.	28	30	307	440	158	194	-	2	-	1											
+Mich.	7	16	281	250	253	272	-	-	-	3											
+Wis.	5	2	102	136	44	52	-	1	-	-											
+W.N. CENTRAL	36	55	1,395	1,284	281	437	-	17	-	2											
+Minn.	22	28	86	126	38	36	-	14	-	2											
+Iowa	5	3	249	61	62	33	-	-	-	-											
+Mo.	5	17	669	918	135	314	-	2	-	-											
+N. Dak.	-	-	35	19	1	4	-	-	-	-											
+S. Dak.	1	1	40	37	3	2	-	-	-	-											
+Nebr.	1	3	135	33	18	21	-	-	-	-											
+Kans.	2	3	181	90	24	27	-	1	-	-											
+S. ATLANTIC	182	154	816	741	958	851	-	6	1	8											
+Del.	2	-	11	8	6	6	-	1	-	-											
+Md.	46	54	133	140	203	171	-	2	1	2											
+D.C.	5	-	22	18	27	15	-	-	-	-											
+Va.	6	21	108	131	96	75	-	-	-	2											
+W. Va.	6	6	12	16	17	35	-	-	-	-											
+N.C.	22	24	99	77	231	194	-	3	-	1											
+S.C.	4	1	42	31	54	33	-	-	-	-											
+Ga.	73	43	87	50	8	62	-	-	-	2											
+Fla.	18	5	302	270	316	260	-	-	-	1											
+E.S. CENTRAL	21	8	954	1,191	521	594	-	-	-	-											
+Ky.	4	2	20	33	36	51	-	-	-	-											
+Tenn.	8	-	649	993	298	467	-	-	-	-											
+Ala.	8	5	130	59	41	76	-	-	-	-											
+Miss.	1	1	155	106	146	-	U	-	U	-											
+W.S. CENTRAL	32	49	3,605	2,308	817	777	1	25	-	2											
+Ark.	-	5	338	333	51	39	-	-	-	-											
+La.	3	1	106	74	77	134	-	-	-	-											
+Okla.	26	20	1,500	601	59	104	-	-	-	-											
+Tex.	3	23	1,661	1,300	630	500	1	25	-	2											
+MOUNTAIN	78	86	2,763	2,750	700	562	2	150	-	5											
+Mont.	-	-	81	72	7	19	-	-	-	-											
+Idaho	1	2	150	237	69	68	-	1	-	-											
+Wyo.	35	5	26	83	30	17	1	1	-	-											
+Colo.	11	11	294	344	88	82	-	4	-	3											
+N. Mex.	9	12	277	571	233	210	1	14	-	-											
+Ariz.	9	21	1,129	798	173	85	-	8	-	-											
+Utah	7	9	640	498	69	46	-	117	-	2											
+Nev.	6	26	166	147	31	35	-	5	-	-											
+PACIFIC	170	153	5,022	6,733	1,135	1,453	-	146	1	4											
+Wash.	2	8	328	539	63	122	-	45	-	-											
+Oreg.	22	21	584	1,730	45	88	-	4	-	-											
+Calif.	143	120	4,028	4,321	1,010	1,221	-	33	-	2											
+Alaska	1	-	31	28	9	10	-	63	-	-											
+Hawaii	2	4	51	115	8	12	-	1	1	2											
+Guam	-	-	2	6	-	4	U	-	U	-											
+P.R.	1	3	72	69	254	413	-	6	-	-											
+V.I.	-	-	-	6	-	12	U	-	U	-											
+Amer. Samoa	-	-	-	5	-	-	U	-	U	-											
+C.N.M.I.	10	11	1	22	5	12	U	-	U	-											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 1995 and 1996 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

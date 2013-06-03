@@ -1,0 +1,97 @@
+
+TABLE II. (Part 6)  Provisional cases of selected notifiable diseases, United States, week ending August 16, 2003 (WEEK 33)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Salmonellosis cummulative for 2003
+Salmonellosis cummulative for 2002
+Shigellosis cummulative for 2003
+Shigellosis cummulative for 2002
+Streptococcal Disease, Invasive, Group A cummulative for 2003
+Streptococcal Disease, Invasive, Group A cummulative for 2002
+Streptococcus pneumoniae, Drug Resistant, Invasive, All Ages cummulative for 2003
+Streptococcus pneumoniae, Drug Resistant, Invasive, All Ages cummulative for 2002
+Streptococcus pneumoniae, Invasive Disease, Age < 5 Years cummulative for 2003
+Streptococcus pneumoniae, Invasive Disease, Age < 5 Years cummulative for 2002
+
+tab delimited data:
+test
+UNITED STATES	21,244	23,610	12,314	10,812	3,768	3,273	1,500	1,720	295	222											
+NEW ENGLAND	1,236	1,271	181	187	319	253	40	75	6	1											
+Maine	84	87	6	3	22	20	-	-	-	-											
+N.H.	83	78	5	7	19	28	-	-	N	N											
+Vt.	41	43	6	-	16	9	6	4	3	1											
+Mass.	731	727	121	124	151	85	N	N	N	N											
+R.I.	62	92	7	6	9	13	10	6	3	-											
+Conn.	235	244	36	47	102	98	24	65	U	U											
+MID. ATLANTIC	2,367	3,247	1,346	968	618	547	93	81	70	57											
+Upstate N.Y.	602	853	217	144	282	220	51	72	53	47											
+N.Y. City	640	844	217	286	90	127	U	U	U	U											
+N.J.	211	678	161	376	42	115	N	N	N	N											
+Pa.	914	872	751	162	204	85	42	9	17	10											
+E.N. CENTRAL	3,139	3,500	1,105	1,208	849	704	321	153	130	81											
+Ohio	888	813	242	402	246	159	209	28	76	-											
+Ind.	358	288	100	60	89	39	112	123	34	40											
+Ill.	978	1,228	517	535	179	205	-	2	-	-											
+Mich.	484	586	172	102	289	219	N	N	N	N											
+Wis.	431	585	74	109	46	82	N	N	20	41											
+W.N. CENTRAL	1,473	1,460	508	705	243	186	125	326	42	40											
+Minn.	344	347	60	141	121	95	-	220	36	36											
+Iowa	213	239	35	74	N	N	N	N	N	N											
+Mo.	565	482	267	107	51	38	9	5	2	1											
+N. Dak.	25	24	3	16	10	-	3	1	4	3											
+S. Dak.	60	65	9	151	18	10	1	1	-	-											
+Nebr.	87	103	87	154	21	16	-	25	N	N											
+Kans.	179	200	47	62	22	27	112	74	N	N											
+S. ATLANTIC	5,588	5,540	4,899	3,430	689	543	771	796	9	22											
+Del.	49	47	144	32	6	2	1	3	N	N											
+Md.	481	553	415	676	209	86	-	-	-	17											
+D.C.	21	48	42	39	11	6	2	-	5	3											
+Va.	572	550	262	580	85	57	N	N	N	N											
+W. Va.	78	80	-	5	30	14	51	34	4	2											
+N.C.	674	709	596	215	80	102	N	N	U	U											
+S.C.	318	346	269	71	30	29	110	139	N	N											
+Ga.	1,066	1,045	1,284	788	84	104	188	198	N	N											
+Fla.	2,329	2,162	1,887	1,024	154	143	419	422	N	N											
+E.S. CENTRAL	1,360	1,685	564	842	142	77	95	109	-	-											
+Ky.	248	203	67	86	35	14	12	13	N	N											
+Tenn.	447	425	197	44	107	63	83	96	N	N											
+Ala.	296	437	177	436	-	-	-	-	N	N											
+Miss.	369	620	123	276	-	-	-	-	-	-											
+W.S. CENTRAL	1,820	2,448	1,692	1,664	140	213	33	147	34	18											
+Ark.	383	502	64	134	5	6	8	6	-	-											
+La.	236	456	142	303	1	1	25	141	10	5											
+Okla.	259	269	534	300	64	35	N	N	24	2											
+Tex.	942	1,221	952	927	70	171	N	N	-	11											
+MOUNTAIN	1,249	1,322	592	404	345	405	19	33	4	3											
+Mont.	61	63	2	3	2	-	-	-	-	-											
+Idaho	103	85	14	3	14	6	N	N	N	N											
+Wyo.	61	39	1	5	2	7	4	10	-	-											
+Colo.	284	381	101	86	97	83	-	-	-	-											
+N. Mex.	116	171	109	75	85	76	15	23	-	-											
+Ariz.	400	341	303	188	135	206	-	-	N	N											
+Utah	125	101	32	20	9	27	-	-	4	3											
+Nev.	99	141	30	24	1	-	-	-	-	-											
+PACIFIC	3,012	3,137	1,427	1,404	423	345	3	-	-	-											
+Wash.	328	289	103	96	38	18	-	-	N	N											
+Oreg.	246	228	148	61	N	N	N	N	N	N											
+Calif.	2,260	2,407	1,144	1,210	315	282	N	N	N	N											
+Alaska	50	42	5	2	-	-	-	-	N	N											
+Hawaii	128	171	27	35	70	45	3	-	-	-											
+Guam	-	29	-	19	-	-	-	4	-	-											
+P.R.	159	285	2	20	N	N	N	N	N	N											
+V.I.	-	-	-	-	-	-	-	-	-	-											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2002 and 2003 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

@@ -1,0 +1,101 @@
+
+TABLE II. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending April 6, 2002 (WEEK 14)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+AIDS § cummulative for 2002
+AIDS § cummulative for 2001
+Chlamydia† cummulative for 2002
+Chlamydia† cummulative for 2001
+Cryptosporidiosis cummulative for 2002
+Cryptosporidiosis cummulative for 2001
+Escherichia coli O157:H7 cummulative for 2002
+Escherichia coli O157:H7 cummulative for 2001
+Escherichia coli Shiga toxin positive, serogroup non-0157 cummulative for 2002
+Escherichia coli Shiga toxin positive, serogroup non-0157 cummulative for 2001
+
+tab delimited data:
+test
+UNITED STATES	10,377	10,393	174,669	198,888	480	465	290	291	15	17											
+NEW ENGLAND	320	309	6,778	6,139	20	12	22	26	2	7											
+Maine	1	3	372	339	-	-	-	3	-	-											
+N.H.	9	12	420	332	5	-	1	3	-	2											
+Vt.	5	10	199	156	5	5	-	1	-	-											
+Mass.	178	191	2,898	2,454	4	3	13	17	2	1											
+R.I.	35	33	734	800	3	2	2	-	-	-											
+Conn.	92	60	2,155	2,058	3	2	6	2	-	4											
+MID. ATLANTIC	2,133	3,267	15,263	20,378	44	68	20	26	-	-											
+Upstate N.Y.	158	567	1,850	3,279	9	17	16	14	-	-											
+N.Y. City	1,299	1,870	7,766	7,917	25	30	-	1	-	-											
+N.J.	403	473	776	2,951	1	2	4	11	-	-											
+Pa.	273	357	4,871	6,231	9	19	N	N	-	-											
+E.N. CENTRAL	973	662	28,256	38,181	129	150	88	70	-	-											
+Ohio	197	99	4,063	9,953	38	27	15	19	-	-											
+Ind.	133	64	4,479	4,343	13	14	6	9	-	-											
+Ill.	476	329	7,971	11,441	15	12	22	12	-	-											
+Mich.	117	137	8,812	7,875	27	31	21	12	-	-											
+Wis.	50	33	2,931	4,569	36	66	24	18	-	-											
+W.N. CENTRAL	147	175	8,127	10,336	38	17	43	26	3	1											
+Minn.	29	35	2,231	2,236	15	-	19	13	3	-											
+Iowa	34	18	461	1,006	5	7	9	3	-	-											
+Mo.	48	72	2,551	3,587	10	6	11	4	-	-											
+N. Dak.	-	1	228	269	2	-	-	-	-	-											
+S. Dak.	2	-	584	497	3	1	1	1	-	1											
+Nebr.	15	25	314	1,003	-	3	-	-	-	-											
+Kans.	19	24	1,758	1,738	3	-	3	5	-	-											
+S. ATLANTIC	3,619	2,972	36,713	38,222	115	94	41	35	8	7											
+Del.	58	54	706	829	1	1	1	-	-	-											
+Md.	420	245	3,700	4,023	3	18	-	1	-	-											
+D.C.	157	233	799	907	2	3	-	-	-	-											
+Va.	235	263	4,386	4,624	1	5	5	6	-	1											
+W. Va.	21	17	626	613	1	-	-	1	-	-											
+N.C.	280	116	5,431	5,819	13	11	6	16	-	-											
+S.C.	267	214	3,049	4,681	2	1	-	1	-	-											
+Ga.	651	270	8,178	8,223	62	38	22	5	5	5											
+Fla.	1,530	1,560	9,838	8,503	30	17	7	5	3	1											
+E.S. CENTRAL	425	482	13,448	13,485	26	12	7	11	-	-											
+Ky.	46	74	2,115	2,352	1	1	2	1	-	-											
+Tenn.	204	160	4,246	4,014	10	2	4	5	-	-											
+Ala.	85	118	4,520	3,593	13	4	-	4	-	-											
+Miss.	90	130	2,567	3,526	2	5	1	1	-	-											
+W.S. CENTRAL	1,077	815	26,797	28,952	5	11	-	28	-	-											
+Ark.	59	64	1,365	2,198	2	2	-	-	-	-											
+La.	269	257	4,755	4,725	1	4	-	-	-	-											
+Okla.	48	44	2,086	2,584	2	1	-	6	-	-											
+Tex.	701	450	18,591	19,445	-	4	-	22	-	-											
+MOUNTAIN	328	345	10,645	11,120	30	34	24	23	1	-											
+Mont.	4	3	548	464	1	1	4	2	-	-											
+Idaho	6	5	642	510	9	5	1	3	-	-											
+Wyo.	2	-	219	206	1	-	-	-	1	-											
+Colo.	64	82	1,137	3,238	8	12	2	9	-	-											
+N. Mex.	11	30	1,989	1,593	3	8	2	1	-	-											
+Ariz.	148	123	3,124	3,434	4	1	4	5	-	-											
+Utah	18	34	1,503	279	2	7	5	2	-	-											
+Nev.	75	68	1,483	1,396	2	-	6	1	-	-											
+PACIFIC	1,355	1,366	28,642	32,075	73	67	45	46	1	2											
+Wash.	147	150	3,680	3,714	15	U	7	9	-	-											
+Oreg.	129	52	1,798	1,961	8	8	15	3	1	2											
+Calif.	1,064	1,144	21,265	24,587	49	59	20	30	-	-											
+Alaska	2	8	913	691	-	-	-	-	-	-											
+Hawaii	13	12	986	1,122	1	-	3	4	-	-											
+Guam	1	6	-	-	-	-	N	N	-	-											
+P.R.	273	326	-	1,171	-	-	-	-	-	-											
+V.I.	53	1	-	53	-	-	-	-	-	-											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	2	U	37	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2001 and 2002 are provisional and cumulative (year-to-date).
+
+† Chlamydia refers to genital infections caused by Chlamydia trachomatis.
+
+§ Updated monthly from reports to the Division of HIV/AIDS Prevention, National Center for HIV, STD, and TB Prevention. 
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

@@ -1,0 +1,99 @@
+
+TABLE III. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending March 13, 1999 (WEEK 10)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+H. influenzae, Invasive cummulative for 1999
+H. influenzae, Invasive cummulative for 1998
+Hepatitis (Viral), Type A cummulative for 1999
+Hepatitis (Viral), Type A cummulative for 1998
+Hepatitis (Viral), Type B cummulative for 1999
+Hepatitis (Viral), Type B cummulative for 1998
+Measles (Rubeola), Indigenous current week 
+Measles (Rubeola), Indigenous cummulative for 1999
+Measles (Rubeola), Imported current week 
+Measles (Rubeola), Imported cummulative for 1999
+Measles (Rubeola), Total cummulative for 1999
+Measles (Rubeola), Total cummulative for 1998
+
+tab delimited data:
+test
+UNITED STATES	212	229	2,706	3,646	956	1,547	-	8	-	3	11	6									
+NEW ENGLAND	17	13	28	77	16	27	-	-	-	1	1	1									
+Maine	2	-	2	9	-	-	-	-	-	-	-	-									
+N.H.	2	1	4	5	2	3	-	-	-	1	1	-									
+Vt.	3	-	-	4	-	-	-	-	-	-	-	-									
+Mass.	10	12	9	19	12	13	-	-	-	-	-	1									
+R.I.	-	-	-	5	2	-	-	-	-	-	-	-									
+Conn.	-	-	13	35	-	11	-	-	-	-	-	-									
+MID. ATLANTIC	30	35	166	285	121	235	-	-	-	-	-	1									
+Upstate N.Y.	18	13	52	62	31	56	-	-	-	-	-	-									
+N.Y. City	2	10	20	113	18	60	-	-	-	-	-	-									
+N.J.	10	11	25	51	19	39	U	-	U	-	-	1									
+Pa.	-	1	69	59	53	80	-	-	-	-	-	-									
+E.N. CENTRAL	21	36	685	613	93	376	-	-	-	-	-	1									
+Ohio	14	17	153	80	20	16	-	-	-	-	-	-									
+Ind.	1	2	29	77	4	189	-	-	-	-	-	-									
+Ill.	5	16	66	161	-	51	-	-	-	-	-	-									
+Mich.	1	-	435	255	69	99	-	-	-	-	-	1									
+Wis.	-	1	2	40	-	21	-	-	-	-	-	-									
+W.N. CENTRAL	10	3	65	329	25	81	-	-	-	-	-	-									
+Minn.	4	-	4	5	4	2	-	-	-	-	-	-									
+Iowa	2	1	22	121	8	11	-	-	-	-	-	-									
+Mo.	-	-	18	163	5	58	-	-	-	-	-	-									
+N. Dak.	-	-	-	1	-	1	-	-	-	-	-	-									
+S. Dak.	1	-	-	1	-	1	-	-	-	-	-	-									
+Nebr.	1	-	13	9	6	3	U	-	U	-	-	-									
+Kans.	2	2	8	29	2	5	-	-	-	-	-	-									
+S. ATLANTIC	56	47	304	281	180	163	-	-	-	-	-	3									
+Del.	-	-	-	-	-	-	-	-	-	-	-	-									
+Md.	20	12	71	80	32	32	-	-	-	-	-	1									
+D.C.	2	-	11	11	5	3	-	-	-	-	-	-									
+Va.	5	6	21	42	13	17	-	-	-	-	-	2									
+W. Va.	1	2	1	-	-	1	-	-	-	-	-	-									
+N.C.	5	7	28	18	44	48	-	-	-	-	-	-									
+S.C.	2	-	3	7	19	-	-	-	-	-	-	-									
+Ga.	12	15	66	80	23	41	-	-	-	-	-	-									
+Fla.	9	5	103	43	44	21	-	-	-	-	-	-									
+E.S. CENTRAL	19	15	85	101	66	88	-	-	-	-	-	-									
+Ky.	2	4	6	3	7	5	U	-	U	-	-	-									
+Tenn.	12	6	56	52	44	65	-	-	-	-	-	-									
+Ala.	4	5	22	28	15	18	-	-	-	-	-	-									
+Miss.	1	-	1	18	-	-	U	-	U	-	-	-									
+W.S. CENTRAL	10	13	203	253	38	105	-	-	-	2	2	-									
+Ark.	-	-	8	7	8	21	-	-	-	-	-	-									
+La.	3	6	9	4	8	6	-	-	-	-	-	-									
+Okla.	5	5	71	90	14	7	-	-	-	-	-	-									
+Tex.	2	2	115	152	8	71	-	-	-	2	2	-									
+MOUNTAIN	30	40	294	649	92	149	-	1	-	-	1	-									
+Mont.	1	-	4	6	1	1	-	-	-	-	-	-									
+Idaho	1	-	8	43	4	5	-	-	-	-	-	-									
+Wyo.	1	-	1	10	-	1	-	-	-	-	-	-									
+Colo.	1	7	66	51	22	18	-	1	-	-	1	-									
+N. Mex.	7	-	6	36	34	53	-	-	-	-	-	-									
+Ariz.	15	21	166	415	13	37	-	-	-	-	-	-									
+Utah	4	2	14	37	8	16	-	-	-	-	-	-									
+Nev.	-	10	29	51	10	18	-	-	-	-	-	-									
+PACIFIC	19	27	876	1,058	325	323	-	7	-	-	7	-									
+Wash.	-	1	56	100	3	21	-	-	-	-	-	-									
+Oreg.	8	13	51	69	12	27	-	6	-	-	6	-									
+Calif.	10	10	766	872	304	268	-	1	-	-	1	-									
+Alaska	1	1	2	1	3	2	-	-	-	-	-	-									
+Hawaii	-	2	1	16	3	5	-	-	-	-	-	-									
+Guam	-	-	-	-	-	-	U	-	U	-	-	-									
+P.R.	-	1	13	7	15	109	-	-	-	-	-	-									
+V.I.	U	U	U	U	U	U	U	U	U	U	U	U									
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U	U	U									
+C.N.M.I.	-	-	-	-	-	16	U	-	U	-	-	-									
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 1998 and 1999 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

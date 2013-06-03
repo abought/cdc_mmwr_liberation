@@ -1,0 +1,106 @@
+
+TABLE IV.  Provisional cases of selected notifiable diseases, United States,  quarter ending June 28, 2008 (26 WEEK)
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+AIDS * current quarter
+AIDS * previous 4 quarters median 
+AIDS * previous 4 quarters maximum 
+AIDS * cummulative for 2008
+AIDS * cummulative for 2007
+HIV/AIDS * current quarter
+HIV/AIDS * previous 4 quarters median 
+HIV/AIDS * previous 4 quarters maximum 
+HIV/AIDS * cummulative for 2008
+HIV/AIDS * cummulative for 2007
+Tuberculosis current quarter
+Tuberculosis previous 4 quarters median 
+Tuberculosis previous 4 quarters maximum 
+Tuberculosis cummulative for 2008
+Tuberculosis cummulative for 2007
+
+tab delimited data:
+test
+UNITED STATES	-	-	-	-	-	-	-	-	-	-	2,056	2,056	3,930	4,117	5,617						
+NEW ENGLAND	-	-	-	-	-	-	-	-	-	-	37	36	41	73	105						
+Conn.	-	-	-	-	-	-	-	-	-	-	28	24	28	54	56						
+Maine	-	-	-	-	-	-	-	-	-	-	3	1	4	4	11						
+Mass.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+N.H.	-	-	-	-	-	-	-	-	-	-	-	-	4	3	5						
+R.I.	-	-	-	-	-	-	-	-	-	-	4	3	10	8	32						
+Vt.	-	-	-	-	-	-	-	-	-	-	2	1	2	4	1						
+MID. ATLANTIC	-	-	-	-	-	-	-	-	-	-	474	421	538	895	899						
+N.J.	-	-	-	-	-	-	-	-	-	-	91	69	152	160	203						
+N.Y. (Upstate)	-	-	-	-	-	-	-	-	-	-	60	47	98	114	116						
+N.Y. City	-	-	-	-	-	-	-	-	-	-	225	204	250	429	454						
+Pa.	-	-	-	-	-	-	-	-	-	-	98	72	98	192	126						
+E.N. CENTRAL	-	-	-	-	-	-	-	-	-	-	119	119	370	273	551						
+Ill.	-	-	-	-	-	-	-	-	-	-	16	16	172	71	224						
+Ind.	-	-	-	-	-	-	-	-	-	-	28	28	31	57	66						
+Mich.	-	-	-	-	-	-	-	-	-	-	1	1	78	10	113						
+Ohio	-	-	-	-	-	-	-	-	-	-	58	52	70	110	118						
+Wis.	-	-	-	-	-	-	-	-	-	-	16	9	21	25	30						
+W.N. CENTRAL	-	-	-	-	-	-	-	-	-	-	85	85	146	171	220						
+Iowa	-	-	-	-	-	-	-	-	-	-	6	6	15	21	16						
+Kans.	-	-	-	-	-	-	-	-	-	-	-	-	12	-	37						
+Minn.	-	-	-	-	-	-	-	-	-	-	43	34	73	77	97						
+Mo.	-	-	-	-	-	-	-	-	-	-	29	20	37	49	55						
+Nebr.	-	-	-	-	-	-	-	-	-	-	4	4	15	19	11						
+N. Dak.	-	-	-	-	-	-	-	-	-	-	-	-	7	-	-						
+S. Dak.	-	-	-	-	-	-	-	-	-	-	3	2	6	5	4						
+S. ATLANTIC	-	-	-	-	-	-	-	-	-	-	311	311	787	703	1,185						
+Del.	-	-	-	-	-	-	-	-	-	-	3	2	6	7	12						
+D.C.	-	-	-	-	-	-	-	-	-	-	15	13	18	28	25						
+Fla.	-	-	-	-	-	-	-	-	-	-	153	153	288	359	426						
+Ga.	-	-	-	-	-	-	-	-	-	-	17	17	79	96	247						
+Md.	-	-	-	-	-	-	-	-	-	-	58	49	73	107	130						
+N.C.	-	-	-	-	-	-	-	-	-	-	-	-	127	-	142						
+S.C.	-	-	-	-	-	-	-	-	-	-	-	-	83	-	95						
+Va.	-	-	-	-	-	-	-	-	-	-	60	33	125	93	98						
+W. Va.	-	-	-	-	-	-	-	-	-	-	5	5	8	13	10						
+E.S. CENTRAL	-	-	-	-	-	-	-	-	-	-	182	99	229	281	265						
+Ala.	-	-	-	-	-	-	-	-	-	-	40	33	50	73	79						
+Ky.	-	-	-	-	-	-	-	-	-	-	27	4	42	31	53						
+Miss.	-	-	-	-	-	-	-	-	-	-	30	17	49	47	47						
+Tenn.	-	-	-	-	-	-	-	-	-	-	85	45	88	130	86						
+W.S. CENTRAL	-	-	-	-	-	-	-	-	-	-	211	211	581	539	873						
+Ark.	-	-	-	-	-	-	-	-	-	-	22	8	31	30	56						
+La.	-	-	-	-	-	-	-	-	-	-	-	-	114	-	1						
+Okla.	-	-	-	-	-	-	-	-	-	-	16	16	44	39	79						
+Tex.	-	-	-	-	-	-	-	-	-	-	173	173	411	470	737						
+MOUNTAIN	-	-	-	-	-	-	-	-	-	-	88	80	221	168	204						
+Ariz.	-	-	-	-	-	-	-	-	-	-	43	43	155	98	84						
+Colo.	-	-	-	-	-	-	-	-	-	-	1	1	36	4	52						
+Idaho	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Mont.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Nev.	-	-	-	-	-	-	-	-	-	-	23	-	23	32	16						
+N. Mex.	-	-	-	-	-	-	-	-	-	-	16	4	17	26	30						
+Utah	-	-	-	-	-	-	-	-	-	-	5	3	13	8	22						
+Wyo.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+PACIFIC	-	-	-	-	-	-	-	-	-	-	549	465	1,017	1,014	1,315						
+Alaska	-	-	-	-	-	-	-	-	-	-	7	7	14	21	25						
+Calif.	-	-	-	-	-	-	-	-	-	-	504	429	890	933	1,097						
+Hawaii	-	-	-	-	-	-	-	-	-	-	30	22	36	52	58						
+Oreg.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Wash.	-	-	-	-	-	-	-	-	-	-	8	-	85	8	135						
+Amer. Samoa	U	-	-	U	U	-	-	-	-	-	-	-	-	-	3						
+C.N.M.I.	-	-	-	-	U	-	-	-	-	-	-	-	-	-	-						
+Guam	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+P.R.	-	-	-	-	-	-	-	-	-	-	16	8	35	24	34						
+V.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not notifiable.
+Cum: Cumulative year-to-date counts.
+Min: Minimum.
+Max: Maximum.
+
+* AIDS and HIV/AIDS data are not updated for this quarter because of upgrading of 
+the national HIV/AIDS surveillance data management system.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

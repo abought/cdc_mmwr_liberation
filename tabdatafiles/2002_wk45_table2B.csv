@@ -1,0 +1,96 @@
+
+TABLE II. (Part 2)  Provisional cases of selected notifiable diseases, United States, week ending November 9, 2002 (WEEK 45)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Escherichia coli, Enterohemorrhagic, shiga toxin positive, not serogrouped cummulative for 2002
+Escherichia coli, Enterohemorrhagic, shiga toxin positive, not serogrouped cummulative for 2001
+Giardiasis cummulative for 2002
+Gonorrhea cummulative for 2002
+Gonorrhea cummulative for 2001
+Haemophilus influenzae, Invasive, All ages, All serotypes cummulative for 2002
+Haemophilus influenzae, Invasive, All ages, All serotypes cummulative for 2001
+Haemophilus influenzae, Invasive, Age < 5 years, Serotype B cummulative for 2002
+Haemophilus influenzae, Invasive, Age < 5 years, Serotype B cummulative for 2001
+
+tab delimited data:
+test
+UNITED STATES	34	17	14,638	279,054	309,633	1,271	1,261	21	21												
+NEW ENGLAND	1	1	1,468	6,496	5,989	90	93	-	1												
+Maine	-	-	185	115	118	1	2	-	-												
+N.H.	-	-	40	114	160	8	4	-	-												
+Vt.	1	1	124	81	57	7	3	-	-												
+Mass.	-	-	738	2,871	2,766	49	40	-	1												
+R.I.	-	-	138	776	729	10	5	-	-												
+Conn.	-	-	243	2,539	2,159	15	39	-	-												
+MID. ATLANTIC	-	3	3,114	33,652	36,697	230	194	4	3												
+Upstate N.Y.	-	-	1,080	7,519	7,401	103	67	2	-												
+N.Y. City	-	-	1,108	9,677	10,834	54	50	-	-												
+N.J.	-	-	306	5,724	7,079	48	42	-	-												
+Pa.	-	3	620	10,732	11,383	25	35	2	3												
+E.N. CENTRAL	11	6	2,849	54,350	65,165	186	235	3	2												
+Ohio	10	6	835	13,948	18,408	71	62	-	1												
+Ind.	-	-	-	6,189	6,006	37	43	1	-												
+Ill.	-	-	672	16,731	20,674	57	86	-	-												
+Mich.	1	-	816	12,480	14,802	14	13	2	-												
+Wis.	-	-	526	5,002	5,275	7	31	-	1												
+W.N. CENTRAL	-	3	1,774	14,423	14,568	57	64	1	1												
+Minn.	-	-	697	2,514	2,268	42	36	1	-												
+Iowa	-	-	279	1,117	1,146	1	-	-	-												
+Mo.	N	N	421	7,566	7,551	10	16	-	-												
+N. Dak.	-	3	27	42	41	-	7	-	-												
+S. Dak.	-	-	66	232	244	-	-	-	-												
+Nebr.	-	-	133	713	1,035	1	3	-	1												
+Kans.	-	-	151	2,239	2,283	3	2	-	-												
+S. ATLANTIC	1	-	2,528	72,503	80,266	325	312	4	1												
+Del.	-	-	47	1,376	1,491	-	-	-	-												
+Md.	-	-	104	7,658	7,961	78	74	2	-												
+D.C.	-	-	41	2,387	2,510	-	-	-	-												
+Va.	-	-	271	8,053	9,437	29	27	-	-												
+W. Va.	1	-	50	812	613	15	14	-	1												
+N.C.	-	-	-	13,823	14,762	30	44	-	-												
+S.C.	-	-	118	6,304	9,487	12	5	-	-												
+Ga.	-	-	774	14,223	15,533	82	85	-	-												
+Fla.	-	-	1,123	17,867	18,472	79	63	2	-												
+E.S. CENTRAL	8	3	324	23,545	27,862	59	67	1	-												
+Ky.	8	3	-	3,287	3,116	4	2	-	-												
+Tenn.	-	-	153	8,191	8,483	30	37	-	-												
+Ala.	-	-	171	7,118	9,447	16	26	1	-												
+Miss.	-	-	-	4,949	6,816	9	2	-	-												
+W.S. CENTRAL	1	-	208	41,424	45,623	57	50	2	2												
+Ark.	-	-	143	3,861	3,965	2	1	-	-												
+La.	-	-	3	10,295	10,962	8	9	-	-												
+Okla.	-	-	62	4,088	4,167	42	38	-	-												
+Tex.	1	-	-	23,180	26,529	5	2	2	2												
+MOUNTAIN	12	1	1,458	8,759	8,999	151	128	3	7												
+Mont.	-	-	78	95	88	-	-	-	-												
+Idaho	-	-	115	81	69	2	2	-	-												
+Wyo.	-	-	29	55	72	1	1	-	-												
+Colo.	12	1	483	2,959	2,752	31	35	-	-												
+N. Mex.	-	-	135	1,204	877	25	21	-	1												
+Ariz.	-	-	189	3,220	3,417	63	52	1	4												
+Utah	-	-	292	227	163	17	6	1	-												
+Nev.	-	-	137	918	1,561	12	11	1	2												
+PACIFIC	-	-	915	23,902	24,464	116	118	3	4												
+Wash.	-	-	353	2,504	2,606	3	5	2	-												
+Oreg.	-	-	386	755	995	57	33	-	-												
+Calif.	-	-	-	19,526	19,953	22	52	1	4												
+Alaska	-	-	96	516	370	1	6	-	-												
+Hawaii	-	-	80	601	540	33	22	-	-												
+Guam	-	-	-	-	44	-	-	-	-												
+P.R.	-	-	38	292	521	1	1	-	-												
+V.I.	-	-	-	31	23	-	-	-	-												
+Amer. Samoa	U	U	U	U	U	U	U	U	U												
+C.N.M.I.	-	U	1	13	U	-	U	-	U												
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting year 2002 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

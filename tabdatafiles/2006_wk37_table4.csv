@@ -1,0 +1,115 @@
+
+TABLE IV.  Provisional cases of selected notifiable diseases, United States,  quarter ending July 1, 2006 (26 WEEK)
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+AIDS * current quarter
+AIDS * previous 4 quarters median 
+AIDS * previous 4 quarters maximum 
+AIDS * cummulative for 2006
+AIDS * cummulative for 2005
+HIV/AIDS * current quarter
+HIV/AIDS * previous 4 quarters median 
+HIV/AIDS * previous 4 quarters maximum 
+HIV/AIDS * cummulative for 2006
+HIV/AIDS * cummulative for 2005
+Tuberculosis current quarter
+Tuberculosis previous 4 quarters median 
+Tuberculosis previous 4 quarters maximum 
+Tuberculosis cummulative for 2006
+Tuberculosis cummulative for 2005
+
+tab delimited data:
+test
+UNITED STATES	10,200**	9,886	11,014	20,086	20,473	20,896**	14,939	20,896	35,835	31,669	2,478	2,478	3,589	4,967	6,234						
+NEW ENGLAND	319	273	451	592	743	904	385	904	1,289	2,471	74	61	167	135	181						
+Conn.	89	61	250	150	301	242	161	496	403	1,617	10	10	35	29	39						
+Maine†	31	3	31	54	11	449	3	449	472	15	3	3	5	6	8						
+Mass.†	160	121	181	281	341	170	128	188	298	369	53	32	113	85	102						
+N.H.	14	6	19	33	19	19	8	26	45	398	5	0	5	7	3						
+R.I.†	20	2	44	64	68	22	2	43	65	69	3	3	12	6	27						
+Vt.†	2	0	4	6	3	2	0	4	6	3	-	0	3	2	2						
+MID. ATLANTIC	3,144	1,223	3,144	4,367	4,250	3,890	2,551	4,347	6,441	6,281	501	467	605	968	981						
+N.J.	573	60	573	633	576	772	202	772	974	1,012	122	91	124	213	241						
+N.Y. (Upstate)	1,101	73	1,101	1,174	850	780	98	1,029	878	943	63	50	110	113	124						
+N.Y. City	901	901	1,319	1,813	2,173	1,420	1,356	1,740	2,776	3,374	259	223	269	501	492						
+Pa.	395	176	562	571	650	918	878	1,095	1,813	952	57	57	102	141	124						
+E.N. CENTRAL	948	892	1,189	1,840	1,879	2,936	1,221	2,936	4,157	2,461	282	219	371	501	636						
+Ill.†	453	241	525	694	945	2,078	272	2,078	2,350	978	120	91	153	211	300						
+Ind.	107	73	111	201	225	188	125	188	317	297	39	28	40	67	68						
+Mich.	163	118	382	361	322	229	90	483	473	489	44	30	93	74	102						
+Ohio	191	191	277	462	303	377	377	403	780	571	68	51	83	122	126						
+Wis.	34	5	88	122	83	64	4	173	237	126	11	11	19	27	40						
+W.N. CENTRAL	318	203	318	534	463	397	346	399	784	757	122	91	142	213	234						
+Iowa	23	19	23	42	50	23	21	50	55	56	5	5	19	14	23						
+Kans.	30	16	57	87	60	66	20	83	149	88	21	11	27	48	35						
+Minn.	48	48	69	117	123	110	90	116	226	189	60	34	60	94	90						
+Mo.	167	49	167	216	199	147	118	196	289	355	30	15	38	45	50						
+Nebr.	42	14	42	61	16	39	6	51	45	38	6	1	13	7	27						
+N. Dak.	2	0	4	2	5	2	1	2	3	6	-	0	4	-	2						
+S. Dak.	6	3	6	9	10	10	4	10	17	25	-	0	5	5	7						
+S. ATLANTIC	2,676	2,676	3,753	6,429	6,345	4,042	4,042	5,471	9,181	9,485	491	491	839	1,053	1,279						
+Del.†	38	29	43	67	98	43	34	46	77	99	5	3	7	8	16						
+D.C.†	187	6	267	454	466	195	9	273	468	490	19	10	19	37	28						
+Fla.	1,049	1,049	1,547	2,596	2,626	1,653	1,653	2,095	3,748	4,015	170	170	354	393	459						
+Ga.	381	381	695	848	1,049	847	847	2,228	1,716	2,156	40	40	132	161	286						
+Md.†	388	229	559	882	807	386	233	559	872	803	47	47	79	126	137						
+N.C.	230	113	554	784	522	356	356	890	1,246	903	88	57	126	145	101						
+S.C.	205	122	207	412	353	210	142	267	432	442	33	7	58	40	106						
+Va.	149	110	208	259	306	327	248	343	575	527	83	49	131	132	134						
+W. Va.	16	15	24	39	35	25	22	27	47	50	6	5	7	11	12						
+E.S. CENTRAL	398	398	488	848	1,065	704	686	779	1,432	1,582	126	126	211	252	358						
+Ala.	102	100	137	217	281	169	169	182	351	354	44	44	52	96	120						
+Ky.	51	51	69	104	128	145	145	190	295	359	23	13	43	36	56						
+Miss.	91	55	102	179	230	167	110	167	304	302	-	0	36	-	37						
+Tenn.	154	154	235	348	426	223	223	259	482	567	59	59	84	120	145						
+W.S. CENTRAL	1,143	904	1,333	2,047	2,160	1,797	1,775	2,122	3,576	3,718	214	214	455	648	885						
+Ark.	39	39	99	84	74	62	62	182	155	122	26	19	35	45	49						
+La.	223	81	320	304	433	337	214	337	551	624	-	0	0	-	-						
+Okla.	42	42	63	87	166	64	54	101	118	201	26	26	55	81	71						
+Tex.	839	663	963	1,572	1,487	1,334	1,263	1,588	2,752	2,771	162	162	392	522	765						
+MOUNTAIN	357	357	397	739	769	689	611	689	1,300	1,186	118	61	193	179	247						
+Ariz.	149	137	180	286	317	277	277	332	556	494	90	25	115	115	109						
+Colo.	85	85	111	196	160	151	113	151	264	250	2	2	34	16	40						
+Idaho	4	4	10	13	9	11	4	20	31	20	-	0	7	-	10						
+Mont.†	0	0	12	0	4	4	0	12	4	6	-	0	2	-	6						
+Nev.	77	60	80	157	176	159	90	159	277	256	5	5	32	13	56						
+N. Mex.	27	25	42	57	69	46	34	53	90	94	9	7	19	16	13						
+Utah	12	11	22	26	32	40	33	49	73	56	11	4	12	17	13						
+Wyo.	2	1	3	3	2	1	1	4	5	10	1	0	1	2	-						
+PACIFIC	688	688	1,571	2,259	2,260	4,483	1,177	4,483	5,964	2,149	550	468	851	1,018	1,433						
+Alaska	17	3	17	27	14	21	9	21	31	21	10	10	19	29	30						
+Calif.†	506	506	1,344	1,850	1,827	588	588	1,279	1,867	1,761	427	386	705	813	1,186						
+Hawaii†	22	19	30	47	60	24	19	29	50	61	43	18	43	61	55						
+Oreg.†	43	29	89	132	133	79	31	88	167	132	-	0	28	-	54						
+Wash.†	97	97	139	200	226	3,771	78	3,771	3,849	174	70	45	77	115	108						
+Amer. Samoa	U	0	0	U	U	-	0	0	-	-	U	0	2	U	U						
+C.N.M.I.	2	0	2	2	0	1	0	1	1	0	-	0	0	-	U						
+Guam	1	0	1	1	0	0	0	1	0	3	-	0	14	-	41						
+P.R.	196	196	280	415	529	513	478	755	1,006	1,344	62	17	62	79	53						
+V.I.	9	0	9	12	10	17	0	17	18	13	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not notifiable.
+Cum: Cumulative year-to-date counts.
+Min: Minimum.
+Max: Maximum.
+
+* AIDS and HIV/AIDS are not mutually exclusive. Persons with AIDS have met the case 
+definition for AIDS regardless of whether they received an HIV diagnosis before the 
+onset of AIDS.  HIV/AIDS includes persons with an HIV infection and includes persons 
+with a diagnosis of HIV infection only, a diagnosis of HIV and later developed AIDS, 
+or concurrent diagnoses of HIV and AIDS. Updated quarterly from reports to the 
+Division of HIV/AIDS Prevention, National Center for HIV, STD, and TB Prevention.
+
+** Total for the United States includes cases without a reported area of residence at diagnosis.
+
+† Methods other than confidential, name-based reporting for HIV diagnoses without 
+AIDS are used in these areas.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

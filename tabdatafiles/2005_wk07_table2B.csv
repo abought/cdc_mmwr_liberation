@@ -1,0 +1,97 @@
+
+TABLE II. (Part 2)  Provisional cases of selected notifiable diseases, United States, week ending February 19, 2005 (WEEK 07)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Escherichia coli, Enterohemorrhagic, (EHEC), 0157:H7 cummulative for 2005
+Escherichia coli, Enterohemorrhagic, (EHEC), 0157:H7 cummulative for 2004
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, serogroup non-0157 cummulative for 2005
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, serogroup non-0157 cummulative for 2004
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, not serogrouped cummulative for 2005
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, not serogrouped cummulative for 2004
+Giardiasis cummulative for 2005
+Giardiasis cummulative for 2004
+Gonorrhea cummulative for 2005
+Gonorrhea cummulative for 2004
+
+tab delimited data:
+test
+UNITED STATES	111	114	14	19	22	14	1,494	1,947	33,543	43,194											
+NEW ENGLAND	9	6	1	3	4	1	91	135	671	934											
+Maine	-	-	-	-	-	-	11	15	17	44											
+N.H.	-	1	-	-	-	-	4	3	18	16											
+Vt.	-	-	-	-	-	-	8	9	3	7											
+Mass.	3	1	-	2	4	1	67	88	387	386											
+R.I.	-	-	-	-	-	-	-	3	62	140											
+Conn.	6	4	1	1	-	-	1	17	184	341											
+MID. ATLANTIC	14	13	-	-	1	3	307	413	3,576	4,681											
+Upstate N.Y.	7	2	-	-	-	1	93	90	705	794											
+N.Y. City	1	5	-	-	-	-	79	152	980	1,542											
+N.J.	2	-	-	-	-	1	42	50	488	886											
+Pa.	4	6	-	-	1	1	93	121	1,403	1,459											
+E.N. CENTRAL	26	29	2	6	3	1	194	330	4,734	9,500											
+Ohio	12	11	-	-	2	1	75	110	853	3,267											
+Ind.	1	5	-	-	-	-	N	N	961	926											
+Ill.	2	3	1	-	-	-	11	114	1,747	2,640											
+Mich.	7	6	-	-	1	-	60	66	652	2,074											
+Wis.	4	4	1	6	-	-	48	40	521	593											
+W.N. CENTRAL	20	12	3	5	3	6	114	161	1,659	2,520											
+Minn.	3	6	-	1	-	-	3	45	264	622											
+Iowa	5	-	-	-	-	-	32	25	-	160											
+Mo.	8	3	2	4	1	1	40	63	961	1,147											
+N. Dak.	-	-	-	-	-	3	-	2	5	14											
+S. Dak.	2	-	-	-	-	-	3	4	43	26											
+Nebr.	1	1	1	-	1	-	17	10	106	173											
+Kans.	1	2	-	-	1	2	19	12	280	378											
+S. ATLANTIC	16	7	2	2	11	3	262	307	9,590	10,225											
+Del.	-	-	N	N	N	N	-	6	109	132											
+Md.	4	2	1	-	-	-	21	13	921	1,070											
+D.C.	-	-	-	-	-	-	4	11	288	297											
+Va.	-	-	-	1	2	-	58	34	1,241	1,283											
+W. Va.	-	-	-	-	-	-	3	1	93	108											
+N.C.	-	-	-	-	7	3	N	N	2,417	2,104											
+S.C.	-	-	-	-	-	-	5	2	1,306	1,142											
+Ga.	3	2	-	-	-	-	69	106	772	2,016											
+Fla.	9	3	1	1	2	-	102	134	2,443	2,073											
+E.S. CENTRAL	4	4	-	-	-	-	41	31	2,540	3,438											
+Ky.	-	1	-	-	-	-	N	N	551	372											
+Tenn.	1	1	-	-	-	-	15	12	934	1,152											
+Ala.	3	1	-	-	-	-	26	19	210	1,100											
+Miss.	-	1	-	-	-	-	-	-	845	814											
+W.S. CENTRAL	2	9	-	-	-	-	27	36	5,540	5,794											
+Ark.	1	-	-	-	-	-	12	17	584	449											
+La.	-	-	-	-	-	-	4	7	643	1,846											
+Okla.	1	3	-	-	-	-	11	12	593	554											
+Tex.	-	6	-	-	-	-	N	N	3,720	2,945											
+MOUNTAIN	6	12	6	2	-	-	128	190	1,397	1,687											
+Mont.	1	1	-	-	-	-	6	5	4	8											
+Idaho	1	2	4	-	-	-	14	28	12	10											
+Wyo.	-	-	1	-	-	-	1	1	8	6											
+Colo.	1	2	1	1	-	-	43	67	359	417											
+N. Mex.	-	1	-	-	-	-	5	7	64	127											
+Ariz.	2	2	N	N	N	N	36	34	632	748											
+Utah	1	2	-	-	-	-	19	32	56	43											
+Nev.	-	2	-	1	-	-	4	16	262	328											
+PACIFIC	14	22	-	1	-	-	330	344	3,836	4,415											
+Wash.	5	4	-	-	-	-	14	25	453	382											
+Oreg.	-	2	-	1	-	-	37	62	195	126											
+Calif.	6	13	-	-	-	-	260	245	3,044	3,645											
+Alaska	1	-	-	-	-	-	5	6	60	70											
+Hawaii	2	3	-	-	-	-	14	6	84	192											
+Guam	N	N	-	-	-	-	-	-	-	30											
+P.R.	-	-	-	-	-	-	-	2	37	17											
+V.I.	-	-	-	-	-	-	-	-	-	21											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2004 and 2005 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

@@ -1,0 +1,101 @@
+
+TABLE II. (Part 9)  Provisional cases of selected notifiable diseases, United States, week ending January 29, 2005 (WEEK 04)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Tuberculosis cummulative for 2005
+Tuberculosis cummulative for 2004
+Typhoid Fever cummulative for 2005
+Typhoid Fever cummulative for 2004
+Varicella (Chicken Pox) cummulative for 2005
+Varicella (Chicken Pox) cummulative for 2004
+West Nile virus disease § Neuroinvasive cummulative for 2005
+West Nile virus disease § Neuroinvasive cummulative for 2004
+West Nile virus disease § Non-neuroinvasive † cummulative for 2005
+
+tab delimited data:
+test
+UNITED STATES	220	600	10	20	974	1,287	-	1	-												
+NEW ENGLAND	3	10	-	2	36	89	-	-	-												
+Maine	-	-	-	-	34	5	-	-	-												
+N.H.	1	-	-	-	-	-	-	-	-												
+Vt.	-	-	-	-	1	84	-	-	-												
+Mass.	2	3	-	2	1	-	-	-	-												
+R.I.	-	3	-	-	-	-	-	-	-												
+Conn.	-	4	-	-	-	-	-	-	-												
+MID. ATLANTIC	86	94	2	6	54	4	-	-	-												
+Upstate N.Y.	2	2	-	-	-	-	-	-	-												
+N.Y. City	53	81	-	2	-	-	-	-	-												
+N.J.	16	11	1	3	-	-	-	-	-												
+Pa.	15	-	1	1	54	4	-	-	-												
+E.N. CENTRAL	56	45	-	2	502	627	-	-	-												
+Ohio	13	8	-	1	106	199	-	-	-												
+Ind.	5	13	-	-	N	N	-	-	-												
+Ill.	33	19	-	-	-	-	-	-	-												
+Mich.	-	-	-	1	383	368	-	-	-												
+Wis.	5	5	-	-	13	60	-	-	-												
+W.N. CENTRAL	11	11	-	-	6	15	-	-	-												
+Minn.	2	8	-	-	-	-	-	-	-												
+Iowa	-	-	-	-	N	N	-	-	-												
+Mo.	8	2	-	-	-	-	-	-	-												
+N. Dak.	-	-	-	-	-	7	-	-	-												
+S. Dak.	-	-	-	-	6	8	-	-	-												
+Nebr.	1	-	-	-	-	-	-	-	-												
+Kans.	-	1	-	-	-	-	-	-	N												
+S. ATLANTIC	11	135	3	-	114	154	-	-	-												
+Del.	-	2	-	-	-	-	-	-	-												
+Md.	-	4	1	-	-	-	-	-	-												
+D.C.	-	-	-	-	-	2	-	-	-												
+Va.	-	-	-	-	-	-	-	-	-												
+W. Va.	4	1	-	-	111	144	-	-	N												
+N.C.	-	-	1	-	-	N	-	-	-												
+S.C.	7	1	-	-	3	8	-	-	-												
+Ga.	-	55	-	-	-	-	-	-	-												
+Fla.	-	72	1	-	-	-	-	-	-												
+E.S. CENTRAL	-	20	-	-	-	-	-	-	-												
+Ky.	-	-	-	-	N	N	-	-	-												
+Tenn.	-	7	-	-	-	-	-	-	-												
+Ala.	-	11	-	-	-	-	-	-	-												
+Miss.	-	2	-	-	-	-	-	-	-												
+W.S. CENTRAL	10	146	-	4	53	314	-	1	-												
+Ark.	5	2	-	-	-	-	-	1	-												
+La.	-	-	-	-	2	2	-	-	-												
+Okla.	5	4	-	-	-	-	-	-	-												
+Tex.	-	140	-	4	51	312	-	-	-												
+MOUNTAIN	3	10	-	2	209	84	-	-	-												
+Mont.	-	-	-	-	-	-	-	-	-												
+Idaho	-	-	-	-	-	-	-	-	-												
+Wyo.	-	-	-	-	10	9	-	-	-												
+Colo.	-	4	-	-	160	9	-	-	-												
+N. Mex.	-	1	-	-	4	6	-	-	-												
+Ariz.	2	1	-	-	-	-	-	-	-												
+Utah	1	4	-	1	35	60	-	-	-												
+Nev.	-	-	-	1	-	-	-	-	-												
+PACIFIC	40	129	5	4	-	-	-	-	-												
+Wash.	15	15	-	-	N	N	-	-	-												
+Oreg.	3	6	1	-	-	-	-	-	-												
+Calif.	9	101	3	3	-	-	-	-	-												
+Alaska	-	1	-	-	-	-	-	-	-												
+Hawaii	13	6	1	1	-	-	-	-	-												
+Guam	-	6	-	-	-	13	-	-	-												
+P.R.	-	-	-	-	4	27	-	-	-												
+V.I.	-	-	-	-	-	-	-	-	-												
+Amer. Samoa	U	U	U	U	U	U	U	U	-												
+C.N.M.I.	-	U	-	U	-	U	-	U	-												
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2004 and 2005 are provisional and cumulative (year-to-date).
+
+§ Updated weekly from reports to the Division of Vector-Borne Infectious Diseases, National Center for Infectious Diseases 
+(ArboNet Surveillance).
+
+† Not previously notifiable.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

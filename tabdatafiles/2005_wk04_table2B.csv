@@ -1,0 +1,97 @@
+
+TABLE II. (Part 2)  Provisional cases of selected notifiable diseases, United States, week ending January 29, 2005 (WEEK 04)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Escherichia coli, Enterohemorrhagic, (EHEC), 0157:H7 cummulative for 2005
+Escherichia coli, Enterohemorrhagic, (EHEC), 0157:H7 cummulative for 2004
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, serogroup non-0157 cummulative for 2005
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, serogroup non-0157 cummulative for 2004
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, not serogrouped cummulative for 2005
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, not serogrouped cummulative for 2004
+Giardiasis cummulative for 2005
+Giardiasis cummulative for 2004
+Gonorrhea cummulative for 2005
+Gonorrhea cummulative for 2004
+
+tab delimited data:
+test
+UNITED STATES	45	78	3	11	11	8	708	1,039	16,930	23,812											
+NEW ENGLAND	3	3	-	3	2	-	54	73	426	556											
+Maine	-	-	-	-	-	-	5	10	9	19											
+N.H.	-	-	-	-	-	-	-	2	12	9											
+Vt.	-	-	-	-	-	-	4	4	3	4											
+Mass.	2	-	-	2	2	-	44	57	222	248											
+R.I.	-	-	-	-	-	-	-	-	34	74											
+Conn.	1	3	-	1	-	-	1	-	146	202											
+MID. ATLANTIC	3	8	-	-	-	1	128	223	1,844	2,436											
+Upstate N.Y.	1	1	-	-	-	-	31	32	312	270											
+N.Y. City	-	3	-	-	-	-	25	83	569	837											
+N.J.	-	-	-	-	-	1	25	29	268	509											
+Pa.	2	4	-	-	-	-	47	79	695	820											
+E.N. CENTRAL	10	21	1	4	3	1	73	185	1,850	4,672											
+Ohio	6	8	-	-	2	1	42	67	26	1,621											
+Ind.	-	3	-	-	-	-	N	N	640	483											
+Ill.	-	2	-	-	-	-	-	51	836	1,478											
+Mich.	3	5	-	-	1	-	21	45	168	786											
+Wis.	1	3	1	4	-	-	10	22	180	304											
+W.N. CENTRAL	8	9	-	2	1	5	49	78	312	1,470											
+Minn.	-	5	-	-	-	-	-	14	25	395											
+Iowa	4	-	-	-	-	-	18	17	-	87											
+Mo.	2	3	-	2	1	-	15	31	138	635											
+N. Dak.	-	-	-	-	-	3	-	1	1	8											
+S. Dak.	2	-	-	-	-	-	1	2	28	20											
+Nebr.	-	-	-	-	-	-	8	4	-	105											
+Kans.	-	1	-	-	-	2	7	9	120	220											
+S. ATLANTIC	9	5	-	1	5	1	124	156	5,608	5,505											
+Del.	-	-	N	N	N	N	-	1	56	69											
+Md.	3	1	-	-	-	-	13	7	554	637											
+D.C.	-	-	-	-	-	-	-	3	107	173											
+Va.	-	-	-	-	1	-	15	8	763	708											
+W. Va.	-	-	-	-	-	-	-	1	47	65											
+N.C.	-	-	-	-	4	1	N	N	1,593	1,144											
+S.C.	-	-	-	-	-	-	3	-	661	391											
+Ga.	2	1	-	-	-	-	41	64	539	1,206											
+Fla.	4	3	-	1	-	-	52	72	1,288	1,112											
+E.S. CENTRAL	2	2	-	-	-	-	16	21	1,252	1,947											
+Ky.	-	-	-	-	-	-	N	N	223	218											
+Tenn.	1	-	-	-	-	-	2	8	431	694											
+Ala.	1	1	-	-	-	-	14	13	99	618											
+Miss.	-	1	-	-	-	-	-	-	499	417											
+W.S. CENTRAL	1	5	-	-	-	-	9	17	2,963	3,654											
+Ark.	1	-	-	-	-	-	3	8	364	244											
+La.	-	-	-	-	-	-	-	5	350	1,266											
+Okla.	-	-	-	-	-	-	6	4	395	336											
+Tex.	-	5	-	-	-	-	N	N	1,854	1,808											
+MOUNTAIN	1	8	2	-	-	-	65	92	753	1,035											
+Mont.	-	1	-	-	-	-	4	1	1	8											
+Idaho	1	1	-	-	-	-	10	17	5	3											
+Wyo.	-	-	1	-	-	-	1	-	5	3											
+Colo.	-	1	1	-	-	-	22	48	162	276											
+N. Mex.	-	-	-	-	-	-	2	3	12	78											
+Ariz.	-	1	N	N	N	N	15	-	340	432											
+Utah	-	2	-	-	-	-	8	18	36	23											
+Nev.	-	2	-	-	-	-	3	5	192	212											
+PACIFIC	8	17	-	1	-	-	190	194	1,922	2,537											
+Wash.	2	2	-	-	-	-	6	4	233	229											
+Oreg.	-	2	-	1	-	-	15	34	92	65											
+Calif.	4	10	-	-	-	-	158	152	1,539	2,089											
+Alaska	1	-	-	-	-	-	3	2	33	35											
+Hawaii	1	3	-	-	-	-	8	2	25	119											
+Guam	N	N	-	-	-	-	-	-	-	19											
+P.R.	-	-	-	-	-	-	-	-	17	9											
+V.I.	-	-	-	-	-	-	-	-	-	14											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2004 and 2005 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

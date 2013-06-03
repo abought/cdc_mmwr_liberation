@@ -1,0 +1,108 @@
+
+TABLE II. (Part 5)  Provisional cases of selected notifiable diseases, United States, week ending April 28, 2012 (WEEK 17)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Hepatitis (Viral Acute), Type A current week
+Hepatitis (Viral Acute), Type A previous 52 weeks median 
+Hepatitis (Viral Acute), Type A previous 52 weeks maximum 
+Hepatitis (Viral Acute), Type A cummulative for 2012
+Hepatitis (Viral Acute), Type A cummulative for 2011
+Hepatitis (Viral Acute), Type B current week
+Hepatitis (Viral Acute), Type B previous 52 weeks median 
+Hepatitis (Viral Acute), Type B previous 52 weeks maximum 
+Hepatitis (Viral Acute), Type B cummulative for 2012
+Hepatitis (Viral Acute), Type B cummulative for 2011
+Hepatitis (Viral Acute), Type C current week
+Hepatitis (Viral Acute), Type C previous 52 weeks median 
+Hepatitis (Viral Acute), Type C previous 52 weeks maximum 
+Hepatitis (Viral Acute), Type C cummulative for 2012
+Hepatitis (Viral Acute), Type C cummulative for 2011
+
+tab delimited data:
+test
+UNITED STATES	10	26	44	355	387	83	50	107	792	886	10	22	51	319	365						
+NEW ENGLAND	-	1	5	16	20	73	1	5	92	35	-	1	5	14	29						
+Conn.	-	0	3	4	5	73	0	2	78	8	-	0	4	9	20						
+Maine	-	0	2	4	1	-	0	2	5	4	-	0	3	-	3						
+Mass.	-	0	3	4	10	-	0	4	7	22	-	0	2	2	3						
+N.H.	-	0	1	4	-	-	0	1	2	1	N	0	0	N	N						
+R.I.	-	0	1	-	2	U	0	0	U	U	U	0	0	U	U						
+Vt.	-	0	2	-	2	-	0	0	-	-	-	0	2	3	3						
+MID. ATLANTIC	4	4	8	55	68	1	5	11	71	107	5	2	7	45	33						
+N.J.	-	0	3	3	12	-	2	4	23	22	-	0	2	5	3						
+N.Y. (Upstate)	3	1	4	23	12	1	1	4	17	14	3	1	5	21	15						
+N.Y. City	-	1	4	13	25	-	1	5	17	41	-	0	1	2	5						
+Pa.	1	1	5	16	19	-	1	4	14	30	2	0	4	17	10						
+E.N. CENTRAL	-	4	9	50	69	1	5	36	91	121	-	3	9	46	69						
+Ill.	-	1	5	18	17	-	1	3	1	34	-	0	2	1	2						
+Ind.	-	0	2	2	8	-	1	5	14	19	-	1	7	11	39						
+Mich.	-	1	6	21	23	-	1	5	22	35	-	2	5	31	17						
+Ohio	-	0	2	4	18	1	2	30	50	27	-	0	2	3	2						
+Wis.	-	0	1	5	3	-	0	3	4	6	-	0	1	-	9						
+W.N. CENTRAL	1	1	7	18	15	1	2	9	31	31	1	0	4	5	6						
+Iowa	-	0	1	-	1	-	0	1	1	5	-	0	0	-	-						
+Kans.	-	0	1	1	2	-	0	2	-	4	-	0	1	1	-						
+Minn.	-	0	7	-	2	-	0	7	-	1	-	0	2	-	-						
+Mo.	-	0	3	10	5	1	1	4	26	15	1	0	1	2	6						
+Nebr.	1	0	2	7	3	-	0	2	4	5	-	0	1	2	-						
+N. Dak.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+S. Dak.	-	0	0	-	2	-	0	1	-	1	-	0	0	-	-						
+S. ATLANTIC	3	4	11	62	81	2	13	58	206	226	-	5	14	80	83						
+Del.	-	0	1	2	1	-	0	2	4	-	U	0	0	U	U						
+D.C.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+Fla.	-	1	8	22	25	-	4	7	67	66	-	1	5	30	17						
+Ga.	2	1	4	13	25	-	3	8	35	51	-	1	3	5	23						
+Md.	-	0	4	6	9	1	1	5	22	21	-	0	3	8	12						
+N.C.	1	0	3	6	7	1	1	8	24	48	-	1	7	16	16						
+S.C.	-	0	2	2	3	-	1	3	9	13	-	0	1	-	-						
+Va.	-	0	3	10	7	-	1	5	15	27	-	0	3	8	6						
+W. Va.	-	0	2	1	4	-	0	43	30	-	-	0	7	13	9						
+E.S. CENTRAL	-	1	6	13	8	4	11	21	171	158	1	5	10	63	64						
+Ala.	-	0	2	4	-	-	2	6	25	34	1	0	3	8	3						
+Ky.	-	0	2	1	3	4	3	10	57	54	-	2	8	26	36						
+Miss.	-	0	1	1	2	-	1	5	19	14	U	0	0	U	U						
+Tenn.	-	0	5	7	3	-	4	10	70	56	-	2	6	29	25						
+W.S. CENTRAL	2	3	7	48	23	1	6	17	67	97	2	1	5	15	29						
+Ark.	-	0	2	2	-	-	1	3	12	17	-	0	0	-	-						
+La.	-	0	2	-	1	-	0	2	13	18	-	0	1	-	4						
+Okla.	-	0	2	-	1	-	1	9	6	16	-	0	4	1	16						
+Tex.	2	3	7	46	21	1	3	14	36	46	2	0	4	14	9						
+MOUNTAIN	-	2	6	31	39	-	1	4	16	34	1	1	5	18	31						
+Ariz.	-	1	6	11	19	-	0	1	3	7	U	0	0	U	U						
+Colo.	-	0	2	8	8	-	0	2	-	8	-	0	1	-	9						
+Idaho	-	0	1	5	3	-	0	0	-	2	-	0	2	5	7						
+Mont.	-	0	1	2	3	-	0	0	-	-	-	0	4	1	1						
+Nev.	-	0	3	3	1	-	0	3	13	12	1	0	2	7	5						
+N. Mex.	-	0	1	1	3	-	0	2	-	2	-	0	2	1	3						
+Utah	-	0	1	1	1	-	0	1	-	3	-	0	2	4	5						
+Wyo.	-	0	1	-	1	-	0	0	-	-	-	0	1	-	1						
+PACIFIC	-	4	12	62	64	-	3	11	47	77	-	2	13	33	21						
+Alaska	-	0	1	1	1	-	0	2	3	2	U	0	0	U	U						
+Calif.	-	3	9	46	51	-	2	6	26	55	-	1	5	18	9						
+Hawaii	-	0	2	3	4	-	0	1	3	4	U	0	0	U	U						
+Oreg.	-	0	2	3	1	-	0	4	8	10	-	0	2	10	6						
+Wash.	-	0	4	9	7	-	0	5	7	6	-	0	12	5	6						
+Amer. Samoa	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	-	-	-	8	-	-	-	-	28	-	-	-	-	10						
+P.R.	-	0	3	-	11	-	0	3	3	6	N	0	0	N	N						
+V.I.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Case counts for reporting years 2011 and 2012 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+Data for TB are displayed in Table IV, which appears quarterly.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

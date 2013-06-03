@@ -1,0 +1,97 @@
+
+TABLE II. (Part 6)  Provisional cases of selected notifiable diseases, United States, week ending March 6, 2004 (WEEK 09)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Salmonellosis cummulative for 2004
+Salmonellosis cummulative for 2003
+Shigellosis cummulative for 2004
+Shigellosis cummulative for 2003
+Streptococcal Disease, Invasive, Group A cummulative for 2004
+Streptococcal Disease, Invasive, Group A cummulative for 2003
+Streptococcus pneumoniae, Drug Resistant, Invasive, All Ages cummulative for 2004
+Streptococcus pneumoniae, Drug Resistant, Invasive, All Ages cummulative for 2003
+Streptococcus pneumoniae, Invasive Disease, Age < 5 Years cummulative for 2004
+Streptococcus pneumoniae, Invasive Disease, Age < 5 Years cummulative for 2003
+
+tab delimited data:
+test
+UNITED STATES	3,784	8,411	1,552	5,518	838	1,372	513	1,031	66	86											
+NEW ENGLAND	169	171	38	59	36	97	1	25	1	1											
+Maine	8	8	-	3	1	3	-	-	-	-											
+N.H.	8	11	2	-	5	7	-	-	N	N											
+Vt.	5	4	-	1	-	4	-	3	-	1											
+Mass.	102	109	28	39	28	50	N	N	N	N											
+R.I.	7	6	-	2	2	-	1	-	1	-											
+Conn.	39	33	8	14	-	33	-	22	U	U											
+MID. ATLANTIC	434	534	155	289	114	211	27	23	14	16											
+Upstate N.Y.	92	58	66	34	49	58	12	10	8	14											
+N.Y. City	112	173	37	72	5	32	U	U	U	U											
+N.J.	88	115	26	74	19	53	N	N	N	N											
+Pa.	142	188	26	109	41	68	15	13	6	2											
+E.N. CENTRAL	515	619	136	246	128	287	116	82	27	49											
+Ohio	158	185	38	48	54	72	93	71	19	32											
+Ind.	38	27	10	9	6	11	23	11	7	2											
+Ill.	135	237	49	129	5	79	-	-	-	-											
+Mich.	103	82	24	35	60	82	N	N	N	N											
+Wis.	81	88	15	25	3	43	N	N	1	15											
+W.N. CENTRAL	220	230	52	125	73	69	42	59	7	10											
+Minn.	49	62	11	11	36	24	-	-	7	8											
+Iowa	42	56	3	3	N	N	N	N	N	N											
+Mo.	63	57	18	49	11	21	2	3	-	-											
+N. Dak.	5	4	1	-	3	3	-	2	-	2											
+S. Dak.	11	11	1	8	5	7	-	-	-	-											
+Nebr.	17	14	2	41	3	7	-	-	N	N											
+Kans.	33	26	16	13	15	7	40	54	N	N											
+S. ATLANTIC	1,012	5,231	492	3,480	245	361	271	787	2	2											
+Del.	5	8	2	67	-	2	1	-	N	N											
+Md.	65	101	21	113	47	47	-	1	-	-											
+D.C.	4	-	8	-	2	-	-	-	2	-											
+Va.	105	60	18	39	8	8	N	N	N	N											
+W. Va.	6	3	-	-	6	1	8	10	-	2											
+N.C.	137	195	89	143	21	20	N	N	U	U											
+S.C.	57	61	15	22	1	4	17	37	N	N											
+Ga.	203	134	103	247	111	48	121	128	N	N											
+Fla.	430	4,669	236	2,849	49	231	124	611	N	N											
+E.S. CENTRAL	190	272	76	145	42	26	31	21	-	-											
+Ky.	26	44	8	23	20	5	8	1	N	N											
+Tenn.	61	91	38	40	22	21	23	20	N	N											
+Ala.	60	88	15	56	-	-	-	-	N	N											
+Miss.	43	49	15	26	-	-	-	-	-	-											
+W.S. CENTRAL	221	374	193	537	30	104	17	27	14	7											
+Ark.	33	48	11	4	2	2	3	7	1	2											
+La.	21	55	16	63	-	1	14	20	2	3											
+Okla.	36	30	63	101	13	16	N	N	8	2											
+Tex.	131	241	103	369	15	85	N	N	3	-											
+MOUNTAIN	395	286	200	189	68	119	8	6	1	1											
+Mont.	11	14	3	-	-	-	-	-	-	-											
+Idaho	28	17	-	2	1	5	N	N	N	N											
+Wyo.	5	3	1	1	3	-	4	-	-	-											
+Colo.	87	80	37	26	38	27	-	-	-	-											
+N. Mex.	22	25	24	33	14	32	3	6	-	-											
+Ariz.	191	108	117	118	4	53	-	-	N	N											
+Utah	30	20	8	4	8	2	-	-	1	1											
+Nev.	21	19	10	5	-	-	1	-	-	-											
+PACIFIC	628	694	210	448	102	98	-	1	-	-											
+Wash.	47	47	11	16	-	-	-	-	N	N											
+Oreg.	46	41	10	10	N	N	N	N	N	N											
+Calif.	470	566	181	413	78	81	N	N	N	N											
+Alaska	18	17	-	2	-	-	-	-	N	N											
+Hawaii	47	23	8	7	24	17	-	1	-	-											
+Guam	-	-	-	-	-	-	-	-	-	-											
+P.R.	9	68	1	2	N	N	N	N	N	N											
+V.I.	-	-	-	-	-	-	-	-	-	-											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	3	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2003 and 2004 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

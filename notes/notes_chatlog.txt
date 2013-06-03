@@ -1,0 +1,25 @@
+[16:03] == abought [442a4d89@gateway/web/freenode/ip.68.42.77.137] has joined #a2hack
+[16:04] <jasonh> CHECK OUT THIS LIST OF ALL TABLES... https://tools.cdc.gov/syndication/pages.aspx
+[16:09] == jasonh [442a4d89@gateway/web/freenode/ip.68.42.77.137] has quit [Ping timeout: 250 seconds]
+[16:13] <abought> Download link for text file http://wonder.cdc.gov/mmwr/mmwr_reps_export.asp?mmwr_year=2013&mmwr_week=21&mmwr_table=2I&request=Export&mmwr_location=
+[16:13] <abought> Link sourced from http://wonder.cdc.gov/mmwr/mmwrmorb2.asp?mmwr_year=2013&mmwr_week=21
+[16:13] <abought> CSV file has spedcific text indicating start of column headers, and specific text indicating start of data
+[16:27] == jasonh [442a4d89@gateway/web/freenode/ip.68.42.77.137] has joined #a2hack
+[16:29] <@mandarg> http://wonder.cdc.gov/mmwr/mmwr_reps_export.asp?mmwr_year=2013&mmwr_week=21&mmwr_table=2I&request=Export is the URL for the exported text file
+[16:30] <@mandarg> currently finding it difficult to get this using wget
+[16:30] <@mandarg> maybe curl or something with setting the Accept header explicitly will work
+[16:35] == mandarg [442a4d89@gateway/web/freenode/ip.68.42.77.137] has quit [Ping timeout: 250 seconds]
+[16:54] == jasonh [442a4d89@gateway/web/freenode/ip.68.42.77.137] has quit [Ping timeout: 250 seconds]
+[17:02] == erikvolz [442a4d89@gateway/web/freenode/ip.68.42.77.137] has joined #a2hack
+[17:02] == mvolz [442a4d89@gateway/web/freenode/ip.68.42.77.137] has joined #a2hack
+[17:13] == mvolz [442a4d89@gateway/web/freenode/ip.68.42.77.137] has quit [Ping timeout: 250 seconds]
+[17:17] <erikvolz> http://wwwn.cdc.gov/NNDSS/script/SearchResults.aspx?Searchfor=
+[17:23] <erikvolz> for 2006 and onwards, you can pull out "Current week" for "Syphillis, primary & secondary"
+[17:23] == jhejna [442a4d89@gateway/web/freenode/ip.68.42.77.137] has joined #a2hack
+[17:23] <erikvolz> this will probably always appear in table II part 8
+[17:23] <abought> http://wonder.cdc.gov/mmwr/mmwrmorb2.asp?mmwr_year=2013&mmwr_week=21
+[17:24] <erikvolz> mmwr_table=2H
+[17:24] <abought> That link was used to get a tab delimited file (download location via firefox), yet yields HTML when passed to wget/curl
+[17:35] <erikvolz> Streptococcus pneumoniae data might look interesting
+[17:37] <erikvolz> and/or pertussis. in both cases, vaccines have been introduced recently, and they should both have seasonal trends
+[17:48] == erikvolz [442a4d89@gateway/web/freenode/ip.68.42.77.137] has quit [Ping timeout: 250 seconds]

@@ -1,0 +1,110 @@
+
+TABLE II. (Part 8)  Provisional cases of selected notifiable diseases, United States, week ending August 18, 2012 (WEEK 33)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Rabies, animal current week
+Rabies, animal previous 52 weeks median 
+Rabies, animal previous 52 weeks maximum 
+Rabies, animal cummulative for 2012
+Rabies, animal cummulative for 2011
+Salmonellosis current week
+Salmonellosis previous 52 weeks median 
+Salmonellosis previous 52 weeks maximum 
+Salmonellosis cummulative for 2012
+Salmonellosis cummulative for 2011
+Shiga toxin-producing E. coli(STEC)† current week
+Shiga toxin-producing E. coli(STEC)† previous 52 weeks median 
+Shiga toxin-producing E. coli(STEC)† previous 52 weeks maximum 
+Shiga toxin-producing E. coli(STEC)† cummulative for 2012
+Shiga toxin-producing E. coli(STEC)† cummulative for 2011
+
+tab delimited data:
+test
+UNITED STATES	70	66	133	2,005	2,773	711	911	1,692	24,529	29,451	74	99	243	2,689	3,558						
+NEW ENGLAND	10	7	14	239	209	7	37	80	1,164	1,430	2	3	12	110	139						
+Conn.	6	3	10	116	122	-	7	15	267	338	-	1	5	29	38						
+Maine	1	1	6	60	40	2	3	9	95	86	-	0	2	5	21						
+Mass.	-	0	0	-	-	-	17	49	615	707	-	1	7	50	51						
+N.H.	2	0	3	19	16	-	2	6	77	123	1	0	4	14	16						
+R.I.	-	0	6	16	15	5	2	12	60	132	-	0	2	1	4						
+Vt.	1	1	4	28	16	-	1	8	50	44	1	0	3	11	9						
+MID. ATLANTIC	20	12	36	322	514	78	91	207	2,738	3,571	16	10	30	292	411						
+N.J.	-	0	0	-	-	-	16	36	418	800	-	2	8	37	95						
+N.Y. (Upstate)	20	7	20	278	220	43	25	67	773	810	13	3	13	113	126						
+N.Y. City	-	0	1	-	9	10	19	41	642	710	-	1	5	46	57						
+Pa.	-	4	15	44	285	25	28	66	905	1,251	3	3	14	96	133						
+E.N. CENTRAL	12	3	20	106	113	45	80	186	2,658	3,279	16	13	46	384	618						
+Ill.	5	1	6	49	30	-	27	68	895	1,117	-	2	10	62	154						
+Ind.	-	0	7	5	17	-	13	36	354	392	-	2	8	64	91						
+Mich.	-	0	6	29	40	5	16	42	476	505	1	3	11	89	95						
+Ohio	7	0	6	23	26	40	22	53	809	737	15	3	20	124	103						
+Wis.	N	0	0	N	N	-	5	25	124	528	-	2	22	45	175						
+W.N. CENTRAL	-	3	15	99	113	31	51	113	1,584	1,850	8	16	44	426	619						
+Iowa	-	0	4	13	15	3	8	30	351	297	-	2	12	91	139						
+Kans.	-	1	4	44	21	1	9	27	285	255	-	2	8	46	62						
+Minn.	-	0	6	-	32	-	0	26	-	472	-	0	17	-	175						
+Mo.	-	0	3	22	16	26	16	42	649	535	7	5	31	198	141						
+Nebr.	-	0	3	-	21	1	4	15	181	151	1	1	8	53	72						
+N. Dak.	-	0	13	20	8	-	0	19	25	22	-	0	4	14	4						
+S. Dak.	-	0	0	-	-	-	2	9	93	118	-	1	3	24	26						
+S. ATLANTIC	16	18	45	611	776	309	237	643	6,753	7,917	6	11	31	322	377						
+Del.	-	0	0	-	-	1	2	11	86	115	-	0	2	8	12						
+D.C.	-	0	0	-	-	-	1	7	23	48	-	0	1	4	3						
+Fla.	-	0	34	64	120	171	110	201	3,014	2,980	4	3	11	138	73						
+Ga.	-	0	0	-	-	-	24	101	480	1,520	-	1	6	36	79						
+Md.	-	5	16	177	208	18	17	45	523	594	1	1	4	39	40						
+N.C.	-	0	0	-	-	112	41	230	1,281	1,120	1	1	26	38	77						
+S.C.	N	0	0	N	N	7	25	71	687	850	-	0	7	16	12						
+Va.	15	10	25	327	385	-	21	57	584	619	-	1	7	40	78						
+W. Va.	1	1	9	43	63	-	1	52	75	71	-	0	2	3	3						
+E.S. CENTRAL	-	2	6	50	109	37	70	186	2,030	2,286	1	5	14	158	207						
+Ala.	-	1	5	41	54	15	21	55	563	641	-	1	3	34	61						
+Ky.	-	0	2	9	10	-	8	39	222	331	-	1	5	29	42						
+Miss.	-	0	0	-	-	1	24	87	650	731	1	0	3	17	24						
+Tenn.	-	0	2	-	45	21	18	51	595	583	-	2	12	78	80						
+W.S. CENTRAL	12	14	40	441	767	87	145	374	3,397	4,116	5	10	92	323	303						
+Ark.	-	0	20	76	40	40	14	52	418	408	2	1	6	35	27						
+La.	-	0	1	-	3	8	25	50	684	864	1	0	3	18	13						
+Okla.	-	0	21	27	31	20	15	102	407	353	2	2	16	51	37						
+Tex.	12	11	29	338	693	19	77	227	1,888	2,491	-	8	76	219	226						
+MOUNTAIN	-	1	7	45	39	27	43	88	1,258	1,633	3	9	46	280	460						
+Ariz.	N	0	0	N	N	12	15	28	404	514	-	2	6	86	87						
+Colo.	-	0	0	-	-	-	9	23	272	345	-	2	6	41	107						
+Idaho	-	0	1	-	2	-	2	7	75	96	1	1	8	44	64						
+Mont.	N	0	0	N	N	3	2	7	67	87	2	0	5	24	26						
+Nev.	-	0	3	6	4	9	3	12	116	115	-	0	2	14	30						
+N. Mex.	-	1	5	33	7	-	5	19	139	210	-	0	3	22	31						
+Utah	-	0	2	6	6	-	5	12	144	213	-	1	29	35	101						
+Wyo.	-	0	4	-	20	3	1	8	41	53	-	0	8	14	14						
+PACIFIC	-	4	14	92	133	90	91	179	2,947	3,369	17	15	36	394	424						
+Alaska	-	0	1	6	11	-	1	5	36	40	-	0	0	-	-						
+Calif.	-	3	13	78	111	48	64	142	2,113	2,559	1	7	20	186	274						
+Hawaii	-	0	0	-	-	8	5	20	176	205	-	0	2	8	5						
+Oreg.	-	0	2	8	11	5	6	16	230	243	4	2	11	105	70						
+Wash.	-	0	11	-	-	29	12	42	392	322	12	2	18	95	75						
+Amer. Samoa	N	0	0	N	N	-	1	2	4	-	-	0	0	-	-						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	0	0	-	-	-	0	4	-	16	-	0	0	-	-						
+P.R.	-	0	5	27	30	-	2	19	29	313	-	0	0	-	-						
+V.I.	-	0	0	-	-	-	0	6	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Case counts for reporting years 2011 and 2012 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+Data for TB are displayed in Table IV, which appears quarterly.
+
+† Includes E. coli O157:H7; Shiga toxin positive, serogroup non-O157; and Shiga toxin positive, not serogrouped.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

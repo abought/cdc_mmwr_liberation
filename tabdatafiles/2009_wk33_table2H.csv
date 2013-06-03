@@ -1,0 +1,109 @@
+
+TABLE II. (Part 8)  Provisional cases of selected notifiable diseases, United States, week ending August 22, 2009 (WEEK 33)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Streptococcus pneumoniae, invasive disease, drug resistant †, all ages current week
+Streptococcus pneumoniae, invasive disease, drug resistant †, all ages previous 52 weeks median 
+Streptococcus pneumoniae, invasive disease, drug resistant †, all ages previous 52 weeks maximum 
+Streptococcus pneumoniae, invasive disease, drug resistant †, all ages cummulative for 2009
+Streptococcus pneumoniae, invasive disease, drug resistant †, all ages cummulative for 2008
+Streptococcus pneumoniae, invasive disease, drug resistant †, age <5 years current week
+Streptococcus pneumoniae, invasive disease, drug resistant †, age <5 years previous 52 weeks median 
+Streptococcus pneumoniae, invasive disease, drug resistant †, age <5 years previous 52 weeks maximum 
+Streptococcus pneumoniae, invasive disease, drug resistant †, age <5 years cummulative for 2009
+Streptococcus pneumoniae, invasive disease, drug resistant †, age <5 years cummulative for 2008
+Syphillis, primary & secondary current week
+Syphillis, primary & secondary previous 52 weeks median 
+Syphillis, primary & secondary previous 52 weeks maximum 
+Syphillis, primary & secondary cummulative for 2009
+Syphillis, primary & secondary cummulative for 2008
+
+tab delimited data:
+test
+UNITED STATES	7	60	276	1,924	2,150	1	9	21	299	329	161	261	452	8,114	7,974						
+NEW ENGLAND	-	1	48	33	45	-	0	5	2	6	7	5	15	212	207						
+Conn.	-	0	48	-	-	-	0	5	-	-	-	1	5	39	18						
+Maine	-	0	2	8	14	-	0	1	-	-	-	0	1	1	8						
+Mass.	-	0	1	2	-	-	0	1	2	-	7	4	11	151	149						
+N.H.	-	0	3	5	-	-	0	0	-	-	-	0	2	11	13						
+R.I.	-	0	6	7	18	-	0	1	-	4	-	0	5	10	14						
+Vt.	-	0	2	11	13	-	0	0	-	2	-	0	2	-	5						
+MID. ATLANTIC	-	3	14	115	223	-	0	3	20	20	32	34	51	1,176	1,066						
+N.J.	-	0	0	-	-	-	0	0	-	-	6	4	13	148	143						
+N.Y. (Upstate)	-	1	10	50	46	-	0	2	10	6	2	2	8	79	90						
+N.Y. City	-	0	4	3	91	-	0	2	-	1	15	22	40	733	655						
+Pa.	-	1	8	62	86	-	0	2	10	13	9	6	12	216	178						
+E.N. CENTRAL	2	11	41	425	460	-	1	7	62	63	16	23	44	662	724						
+Ill.	N	0	0	N	N	N	0	0	N	N	-	8	19	185	288						
+Ind.	-	3	32	141	160	-	0	6	20	20	2	2	10	102	81						
+Mich.	-	0	2	19	15	-	0	1	2	2	13	3	18	155	129						
+Ohio	2	7	18	265	285	-	1	4	40	41	1	6	16	191	191						
+Wis.	-	0	0	-	-	-	0	0	-	-	-	1	4	29	35						
+W.N. CENTRAL	-	2	161	91	151	-	0	3	20	30	1	6	14	194	258						
+Iowa	-	0	0	-	-	-	0	0	-	-	-	0	2	13	13						
+Kans.	-	1	5	39	58	-	0	2	13	3	-	0	3	18	21						
+Minn.	-	0	156	-	22	-	0	3	-	22	-	2	6	40	64						
+Mo.	-	1	5	40	65	-	0	1	5	2	1	3	10	104	151						
+Nebr.	-	0	0	-	-	-	0	0	-	-	-	0	3	15	9						
+N. Dak.	-	0	3	10	2	-	0	0	-	-	-	0	1	3	-						
+S. Dak.	-	0	2	2	4	-	0	2	2	3	-	0	1	1	-						
+S. ATLANTIC	2	26	53	916	872	1	4	14	136	143	32	63	262	2,012	1,736						
+Del.	-	0	2	14	3	-	0	0	-	-	-	0	3	22	10						
+D.C.	N	0	0	N	N	N	0	0	N	N	-	3	9	96	89						
+Fla.	2	15	36	535	490	1	2	13	86	93	2	20	31	619	650						
+Ga.	-	8	25	278	293	-	1	5	43	42	-	14	227	452	374						
+Md.	-	0	1	4	4	-	0	0	-	1	-	6	16	189	214						
+N.C.	N	0	0	N	N	N	0	0	N	N	21	9	19	361	170						
+S.C.	-	0	0	-	-	-	0	0	-	-	-	2	6	65	56						
+Va.	N	0	0	N	N	N	0	0	N	N	9	6	16	204	166						
+W. Va.	-	2	13	85	82	-	0	3	7	7	-	0	2	4	7						
+E.S. CENTRAL	1	5	25	191	232	-	1	3	27	42	15	23	36	729	675						
+Ala.	N	0	0	N	N	N	0	0	N	N	-	8	16	274	278						
+Ky.	-	1	5	54	56	-	0	2	7	9	2	1	10	39	55						
+Miss.	-	0	3	-	28	-	0	1	-	8	6	4	18	140	95						
+Tenn.	1	3	23	137	148	-	0	3	20	25	7	8	19	276	247						
+W.S. CENTRAL	1	1	6	69	74	-	0	3	14	12	47	49	80	1,575	1,356						
+Ark.	1	0	5	39	13	-	0	3	9	3	12	4	35	136	106						
+La.	-	1	5	30	61	-	0	1	5	9	-	12	40	303	367						
+Okla.	N	0	0	N	N	N	0	0	N	N	-	1	7	36	46						
+Tex.	-	0	0	-	-	-	0	0	-	-	35	32	46	1,100	837						
+MOUNTAIN	1	2	7	82	91	-	0	3	17	11	6	7	18	178	409						
+Ariz.	-	0	0	-	-	-	0	0	-	-	-	2	8	22	212						
+Colo.	-	0	0	-	-	-	0	0	-	-	1	1	5	58	98						
+Idaho	N	0	1	N	N	N	0	1	N	N	-	0	2	3	2						
+Mont.	-	0	1	-	-	-	0	0	-	-	-	0	7	-	-						
+Nev.	1	1	4	31	43	-	0	2	7	5	3	1	7	63	52						
+N. Mex.	-	0	0	-	-	-	0	0	-	-	2	1	5	30	26						
+Utah	-	1	6	42	47	-	0	3	9	6	-	0	2	-	16						
+Wyo.	-	0	2	9	1	-	0	1	1	-	-	0	1	2	3						
+PACIFIC	-	0	1	2	2	-	0	1	1	2	5	45	67	1,376	1,543						
+Alaska	-	0	0	-	-	-	0	0	-	-	-	0	0	-	1						
+Calif.	N	0	0	N	N	N	0	0	N	N	2	40	59	1,264	1,394						
+Hawaii	-	0	1	2	2	-	0	1	1	2	-	0	3	19	15						
+Oreg.	N	0	0	N	N	N	0	0	N	N	2	1	4	31	11						
+Wash.	N	0	0	N	N	N	0	0	N	N	1	2	8	62	122						
+Amer. Samoa	N	0	0	N	N	N	0	0	N	N	-	0	0	-	-						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+P.R.	-	0	0	-	-	-	0	0	-	-	-	3	11	126	96						
+V.I.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Incidence data for reporting years 2008 and 2009 are provisional.
+Data for HIV/AIDS, AIDS, and TB, when available, are displayed in Table IV, which appears quarterly.
+
+† Includes cases of invasive pneumococcal disease caused by drug-resistant Streptococcus pneumoniae (DRSP) 
+(NNDSS event code 11720).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

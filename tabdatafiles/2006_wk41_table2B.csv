@@ -1,0 +1,106 @@
+
+TABLE II. (Part 2)  Provisional cases of selected notifiable diseases, United States, week ending October 14, 2006 (WEEK 41)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Giardiasis current week
+Giardiasis previous 52 weeks median 
+Giardiasis previous 52 weeks maximum 
+Giardiasis cummulative for 2006
+Giardiasis cummulative for 2005
+Gonorrhea current week
+Gonorrhea previous 52 weeks median 
+Gonorrhea previous 52 weeks maximum 
+Gonorrhea cummulative for 2006
+Gonorrhea cummulative for 2005
+Haemophilus influenzae, invasive, All ages, all serotypes current week
+Haemophilus influenzae, invasive, All ages, all serotypes previous 52 weeks median 
+Haemophilus influenzae, invasive, All ages, all serotypes previous 52 weeks maximum 
+Haemophilus influenzae, invasive, All ages, all serotypes cummulative for 2006
+Haemophilus influenzae, invasive, All ages, all serotypes cummulative for 2005
+
+tab delimited data:
+test
+UNITED STATES	224	324	1,029	13,190	15,092	3,909	6,519	14,136	259,144	258,672	19	40	142	1,608	1,807						
+NEW ENGLAND	15	24	75	987	1,377	107	107	288	4,325	4,519	2	2	19	129	137						
+Conn.	-	0	37	222	298	-	42	241	1,698	1,921	2	0	9	40	40						
+Maine	4	2	13	137	173	3	2	6	101	112	-	0	4	17	8						
+Mass.	-	10	18	357	620	82	46	86	1,936	1,951	-	1	7	52	69						
+N.H.	-	0	9	24	51	6	4	9	156	132	-	0	2	7	7						
+R.I.	4	0	25	96	86	14	8	19	381	356	-	0	7	4	7						
+Vt.	7	3	12	151	149	2	1	4	53	47	-	0	2	9	6						
+MID. ATLANTIC	39	64	254	2,536	2,719	443	648	1,014	25,393	26,625	6	8	30	333	344						
+N.J.	-	8	13	297	358	81	102	143	3,872	4,498	-	1	4	45	71						
+N.Y. (Upstate)	24	24	227	935	942	154	123	455	4,941	5,341	5	2	27	108	100						
+N.Y. City	-	15	29	685	720	101	175	357	7,581	8,052	-	1	6	64	62						
+Pa.	15	15	29	619	699	107	218	399	8,999	8,734	1	3	8	116	111						
+E.N. CENTRAL	23	49	86	1,926	2,695	830	1,288	7,047	50,932	51,436	-	5	14	219	310						
+Ill.	-	10	21	353	628	179	378	710	15,624	15,623	-	1	6	47	104						
+Ind.	N	0	0	N	N	136	161	237	6,865	6,402	-	1	11	66	55						
+Mich.	5	14	22	519	645	419	258	5,880	11,579	8,720	-	0	3	18	19						
+Ohio	18	16	32	642	629	29	329	648	11,554	16,093	-	2	6	65	95						
+Wis.	-	10	40	412	793	67	134	172	5,310	4,598	-	0	4	23	37						
+W.N. CENTRAL	21	29	260	1,464	1,678	184	366	436	14,545	14,750	4	2	15	118	91						
+Iowa	-	5	15	232	227	25	34	52	1,404	1,243	-	0	1	1	-						
+Kans.	3	3	11	151	163	44	44	124	1,578	2,061	-	0	3	14	11						
+Minn.	1	1	238	478	691	-	62	105	2,199	2,737	3	0	9	59	38						
+Mo.	12	10	32	436	382	105	190	251	7,911	7,432	-	0	6	32	29						
+Nebr.	3	2	8	94	106	-	23	56	1,062	918	-	0	2	7	12						
+N. Dak.	2	0	7	14	12	4	2	7	94	80	1	0	3	5	1						
+S. Dak.	-	1	7	59	97	6	6	15	297	279	-	0	0	-	-						
+S. ATLANTIC	40	49	96	1,984	2,186	1,050	1,555	2,334	63,231	61,470	2	10	26	414	427						
+Del.	-	1	4	34	46	28	27	44	1,160	677	-	0	1	1	-						
+D.C.	1	1	5	53	42	18	34	61	1,270	1,675	-	0	1	4	7						
+Fla.	25	18	40	846	772	324	439	554	18,262	15,751	1	3	9	134	104						
+Ga.	9	10	44	425	586	3	309	1,014	11,436	11,558	-	2	12	80	92						
+Md.	3	4	11	162	165	105	128	186	5,148	5,462	1	1	5	55	59						
+N.C.	N	0	0	N	N	490	286	766	13,704	12,179	-	0	9	46	68						
+S.C.	2	1	7	82	89	-	132	704	6,262	6,894	-	1	3	28	29						
+Va.	-	7	50	359	451	66	130	288	5,227	6,722	-	1	8	50	44						
+W. Va.	-	0	6	23	35	16	17	42	762	552	-	0	4	16	24						
+E.S. CENTRAL	5	8	40	393	335	168	564	864	23,111	21,786	5	2	7	85	96						
+Ala.	3	5	29	215	150	5	183	310	7,428	7,029	1	0	5	21	17						
+Ky.	N	0	0	N	N	4	55	132	2,305	2,398	-	0	1	4	11						
+Miss.	-	0	0	-	-	-	141	436	5,696	5,603	-	0	1	3	-						
+Tenn.	2	4	12	178	185	159	188	237	7,682	6,756	4	1	4	57	68						
+W.S. CENTRAL	12	6	31	227	258	591	899	1,430	37,376	35,312	-	1	15	57	97						
+Ark.	8	2	6	100	71	103	81	142	3,351	3,574	-	0	2	7	7						
+La.	-	0	5	24	53	61	161	354	6,950	7,272	-	0	2	8	32						
+Okla.	4	2	24	103	134	140	79	764	3,575	3,603	-	1	14	40	52						
+Tex.	N	0	0	N	N	287	555	879	23,500	20,863	-	0	2	2	6						
+MOUNTAIN	11	30	65	1,306	1,188	164	217	552	8,904	10,685	-	3	8	160	184						
+Ariz.	5	3	36	130	119	91	92	201	3,632	3,855	-	1	7	74	92						
+Colo.	-	9	33	439	409	-	41	90	1,595	2,535	-	1	4	42	37						
+Idaho	5	3	12	149	115	-	3	15	132	84	-	0	1	4	4						
+Mont.	-	2	11	83	58	-	2	20	150	126	-	0	0	-	-						
+Nev.	1	2	8	82	87	56	24	194	1,288	2,233	-	0	1	-	14						
+N. Mex.	-	1	6	49	70	-	30	64	1,348	1,239	-	0	4	22	21						
+Utah	-	7	19	344	310	17	17	25	666	552	-	0	4	15	9						
+Wyo.	-	1	4	30	20	-	2	6	93	61	-	0	1	3	7						
+PACIFIC	58	59	202	2,367	2,656	372	803	963	31,327	32,089	-	2	15	93	121						
+Alaska	-	1	15	75	91	-	11	23	451	462	-	0	2	9	26						
+Calif.	45	42	105	1,658	1,886	269	659	830	25,780	26,724	-	0	9	21	50						
+Hawaii	-	1	3	39	55	-	18	29	725	806	-	0	1	14	8						
+Oreg.	5	8	14	314	349	30	28	58	1,046	1,203	-	1	6	47	37						
+Wash.	8	6	90	281	275	73	74	142	3,325	2,894	-	0	4	2	-						
+Amer. Samoa	U	0	0	U	U	U	0	2	U	U	U	0	0	U	U						
+C.N.M.I.	U	0	0	U	U	U	0	0	U	U	U	0	0	U	U						
+Guam	-	0	0	-	11	-	1	15	-	71	-	0	2	-	9						
+P.R.	-	2	12	62	215	-	5	16	188	291	-	0	1	1	3						
+V.I.	-	0	0	-	-	-	0	5	30	45	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not notifiable.
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Incidence data for reporting year 2006 are provisional.
+Data for HIV/AIDS, AIDS, and TB, when available, are displayed in Table IV, which appears quarterly.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

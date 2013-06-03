@@ -1,0 +1,95 @@
+
+TABLE II. (Part 7)  Provisional cases of selected notifiable diseases, United States, week ending July 13, 2002 (WEEK 28)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Shigellosis cummulative for 2002
+Shigellosis cummulative for 2001
+Streptococcal Disease, Invasive, Group A cummulative for 2002
+Streptococcal Disease, Invasive, Group A cummulative for 2001
+Streptococcus pneumoniae, Drug Resistant, Invasive cummulative for 2002
+Streptococcus pneumoniae, Drug Resistant, Invasive cummulative for 2001
+Streptococcus pneumoniae, Invasive Disease, Age < 5 Years cummulative for 2002
+Streptococcus pneumoniae, Invasive Disease, Age < 5 Years cummulative for 2001
+
+tab delimited data:
+test
+UNITED STATES	6,978	8,130	2,443	2,286	1,313	1,827	136	265													
+NEW ENGLAND	127	132	119	159	8	85	1	30													
+Maine	3	5	14	10	-	-	-	-													
+N.H.	5	2	25	N	-	-	N	N													
+Vt.	-	3	9	9	3	7	1	-													
+Mass.	88	92	58	51	N	N	N	N													
+R.I.	7	8	13	8	5	-	-	2													
+Conn.	24	22	-	81	-	78	-	28													
+MID. ATLANTIC	399	839	414	411	76	115	43	73													
+Upstate N.Y.	97	316	209	179	68	113	43	73													
+N.Y. City	189	226	103	121	U	U	U	U													
+N.J.	48	152	71	73	N	N	N	N													
+Pa.	65	145	31	38	8	2	-	-													
+E.N. CENTRAL	720	1,372	393	547	124	126	53	68													
+Ohio	356	693	145	138	N	N	N	N													
+Ind.	39	125	29	43	119	126	28	38													
+Ill.	194	268	30	178	2	-	-	30													
+Mich.	76	152	189	140	3	-	N	N													
+Wis.	55	134	-	48	N	N	25	-													
+W.N. CENTRAL	595	812	169	222	146	85	33	31													
+Minn.	130	251	87	80	48	40	33	24													
+Iowa	62	238	-	-	N	N	N	N													
+Mo.	81	139	37	55	6	9	-	-													
+N. Dak.	15	13	-	7	1	4	-	7													
+S. Dak.	149	84	9	7	1	3	-	-													
+Nebr.	104	41	13	28	23	9	N	N													
+Kans.	54	46	23	45	67	20	N	N													
+S. ATLANTIC	2,756	1,122	496	393	806	973	1	4													
+Del.	11	5	1	2	3	2	N	N													
+Md.	482	58	83	N	N	N	N	N													
+D.C.	34	30	5	3	42	3	1	3													
+Va.	493	106	50	60	N	N	N	N													
+W. Va.	4	5	12	16	34	36	-	1													
+N.C.	155	203	93	107	N	N	U	U													
+S.C.	46	144	28	7	128	199	N	N													
+Ga.	894	146	129	131	249	278	U	U													
+Fla.	637	425	95	67	350	455	N	N													
+E.S. CENTRAL	681	808	68	50	91	174	-	-													
+Ky.	75	295	12	18	10	18	N	N													
+Tenn.	33	50	56	32	81	155	N	N													
+Ala.	348	146	-	-	-	1	N	N													
+Miss.	225	317	-	-	-	-	-	-													
+W.S. CENTRAL	408	1,502	39	218	34	239	2	59													
+Ark.	110	374	5	-	5	13	-	-													
+La.	63	144	-	-	29	196	1	59													
+Okla.	234	20	33	31	N	N	1	-													
+Tex.	1	964	1	187	N	N	-	-													
+MOUNTAIN	301	423	413	248	28	29	3	-													
+Mont.	2	-	-	-	-	-	-	-													
+Idaho	2	19	5	4	N	N	N	N													
+Wyo.	3	2	7	7	9	5	-	-													
+Colo.	59	86	147	99	-	-	-	-													
+N. Mex.	57	64	68	53	19	22	-	-													
+Ariz.	139	193	177	82	-	-	N	N													
+Utah	23	27	9	3	-	-	3	-													
+Nev.	16	32	-	-	-	2	-	-													
+PACIFIC	991	1,120	332	38	-	1	-	-													
+Wash.	70	97	36	-	-	-	N	N													
+Oreg.	48	59	N	N	N	N	N	N													
+Calif.	844	933	260	-	N	N	N	N													
+Alaska	2	4	-	-	-	-	N	N													
+Hawaii	27	27	36	38	-	1	-	-													
+Guam	-	31	-	1	-	-	-	-													
+P.R.	5	12	N	N	-	-	N	N													
+V.I.	-	-	-	-	-	-	-	-													
+Amer. Samoa	U	U	U	U	-	-	U	U													
+C.N.M.I.	14	U	-	U	-	-	-	U													
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2001 and 2002 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

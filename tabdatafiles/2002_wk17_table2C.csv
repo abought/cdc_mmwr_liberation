@@ -1,0 +1,97 @@
+
+TABLE II. (Part 3)  Provisional cases of selected notifiable diseases, United States, week ending April 27, 2002 (WEEK 17)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Haemophilus influenzae, Invasive, Age < 5 years, non-Serotype B cummulative for 2002
+Haemophilus influenzae, Invasive, Age < 5 years, non-Serotype B cummulative for 2001
+Haemophilus influenzae, Invasive, Age < 5 years, Unknown Serotype cummulative for 2002
+Haemophilus influenzae, Invasive, Age < 5 years, Unknown Serotype cummulative for 2001
+Hepatitis (Viral), Type A cummulative for 2002
+Hepatitis (Viral), Type A cummulative for 2001
+Hepatitis (Viral), Type B cummulative for 2002
+Hepatitis (Viral), Type B cummulative for 2001
+Hepatitis (Viral), Type C; Non-A, Non-B cummulative for 2002
+Hepatitis (Viral), Type C; Non-A, Non-B cummulative for 2001
+
+tab delimited data:
+test
+UNITED STATES	96	105	5	11	2,793	3,787	1,902	2,364	650	1,622											
+NEW ENGLAND	5	5	-	-	128	148	64	42	13	20											
+Maine	-	-	-	-	4	3	1	3	-	-											
+N.H.	-	-	-	-	6	4	5	6	-	-											
+Vt.	-	-	-	-	-	2	2	3	6	5											
+Mass.	3	4	-	-	61	50	35	8	7	15											
+R.I.	-	-	-	-	17	6	9	6	-	-											
+Conn.	2	1	-	-	40	83	12	16	-	-											
+MID. ATLANTIC	14	14	-	-	355	449	450	495	221	770											
+Upstate N.Y.	7	2	-	-	63	80	43	38	18	10											
+N.Y. City	5	4	-	-	156	132	263	212	-	-											
+N.J.	2	4	-	-	38	177	76	149	197	736											
+Pa.	-	4	-	-	98	60	68	96	6	24											
+E.N. CENTRAL	11	16	-	1	370	756	273	227	33	88											
+Ohio	5	3	-	-	123	90	31	41	5	5											
+Ind.	5	4	-	1	19	33	9	6	-	-											
+Ill.	-	7	-	-	103	481	21	20	4	20											
+Mich.	-	-	-	-	85	123	212	160	24	63											
+Wis.	1	2	-	-	40	29	-	-	-	-											
+W.N. CENTRAL	2	1	2	2	120	130	65	77	189	449											
+Minn.	2	1	1	-	19	9	3	6	-	-											
+Iowa	-	-	-	-	30	14	9	6	1	-											
+Mo.	-	-	1	2	24	27	44	49	188	445											
+N. Dak.	-	-	-	-	1	-	1	-	-	-											
+S. Dak.	-	-	-	-	3	1	-	1	-	-											
+Nebr.	-	-	-	-	-	19	-	6	-	1											
+Kans.	-	-	-	-	43	60	8	9	-	3											
+S. ATLANTIC	24	30	-	4	870	662	520	545	53	34											
+Del.	-	-	-	-	3	3	2	5	3	1											
+Md.	1	4	-	-	110	82	43	49	8	8											
+D.C.	-	-	-	-	31	15	9	3	-	-											
+Va.	2	4	-	-	30	45	65	44	1	-											
+W. Va.	-	-	-	-	9	2	11	8	1	4											
+N.C.	1	1	-	4	105	38	72	83	8	7											
+S.C.	1	1	-	-	17	21	22	5	3	2											
+Ga.	13	13	-	-	206	287	183	232	10	1											
+Fla.	6	7	-	-	359	169	113	116	19	11											
+E.S. CENTRAL	4	6	-	1	54	102	56	129	64	30											
+Ky.	-	-	-	-	23	16	13	18	1	3											
+Tenn.	2	2	-	-	-	44	-	42	15	21											
+Ala.	2	3	-	1	12	36	21	37	2	1											
+Miss.	-	1	-	-	19	6	22	32	46	5											
+W.S. CENTRAL	4	3	-	-	34	636	95	275	4	167											
+Ark.	-	-	-	-	11	18	26	34	-	3											
+La.	-	-	-	-	10	38	6	37	4	81											
+Okla.	4	3	-	-	12	57	1	31	-	2											
+Tex.	-	-	-	-	1	523	62	173	-	81											
+MOUNTAIN	18	8	2	1	191	251	125	165	23	26											
+Mont.	-	-	-	-	5	4	3	1	-	-											
+Idaho	-	-	-	-	-	26	-	4	-	1											
+Wyo.	-	-	-	-	3	1	6	-	4	4											
+Colo.	2	-	-	-	36	26	34	37	13	5											
+N. Mex.	4	5	-	1	6	8	15	38	-	9											
+Ariz.	8	3	1	-	98	131	41	59	-	4											
+Utah	3	-	-	-	19	22	11	10	-	-											
+Nev.	1	-	1	-	24	33	15	16	6	3											
+PACIFIC	14	22	1	2	671	653	254	409	50	38											
+Wash.	1	-	-	1	51	24	18	31	4	9											
+Oreg.	4	3	-	-	37	45	47	57	7	6											
+Calif.	6	18	1	1	576	568	184	310	39	23											
+Alaska	1	-	-	-	7	10	3	3	-	-											
+Hawaii	2	1	-	-	-	6	2	8	-	-											
+Guam	-	-	-	-	-	-	-	-	-	-											
+P.R.	-	-	-	-	25	42	15	69	-	1											
+V.I.	-	-	-	-	-	-	-	-	-	-											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	22	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2001 and 2002 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

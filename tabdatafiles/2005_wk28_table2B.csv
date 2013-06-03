@@ -1,0 +1,97 @@
+
+TABLE II. (Part 2)  Provisional cases of selected notifiable diseases, United States, week ending July 16, 2005 (WEEK 28)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Escherichia coli, Enterohemorrhagic, (EHEC), 0157:H7 cummulative for 2005
+Escherichia coli, Enterohemorrhagic, (EHEC), 0157:H7 cummulative for 2004
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, serogroup non-0157 cummulative for 2005
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, serogroup non-0157 cummulative for 2004
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, not serogrouped cummulative for 2005
+Escherichia coli, Enterohemorrhagic, (EHEC), shiga toxin positive, not serogrouped cummulative for 2004
+Giardiasis cummulative for 2005
+Giardiasis cummulative for 2004
+Gonorrhea cummulative for 2005
+Gonorrhea cummulative for 2004
+
+tab delimited data:
+test
+UNITED STATES	772	922	110	135	89	73	7,831	8,748	160,055	169,351											
+NEW ENGLAND	65	60	26	30	14	7	714	775	3,224	3,838											
+Maine	9	3	5	-	-	-	92	72	70	133											
+N.H.	8	10	1	5	-	-	35	21	89	63											
+Vt.	8	6	1	-	-	-	79	67	28	47											
+Mass.	20	29	6	9	14	7	284	351	1,435	1,654											
+R.I.	2	5	-	1	-	-	55	54	267	483											
+Conn.	18	7	13	15	-	-	169	210	1,335	1,458											
+MID. ATLANTIC	96	116	9	20	9	17	1,480	1,899	16,851	19,319											
+Upstate N.Y.	46	47	8	8	3	7	530	590	3,346	3,870											
+N.Y. City	3	25	-	-	-	-	389	568	5,015	6,003											
+N.J.	15	18	-	4	1	5	176	247	2,784	3,659											
+Pa.	32	26	1	8	5	5	385	494	5,706	5,787											
+E.N. CENTRAL	141	189	9	25	4	9	1,209	1,314	29,619	35,247											
+Ohio	48	45	1	5	2	7	329	381	9,105	10,909											
+Ind.	23	19	-	-	-	-	N	N	4,213	3,339											
+Ill.	14	38	1	2	-	2	246	415	8,725	10,564											
+Mich.	31	39	-	5	2	-	338	310	4,841	7,937											
+Wis.	25	48	7	13	-	-	296	208	2,735	2,498											
+W.N. CENTRAL	120	174	20	20	14	14	925	964	8,970	8,811											
+Minn.	17	38	6	8	4	2	453	330	1,223	1,547											
+Iowa	33	49	-	-	-	-	108	130	709	632											
+Mo.	38	28	9	10	5	4	199	270	4,884	4,518											
+N. Dak.	1	5	-	-	-	5	4	17	32	68											
+S. Dak.	6	12	2	-	-	-	37	33	197	143											
+Nebr.	10	27	3	2	3	-	46	66	731	572											
+Kans.	15	15	-	-	2	3	78	118	1,194	1,331											
+S. ATLANTIC	93	76	20	13	35	14	1,152	1,404	38,577	40,891											
+Del.	-	2	N	N	N	N	19	26	420	483											
+Md.	18	18	4	2	-	2	79	53	3,603	4,288											
+D.C.	-	1	-	-	-	-	22	39	1,070	1,327											
+Va.	11	9	9	6	8	-	255	206	3,652	4,662											
+W. Va.	1	1	-	-	-	-	16	17	371	454											
+N.C.	-	-	-	-	19	9	N	N	8,564	8,071											
+S.C.	1	7	-	-	-	-	55	49	4,403	4,859											
+Ga.	13	15	3	3	-	-	252	450	6,388	7,409											
+Fla.	49	23	4	2	8	3	454	564	10,106	9,338											
+E.S. CENTRAL	45	49	-	3	6	8	184	194	12,927	13,520											
+Ky.	10	11	-	1	5	5	N	N	1,620	1,318											
+Tenn.	17	18	-	-	1	3	92	101	4,157	4,370											
+Ala.	16	12	-	-	-	-	92	93	3,696	4,285											
+Miss.	2	8	-	2	-	-	-	-	3,454	3,547											
+W.S. CENTRAL	25	48	4	2	3	4	120	136	23,529	23,563											
+Ark.	4	9	-	-	-	-	39	58	2,419	2,209											
+La.	3	2	3	-	2	-	21	23	5,542	6,216											
+Okla.	11	10	-	-	-	-	60	55	2,355	2,555											
+Tex.	7	27	1	2	1	4	N	N	13,213	12,583											
+MOUNTAIN	72	87	20	21	4	-	593	664	5,764	5,676											
+Mont.	6	8	-	-	-	-	21	22	58	49											
+Idaho	9	21	5	3	2	-	46	82	52	43											
+Wyo.	-	2	2	1	-	-	12	12	30	28											
+Colo.	16	21	1	1	1	-	223	233	1,453	1,610											
+N. Mex.	2	6	3	4	-	-	21	41	404	554											
+Ariz.	18	9	N	N	N	N	76	91	2,151	1,896											
+Utah	12	11	9	11	-	-	158	133	354	276											
+Nev.	9	9	-	1	1	-	36	50	1,262	1,220											
+PACIFIC	115	123	2	1	-	-	1,454	1,398	20,594	18,486											
+Wash.	27	39	-	-	-	-	139	150	1,919	1,403											
+Oreg.	34	15	2	1	-	-	138	206	815	573											
+Calif.	44	64	-	-	-	-	1,103	963	17,121	15,463											
+Alaska	7	1	-	-	-	-	39	33	289	333											
+Hawaii	3	4	-	-	-	-	35	46	450	714											
+Guam	N	N	-	-	-	-	-	2	-	114											
+P.R.	-	-	-	-	-	-	26	104	198	152											
+V.I.	-	-	-	-	-	-	-	-	2	66											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2004 and 2005 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

@@ -1,0 +1,106 @@
+
+TABLE IV.  Provisional cases of selected notifiable diseases, United States,  quarter ending December 30, 2006 (52 WEEK)
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+AIDS * current quarter
+AIDS * previous 4 quarters median 
+AIDS * previous 4 quarters maximum 
+AIDS * cummulative for 2007
+AIDS * cummulative for 2006
+HIV/AIDS * current quarter
+HIV/AIDS * previous 4 quarters median 
+HIV/AIDS * previous 4 quarters maximum 
+HIV/AIDS * cummulative for 2007
+HIV/AIDS * cummulative for 2006
+Tuberculosis current quarter
+Tuberculosis previous 4 quarters median 
+Tuberculosis previous 4 quarters maximum 
+Tuberculosis cummulative for 2007
+Tuberculosis cummulative for 2006
+
+tab delimited data:
+test
+UNITED STATES	-	-	-	-	-	-	-	-	-	-	2,008	2,008	3,186	10,878	13,250						
+NEW ENGLAND	-	-	-	-	-	-	-	-	-	-	33	33	91	275	445						
+Conn.	-	-	-	-	-	-	-	-	-	-	16	16	24	81	95						
+Maine	-	-	-	-	-	-	-	-	-	-	5	2	5	13	17						
+Mass.	-	-	-	-	-	-	-	-	-	-	-	0	58	142	274						
+N.H.	-	-	-	-	-	-	-	-	-	-	5	2	5	14	4						
+R.I.	-	-	-	-	-	-	-	-	-	-	2	2	7	16	47						
+Vt.	-	-	-	-	-	-	-	-	-	-	5	0	5	9	8						
+MID. ATLANTIC	-	-	-	-	-	-	-	-	-	-	508	470	537	2,016	2,096						
+N.J.	-	-	-	-	-	-	-	-	-	-	67	67	137	437	485						
+N.Y. (Upstate)	-	-	-	-	-	-	-	-	-	-	64	50	64	239	302						
+N.Y. City	-	-	-	-	-	-	-	-	-	-	278	235	278	1,002	984						
+Pa.	-	-	-	-	-	-	-	-	-	-	99	57	99	338	325						
+E.N. CENTRAL	-	-	-	-	-	-	-	-	-	-	254	220	319	1,078	1,319						
+Ill.	-	-	-	-	-	-	-	-	-	-	124	91	158	493	589						
+Ind.	-	-	-	-	-	-	-	-	-	-	18	18	39	111	146						
+Mich.	-	-	-	-	-	-	-	-	-	-	50	30	55	179	246						
+Ohio	-	-	-	-	-	-	-	-	-	-	45	45	68	226	260						
+Wis.	-	-	-	-	-	-	-	-	-	-	17	14	21	69	78						
+W.N. CENTRAL	-	-	-	-	-	-	-	-	-	-	108	94	134	465	490						
+Iowa	-	-	-	-	-	-	-	-	-	-	7	5	10	31	55						
+Kans.	-	-	-	-	-	-	-	-	-	-	12	12	30	97	61						
+Minn.	-	-	-	-	-	-	-	-	-	-	51	34	63	206	199						
+Mo.	-	-	-	-	-	-	-	-	-	-	31	15	31	101	108						
+Nebr.	-	-	-	-	-	-	-	-	-	-	4	1	7	18	45						
+N. Dak.	-	-	-	-	-	-	-	-	-	-	-	0	0	-	6						
+S. Dak.	-	-	-	-	-	-	-	-	-	-	3	0	5	12	16						
+S. ATLANTIC	-	-	-	-	-	-	-	-	-	-	454	454	667	2,294	2,880						
+Del.	-	-	-	-	-	-	-	-	-	-	2	2	16	30	26						
+D.C.	-	-	-	-	-	-	-	-	-	-	9	9	18	61	52						
+Fla.	-	-	-	-	-	-	-	-	-	-	153	153	257	876	1,094						
+Ga.	-	-	-	-	-	-	-	-	-	-	56	56	156	442	504						
+Md.	-	-	-	-	-	-	-	-	-	-	23	23	79	183	283						
+N.C.	-	-	-	-	-	-	-	-	-	-	105	57	105	336	329						
+S.C.	-	-	-	-	-	-	-	-	-	-	29	7	33	77	211						
+Va.	-	-	-	-	-	-	-	-	-	-	72	50	81	268	355						
+W. Va.	-	-	-	-	-	-	-	-	-	-	5	5	6	21	26						
+E.S. CENTRAL	-	-	-	-	-	-	-	-	-	-	142	142	173	615	742						
+Ala.	-	-	-	-	-	-	-	-	-	-	51	44	52	196	216						
+Ky.	-	-	-	-	-	-	-	-	-	-	22	12	26	81	124						
+Miss.	-	-	-	-	-	-	-	-	-	-	35	23	35	117	103						
+Tenn.	-	-	-	-	-	-	-	-	-	-	34	34	67	221	299						
+W.S. CENTRAL	-	-	-	-	-	-	-	-	-	-	47	47	466	1,283	1,793						
+Ark.	-	-	-	-	-	-	-	-	-	-	21	19	37	103	114						
+La.	-	-	-	-	-	-	-	-	-	-	-	0	0	-	-						
+Okla.	-	-	-	-	-	-	-	-	-	-	26	26	55	134	144						
+Tex.	-	-	-	-	-	-	-	-	-	-	-	0	392	1,046	1,535						
+MOUNTAIN	-	-	-	-	-	-	-	-	-	-	82	65	139	389	595						
+Ariz.	-	-	-	-	-	-	-	-	-	-	64	25	90	240	281						
+Colo.	-	-	-	-	-	-	-	-	-	-	8	3	14	36	101						
+Idaho	-	-	-	-	-	-	-	-	-	-	-	0	0	-	23						
+Mont.	-	-	-	-	-	-	-	-	-	-	-	0	0	-	10						
+Nev.	-	-	-	-	-	-	-	-	-	-	-	0	21	45	112						
+N. Mex.	-	-	-	-	-	-	-	-	-	-	-	0	13	31	39						
+Utah	-	-	-	-	-	-	-	-	-	-	9	6	11	34	29						
+Wyo.	-	-	-	-	-	-	-	-	-	-	1	0	1	3	-						
+PACIFIC	-	-	-	-	-	-	-	-	-	-	380	380	792	2,463	2,890						
+Alaska	-	-	-	-	-	-	-	-	-	-	14	12	19	58	59						
+Calif.	-	-	-	-	-	-	-	-	-	-	288	288	668	2,044	2,360						
+Hawaii	-	-	-	-	-	-	-	-	-	-	18	18	43	110	112						
+Oreg.	-	-	-	-	-	-	-	-	-	-	-	0	0	-	103						
+Wash.	-	-	-	-	-	-	-	-	-	-	60	45	77	251	256						
+Amer. Samoa	-	-	-	-	-	-	-	-	-	-	U	0	2	U	U						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	0	0	-	U						
+Guam	-	-	-	-	-	-	-	-	-	-	-	0	0	-	63						
+P.R.	-	-	-	-	-	-	-	-	-	-	-	0	62	79	113						
+V.I.	-	-	-	-	-	-	-	-	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not notifiable.
+Cum: Cumulative year-to-date counts.
+Min: Minimum.
+Max: Maximum.
+
+* AIDS and HIV/AIDS data are not updated for this quarter because of upgrading of 
+the national HIV/AIDS surveillance data management system.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

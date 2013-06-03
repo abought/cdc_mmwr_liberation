@@ -1,0 +1,99 @@
+
+TABLE III. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending March 17, 2001 (WEEK 11)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+H. influenzae, Invasive cummulative for 2001
+H. influenzae, Invasive cummulative for 2000
+Hepatitis (Viral), Type A cummulative for 2001
+Hepatitis (Viral), Type A cummulative for 2000
+Hepatitis (Viral), Type B cummulative for 2001
+Hepatitis (Viral), Type B cummulative for 2000
+Measles (Rubeola), Indigenous current week 
+Measles (Rubeola), Indigenous cummulative for 2001
+Measles (Rubeola), Imported current week 
+Measles (Rubeola), Imported cummulative for 2001
+Measles (Rubeola), Total cummulative for 2001
+Measles (Rubeola), Total cummulative for 2000
+
+tab delimited data:
+test
+UNITED STATES	266	293	1,669	2,704	973	1,197	-	13	2	9	22	15									
+NEW ENGLAND	11	28	83	76	12	23	-	3	-	1	4	-									
+Maine	-	1	1	3	1	1	-	-	-	-	-	-									
+N.H.	-	4	3	7	4	6	-	-	-	-	-	-									
+Vt.	-	3	2	2	1	2	-	1	-	-	1	-									
+Mass.	11	17	31	33	2	1	-	2	-	1	3	-									
+R.I.	-	-	3	2	4	1	-	-	-	-	-	-									
+Conn.	-	3	43	29	-	12	-	-	-	-	-	-									
+MID. ATLANTIC	28	43	85	170	106	209	-	1	1	2	3	6									
+Upstate N.Y.	11	17	32	52	20	21	-	-	1	2	2	-									
+N.Y. City	9	14	43	86	77	109	-	-	-	-	-	6									
+N.J.	7	10	-	7	-	10	-	-	-	-	-	-									
+Pa.	1	2	10	25	9	69	-	1	-	-	1	-									
+E.N. CENTRAL	30	50	189	390	129	120	-	-	1	3	3	3									
+Ohio	20	16	58	90	27	24	-	-	-	-	-	2									
+Ind.	5	3	7	11	3	5	-	-	-	-	-	-									
+Ill.	-	19	40	164	9	2	-	-	1	3	3	-									
+Mich.	2	3	84	112	90	88	-	-	-	-	-	1									
+Wis.	3	9	-	13	-	1	-	-	-	-	-	-									
+W.N. CENTRAL	5	11	112	226	41	73	-	3	-	-	3	-									
+Minn.	-	6	5	21	1	3	-	-	-	-	-	-									
+Iowa	1	-	9	25	5	11	-	-	-	-	-	-									
+Mo.	3	4	33	140	28	47	-	3	-	-	3	-									
+N. Dak.	-	1	-	-	-	-	-	-	-	-	-	-									
+S. Dak.	-	-	1	-	1	-	-	-	-	-	-	-									
+Nebr.	1	-	17	6	4	8	-	-	-	-	-	-									
+Kans.	-	-	47	34	2	4	-	-	-	-	-	-									
+S. ATLANTIC	100	64	311	254	207	182	-	2	-	1	3	-									
+Del.	-	-	-	5	-	2	-	-	-	-	-	-									
+Md.	26	23	50	34	26	34	-	2	-	1	3	-									
+D.C.	-	-	12	-	3	-	-	-	-	-	-	-									
+Va.	8	13	27	42	16	28	U	-	U	-	-	-									
+W. Va.	4	1	-	23	3	-	-	-	-	-	-	-									
+N.C.	16	5	23	56	51	73	-	-	-	-	-	-									
+S.C.	2	1	13	3	1	2	-	-	-	-	-	-									
+Ga.	16	17	80	32	58	10	-	-	-	-	-	-									
+Fla.	28	4	106	59	49	33	-	-	-	-	-	-									
+E.S. CENTRAL	16	14	60	115	68	87	-	-	-	-	-	-									
+Ky.	-	8	9	8	5	14	-	-	-	-	-	-									
+Tenn.	9	4	31	38	27	39	-	-	-	-	-	-									
+Ala.	6	2	19	15	23	6	-	-	-	-	-	-									
+Miss.	1	-	1	54	13	28	-	-	-	-	-	-									
+W.S. CENTRAL	5	19	205	518	45	116	-	1	-	-	1	-									
+Ark.	-	-	16	41	16	15	-	-	-	-	-	-									
+La.	1	6	13	20	12	33	-	-	-	-	-	-									
+Okla.	4	13	36	79	16	9	-	-	-	-	-	-									
+Tex.	-	-	140	378	1	59	-	1	-	-	1	-									
+MOUNTAIN	57	38	197	168	115	94	-	-	-	1	1	-									
+Mont.	-	-	4	1	1	3	-	-	-	-	-	-									
+Idaho	1	2	23	8	4	4	-	-	-	1	1	-									
+Wyo.	-	-	1	2	-	-	-	-	-	-	-	-									
+Colo.	10	10	25	40	26	23	-	-	-	-	-	-									
+N. Mex.	10	11	6	21	33	28	-	-	-	-	-	-									
+Ariz.	33	11	95	68	36	28	-	-	-	-	-	-									
+Utah	1	2	17	13	4	3	-	-	-	-	-	-									
+Nev.	2	2	26	15	11	5	-	-	-	-	-	-									
+PACIFIC	14	26	427	787	250	293	-	3	-	1	4	6									
+Wash.	-	2	16	39	18	7	-	-	-	-	-	3									
+Oreg.	12	8	22	57	39	26	-	2	-	-	2	-									
+Calif.	1	5	381	684	192	254	-	1	-	1	2	3									
+Alaska	1	1	8	3	1	3	-	-	-	-	-	-									
+Hawaii	-	10	-	4	-	3	-	-	-	-	-	-									
+Guam	-	-	-	-	-	-	U	-	U	-	-	-									
+P.R.	-	1	19	82	10	59	-	-	-	-	-	-									
+V.I.	U	U	U	U	U	U	U	U	U	U	U	U									
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U	U	U									
+C.N.M.I.	U	U	U	U	U	U	U	U	U	U	U	U									
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2000 and 2001 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

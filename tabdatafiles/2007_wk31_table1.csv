@@ -1,0 +1,121 @@
+
+TABLE I.  Provisional cases of infrequently reported notifiable diseases (<1,000 cases reported during the preceding year), United States, week ending August 4, 2007 (WEEK 31)*
+
+column labels in same order that data fields appears in each record below:
+Disease
+Current week
+Cummulative for 2007
+5-year weekly average†
+Total cases reported for year 2006
+Total cases reported for year 2005
+Total cases reported for year 2004
+Total cases reported for year 2003
+Total cases reported for year 2002
+States reporting cases during current week (No.)
+
+tab delimited data:
+test
+Anthrax	-	-	-	1	-	-	-	2		
+Botulism:										
+foodborne	-	3	0	20	19	16	20	28		
+infant	-	47	1	97	85	87	76	69		
+other(wound & unspecified)	-	12	1	48	31	30	33	21		
+Brucellosis	5	66	3	121	120	114	104	125	MN (4 ), CA (1 )	
+Chancroid	-	15	1	33	17	30	54	67		
+Cholera	-	-	0	9	8	5	2	2		
+Cyclosporiasis §	3	60	6	136	543	171	75	156	PA (1 ), IN (1 ), FL (1 )	
+Diphtheria	-	-	-	-	-	-	1	1		
+Domestic arboviral diseases §, ¶ :										
+California serogroup	-	4	6	67	80	112	108	164		
+eastern equine	-	-	1	8	21	6	14	10		
+Powassan	-	-	0	1	1	1	-	1		
+St. Louis	-	2	1	10	13	12	41	28		
+western equine	-	-	-	-	-	-	-	-		
+Ehrlichiosis §:										
+human granulocytic	9	139	21	646	786	537	362	511	NY (3 ), MN (6 )	
+human monocytic	7	187	15	578	506	338	321	216	NC (2 ), GA (2 ), FL (2 ), AR (1 )	
+human (other & unspecified)	1	62	4	231	112	59	44	23	NC (1 )	
+Haemophilus influenzae**, invasive disease (age &lt;5 yrs):										
+serotype B	1	8	0	29	9	19	32	34	WA (1 )	
+nonserotype B	1	54	2	175	135	135	117	144	NV (1 )	
+unknown serotype	3	161	3	179	217	177	227	153	NY (1 ), PA (1 ), FL (1 )	
+Hansen disease §	-	31	2	66	87	105	95	96		
+Hantavirus pulmonary syndrome §	1	16	1	40	26	24	26	19	AZ (1 )	
+Hemolytic uremic syndrome, post-diarrheal §	6	96	6	288	221	200	178	216	MI (1 ), TN (1 ), UT (2 ), CA (2 )	
+Hepatitis C viral, acute	7	376	21	802	652	713	1,102	1,835	MI (1 ), NC (1 ), GA (1 ), OK (3 ), WA (1 )	
+HIV infection, pediatric (age &lt;13 yrs) ††	-	-	4	52	380	436	504	420		
+Influenza-associated pediatric mortality §, §§	3	71	0	41	45	-	N	N	NYC (2 ), VA (1 )	
+Listeriosis	7	326	21	875	896	753	696	665	NY (2 ), NYC (1 ), OH (1 ), MN (1 ), TN (1 ), OR (1 )	
+Measles ¶¶	-	21	1	55	66	37	56	44		
+Meningococcal disease, invasive *** :										
+A,C,Y, and W-135	2	167	4	311	297	-	-	-	TX (1 ), WA (1 )	
+serogroup B	-	75	2	190	156	-	-	-		
+other serogroup	-	13	1	31	27	-	-	-		
+unknown serogroup	3	387	9	648	765	-	-	-	MA (1 ), NYC (1 ), WV (1 )	
+Mumps	6	518	12	6,584	314	258	231	270	OH (1 ), SC (1 ), ID (1 ), WA (3 )	
+Novel influenza A infection virus	-	-	-	N	N	N	N	N		
+Plague	-	4	0	17	8	3	1	2		
+Poliomyelitis, paralytic	-	-	-	-	1	-	-	-		
+Poliovirus infection, nonparalytic §	-	-	-	N	N	N	N	N		
+Psittacosis §	-	2	0	21	16	12	12	18		
+Q fever §	2	106	2	169	136	70	71	61	MI (1 ), CA (1 )	
+Rabies, human	-	-	0	3	2	7	2	3		
+Rubella †††	-	9	0	11	11	10	7	18		
+Rubella, congenital syndrome	-	-	-	1	1	-	1	1		
+SARS CoV §, §§§	-	-	-	-	-	-	8	N		
+Smallpox §	-	-	-	-	-	-	-	-		
+Streptococcal toxic-shock syndrome §	-	67	1	125	129	132	161	118		
+Syphilis, congenital (age &lt;1 yr)	1	204	7	380	329	353	413	412	NC (1 )	
+Tetanus	-	7	1	41	27	34	20	25		
+Toxic-shock syndrome (staphylococcal) §	2	46	1	101	90	95	133	109	MI (1 ), CO (1 )	
+Trichinellosis	-	4	0	15	16	5	6	14		
+Tularemia	1	60	4	95	154	134	129	90	NE (1 )	
+Typhoid fever	3	158	8	353	324	322	356	321	NY (1 ), TX (1 ), CO (1 )	
+Vancomycin-intermediate Staphylococcus aureus §	-	6	0	6	2	-	N	N		
+Vancomycin-resistant Staphylococcus aureus §	-	-	-	1	3	1	N	N		
+Vibriosis (non-cholera Vibrio species infections) §	6	126	6	N	N	N	N	N	GA (1 ), FL (3 ), TN (1 ), CA (1 )	
+Yellow fever	-	-	-	-	-	-	-	1		
+
+-: No reported cases
+N: Not notifiable
+Cum: Cumulative year-to-date counts.
+
+* Incidence data for reporting years 2006 and 2007 are provisional, whereas data for 
+2002, 2003, 2004, and 2005 are finalized.
+
+† Calculated by summing the incidence counts for the current week, the 2 weeks preceding the current week, and the 2 weeks 
+following the current week, for a total of 5 preceding years.  Additional information is available at 
+http://wwwn.cdc.gov/nndss/document/5yearweeklyaverage.pdf.
+
+§ Not notifiable in all states.  Data from states where the condition is not notifiable are excluded from this table, 
+except starting in 2007 for the Arboviral diseases and influenza-associated pediatic mortality, and in 2003 for 
+SARS-CoV.  Reporting exceptions are available at http://wwwn.cdc.gov/nndss/document/SRCA_FINAL_REPORT_2006-2010.xlsx.
+
+¶ Includes both neuroinvasive and non-neuroinvasive. Updated weekly from reports to the Division of Vector-Borne Infectious 
+Diseases, National Center for Zoonotic, Vector-Borne, and Enteric Diseases (ArboNET Surveillance). Data for 
+West Nile virus are available in Table II.
+
+** Data for H. influenzae (all ages, all serotypes) are available in Table II.
+
+†† Updated monthly from reports to the Division of HIV/AIDS Prevention, National Center for HIV/AIDS, 
+Viral Hepatitis, STD, and TB Prevention. Implementation of HIV reporting influences the 
+number of cases reported. Updates of pediatric HIV data have been temporarily suspended until upgrading 
+of the national HIV/ AIDS surveillance data management system is completed. Data for HIV/AIDS usually are 
+available quarterly in Table IV.
+
+§§ Updated weekly from reports to the Influenza Division, National Center for Immunization and Respiratory 
+Diseases. Please refer to the MMWR publication for weekly updates to the footnote for this condition.
+
+¶¶ Please refer to the MMWR publication for weekly updates to the footnote for this condition.
+
+*** Data for meningococcal disease (all serogroups) are available in Table II.
+
+††† Please refer to the MMWR publication for weekly updates to the footnote for this condition.
+
+§§§ Updated weekly from reports to the Division of Viral and Rickettsial Diseases, National Center for Zoonotic, 
+Vector-Borne, and Enteric Diseases.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

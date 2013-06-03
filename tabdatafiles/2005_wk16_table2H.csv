@@ -1,0 +1,97 @@
+
+TABLE II. (Part 8)  Provisional cases of selected notifiable diseases, United States, week ending April 23, 2005 (WEEK 16)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Streptococcal Disease, Invasive, Group A cummulative for 2005
+Streptococcal Disease, Invasive, Group A cummulative for 2004
+Streptococcus pneumoniae, Invasive, Drug Resistant, all ages cummulative for 2005
+Streptococcus pneumoniae, Invasive, Drug Resistant, all ages cummulative for 2004
+Streptococcus pneumoniae, Invasive, Age < 5 Years cummulative for 2005
+Streptococcus pneumoniae, Invasive, Age < 5 Years cummulative for 2004
+Syphilis (Primary and Secondary) cummulative for 2005
+Syphilis (Primary and Secondary) cummulative for 2004
+Syphilis (Congenital) cummulative for 2005
+Syphilis (Congenital) cummulative for 2004
+
+tab delimited data:
+test
+UNITED STATES	1,501	1,701	961	953	268	292	1,913	2,298	79	121											
+NEW ENGLAND	57	82	9	13	25	37	56	48	-	-											
+Maine	2	3	N	N	-	-	1	-	-	-											
+N.H.	4	9	-	-	1	N	4	1	-	-											
+Vt.	6	4	3	4	2	1	-	-	-	-											
+Mass.	39	61	-	4	22	34	45	30	-	-											
+R.I.	6	5	6	5	-	2	2	1	-	-											
+Conn.	-	-	-	-	U	U	4	16	-	-											
+MID. ATLANTIC	330	299	96	63	54	39	239	308	16	16											
+Upstate N.Y.	123	95	36	25	34	24	22	20	12	1											
+N.Y. City	42	54	U	U	U	U	156	189	3	7											
+N.J.	69	58	N	N	9	4	36	56	1	7											
+Pa.	96	92	60	38	11	11	25	43	-	1											
+E.N. CENTRAL	248	399	232	226	62	78	154	251	10	25											
+Ohio	86	102	158	172	29	37	65	70	2	1											
+Ind.	32	37	74	54	18	16	17	12	1	1											
+Ill.	2	112	-	-	11	-	43	106	1	6											
+Mich.	120	115	-	N	-	N	23	52	5	17											
+Wis.	8	33	N	N	4	25	6	11	1	-											
+W.N. CENTRAL	112	138	18	8	30	29	57	52	-	-											
+Minn.	41	62	-	-	15	17	7	9	-	-											
+Iowa	N	N	N	N	-	N	1	2	-	-											
+Mo.	35	32	16	7	1	6	43	31	-	-											
+N. Dak.	2	4	-	-	1	-	-	-	-	-											
+S. Dak.	9	8	2	1	-	-	-	-	-	-											
+Nebr.	8	10	-	-	2	4	2	5	-	-											
+Kans.	17	22	N	N	11	2	4	5	-	-											
+S. ATLANTIC	322	330	414	483	36	20	522	584	16	18											
+Del.	-	2	1	3	-	N	5	2	-	-											
+Md.	92	56	-	-	26	15	99	94	6	3											
+D.C.	2	2	11	6	2	4	33	25	-	1											
+Va.	23	17	N	N	-	N	30	14	3	1											
+W. Va.	3	11	30	46	8	1	2	3	-	-											
+N.C.	44	45	N	N	U	U	73	44	2	1											
+S.C.	9	27	-	45	-	N	22	43	-	4											
+Ga.	64	94	152	130	-	N	37	117	-	1											
+Fla.	85	76	220	253	-	N	221	242	5	7											
+E.S. CENTRAL	65	87	67	60	3	-	110	112	10	4											
+Ky.	17	31	11	15	N	N	8	17	-	-											
+Tenn.	48	56	56	45	-	N	42	46	8	1											
+Ala.	-	-	-	-	-	N	51	37	2	2											
+Miss.	-	-	-	-	3	-	9	12	-	1											
+W.S. CENTRAL	73	130	60	30	32	66	361	357	19	30											
+Ark.	7	4	6	5	5	4	14	14	-	3											
+La.	4	1	54	25	8	17	63	80	2	2											
+Okla.	52	23	N	N	13	20	12	7	1	2											
+Tex.	10	102	N	N	6	25	272	256	16	23											
+MOUNTAIN	262	202	37	16	26	23	101	122	8	5											
+Mont.	-	-	-	-	-	-	5	-	-	-											
+Idaho	1	3	N	N	-	N	9	8	-	-											
+Wyo.	1	5	14	4	-	-	-	1	-	-											
+Colo.	110	36	N	N	25	21	13	21	-	-											
+N. Mex.	16	43	-	5	-	-	7	32	1	1											
+Ariz.	102	100	N	N	-	N	42	53	7	4											
+Utah	31	15	22	5	1	2	2	2	-	-											
+Nev.	1	-	1	2	-	-	23	5	-	-											
+PACIFIC	32	34	28	54	-	-	313	464	-	23											
+Wash.	N	N	N	N	N	N	50	23	-	-											
+Oreg.	N	N	N	N	-	N	10	11	-	-											
+Calif.	-	-	N	N	N	N	248	426	-	23											
+Alaska	-	-	-	-	-	N	3	-	-	-											
+Hawaii	32	34	28	54	-	-	2	4	-	-											
+Guam	-	-	-	-	-	-	-	-	-	-											
+P.R.	N	N	N	N	-	N	42	44	5	2											
+V.I.	-	-	-	-	-	-	-	4	-	-											
+Amer. Samoa	U	U	U	U	U	U	U	U	U	U											
+C.N.M.I.	-	U	-	U	-	U	-	U	-	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 2004 and 2005 are provisional and cumulative (year-to-date).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

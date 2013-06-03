@@ -1,0 +1,108 @@
+
+TABLE II. (Part 6)  Provisional cases of selected notifiable diseases, United States, week ending April 21, 2012 (WEEK 16)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Legionellosis current week
+Legionellosis previous 52 weeks median 
+Legionellosis previous 52 weeks maximum 
+Legionellosis cummulative for 2012
+Legionellosis cummulative for 2011
+Lyme disease current week
+Lyme disease previous 52 weeks median 
+Lyme disease previous 52 weeks maximum 
+Lyme disease cummulative for 2012
+Lyme disease cummulative for 2011
+Malaria current week
+Malaria previous 52 weeks median 
+Malaria previous 52 weeks maximum 
+Malaria cummulative for 2012
+Malaria cummulative for 2011
+
+tab delimited data:
+test
+UNITED STATES	11	71	180	528	591	172	571	2,238	3,973	3,491	5	28	56	216	336						
+NEW ENGLAND	-	4	39	27	40	1	86	514	485	901	-	1	7	11	25						
+Conn.	-	1	10	6	6	-	38	233	136	379	-	0	2	-	2						
+Maine	-	0	3	2	3	-	13	71	103	63	-	0	2	-	1						
+Mass.	-	3	24	13	23	-	13	106	157	307	-	0	6	10	19						
+N.H.	-	0	3	2	2	-	14	99	43	115	-	0	1	-	1						
+R.I.	-	0	9	4	4	-	1	30	9	10	-	0	2	-	-						
+Vt.	-	0	2	-	2	1	6	71	37	27	-	0	1	1	2						
+MID. ATLANTIC	8	18	91	133	149	115	347	1,235	2,825	1,760	3	6	12	48	75						
+N.J.	-	2	16	4	35	60	165	543	1,589	647	-	0	0	-	8						
+N.Y. (Upstate)	8	6	27	56	50	25	54	234	315	176	-	1	4	5	10						
+N.Y. City	-	3	17	25	25	-	9	42	4	140	1	4	11	33	43						
+Pa.	-	5	42	48	39	30	115	531	917	797	2	1	5	10	14						
+E.N. CENTRAL	-	14	51	116	118	1	32	372	98	254	1	3	10	23	43						
+Ill.	-	3	11	22	14	-	1	21	8	10	-	1	5	5	17						
+Ind.	-	2	8	24	22	-	1	12	4	4	-	0	2	4	4						
+Mich.	-	2	15	13	28	-	1	13	11	1	-	0	4	3	7						
+Ohio	-	7	34	57	53	1	1	6	8	7	1	0	4	10	13						
+Wis.	-	0	1	-	1	-	30	330	67	232	-	0	2	1	2						
+W.N. CENTRAL	-	1	8	11	11	-	1	16	5	6	-	1	5	9	8						
+Iowa	-	0	2	1	2	-	0	13	2	2	-	0	3	1	-						
+Kans.	-	0	2	-	2	-	0	2	-	2	-	0	2	3	1						
+Minn.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+Mo.	-	1	5	7	6	-	0	2	1	1	-	0	2	4	6						
+Nebr.	-	0	2	2	-	-	0	2	2	1	-	0	1	1	1						
+N. Dak.	-	0	1	-	-	-	0	9	-	-	-	0	0	-	-						
+S. Dak.	-	0	1	1	1	-	0	2	-	-	-	0	1	-	-						
+S. ATLANTIC	-	11	30	114	97	54	65	179	508	535	1	9	23	75	101						
+Del.	-	0	4	6	2	5	13	48	111	149	-	0	3	1	1						
+D.C.	-	0	3	1	1	-	0	3	3	6	-	0	2	-	5						
+Fla.	-	4	13	51	42	-	3	8	33	15	-	1	6	19	26						
+Ga.	-	1	4	13	8	-	0	5	5	1	-	1	6	14	16						
+Md.	-	2	15	16	15	44	20	115	234	217	1	2	13	18	28						
+N.C.	-	1	7	7	12	-	0	13	7	10	-	0	7	6	8						
+S.C.	-	0	5	4	3	-	0	6	6	3	-	0	1	3	-						
+Va.	-	1	7	14	11	5	18	74	99	131	-	1	8	14	17						
+W. Va.	-	0	5	2	3	-	0	22	10	3	-	0	1	-	-						
+E.S. CENTRAL	1	2	11	17	22	1	1	5	9	7	-	1	4	5	6						
+Ala.	-	0	2	4	5	-	0	2	2	3	-	0	3	2	1						
+Ky.	-	1	4	4	6	-	0	1	3	-	-	0	1	2	3						
+Miss.	-	0	3	1	2	-	0	1	-	-	-	0	1	1	1						
+Tenn.	1	1	8	8	9	1	0	4	4	4	-	0	3	-	1						
+W.S. CENTRAL	1	3	8	23	20	-	1	12	5	9	-	1	11	10	16						
+Ark.	1	0	2	3	1	-	0	0	-	-	-	0	1	1	1						
+La.	-	0	2	1	7	-	0	1	1	-	-	0	1	1	-						
+Okla.	-	0	3	-	1	-	0	0	-	-	-	0	3	4	2						
+Tex.	-	2	7	19	11	-	1	12	4	9	-	1	9	4	13						
+MOUNTAIN	1	2	10	25	32	-	1	6	7	6	-	1	5	9	18						
+Ariz.	-	1	4	11	8	-	0	4	2	2	-	0	4	1	5						
+Colo.	1	0	4	4	8	-	0	0	-	1	-	0	3	-	8						
+Idaho	-	0	1	2	1	-	0	2	2	-	-	0	1	2	-						
+Mont.	-	0	1	1	-	-	0	3	-	-	-	0	1	-	-						
+Nev.	-	0	2	4	6	-	0	1	1	-	-	0	2	4	3						
+N. Mex.	-	0	2	-	2	-	0	2	-	1	-	0	1	-	2						
+Utah	-	0	2	2	6	-	0	1	1	2	-	0	2	2	-						
+Wyo.	-	0	2	1	1	-	0	1	1	-	-	0	0	-	-						
+PACIFIC	-	5	18	62	102	-	3	8	31	13	-	3	11	26	44						
+Alaska	-	0	0	-	-	-	0	3	3	-	-	0	1	2	2						
+Calif.	-	4	11	50	91	-	2	7	11	5	-	2	7	22	30						
+Hawaii	-	0	2	-	1	N	0	0	N	N	-	0	2	1	1						
+Oreg.	-	0	3	10	3	-	1	3	17	8	-	0	4	1	6						
+Wash.	-	0	14	2	7	-	0	5	-	-	-	0	2	-	5						
+Amer. Samoa	N	0	0	N	N	N	0	0	N	N	-	0	1	-	-						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+P.R.	-	0	2	-	6	N	0	0	N	N	-	0	1	-	-						
+V.I.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Case counts for reporting years 2011 and 2012 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+Data for TB are displayed in Table IV, which appears quarterly.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

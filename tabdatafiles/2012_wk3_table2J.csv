@@ -1,0 +1,112 @@
+
+TABLE II. (Part 10)  Provisional cases of selected notifiable diseases, United States, week ending January 21, 2012 (WEEK 03)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Streptococcus pneumoniae, invasive disease †, all ages current week
+Streptococcus pneumoniae, invasive disease †, all ages previous 52 weeks median 
+Streptococcus pneumoniae, invasive disease †, all ages previous 52 weeks maximum 
+Streptococcus pneumoniae, invasive disease †, all ages cummulative for 2012
+Streptococcus pneumoniae, invasive disease †, all ages cummulative for 2011
+Streptococcus pneumoniae, invasive disease †, age <5 years current week
+Streptococcus pneumoniae, invasive disease †, age <5 years previous 52 weeks median 
+Streptococcus pneumoniae, invasive disease †, age <5 years previous 52 weeks maximum 
+Streptococcus pneumoniae, invasive disease †, age <5 years cummulative for 2012
+Streptococcus pneumoniae, invasive disease †, age <5 years cummulative for 2011
+Syphillis, primary & secondary current week
+Syphillis, primary & secondary previous 52 weeks median 
+Syphillis, primary & secondary previous 52 weeks maximum 
+Syphillis, primary & secondary cummulative for 2012
+Syphillis, primary & secondary cummulative for 2011
+
+tab delimited data:
+test
+UNITED STATES	146	261	464	695	1,177	11	20	41	46	62	58	263	316	276	656						
+NEW ENGLAND	2	14	31	20	69	-	1	4	-	1	-	7	22	7	22						
+Conn.	-	6	20	3	36	-	0	3	-	-	-	0	12	-	1						
+Maine	2	2	8	11	11	-	0	1	-	-	-	0	2	-	1						
+Mass.	-	0	3	-	3	-	0	2	-	1	-	5	10	6	14						
+N.H.	-	1	8	1	7	-	0	1	-	-	-	0	3	-	1						
+R.I.	-	1	6	-	10	-	0	1	-	-	-	0	7	1	5						
+Vt.	-	1	6	5	2	-	0	2	-	-	-	0	2	-	-						
+MID. ATLANTIC	19	15	50	92	83	1	1	9	3	2	9	30	53	32	95						
+N.J.	-	0	12	18	-	-	0	2	2	-	-	4	13	-	8						
+N.Y. (Upstate)	17	2	30	49	5	1	1	8	1	2	1	4	9	7	5						
+N.Y. City	2	12	24	25	78	-	0	9	-	-	-	14	24	10	59						
+Pa.	N	0	0	N	N	N	0	0	N	N	8	7	17	15	23						
+E.N. CENTRAL	37	63	123	165	239	3	3	10	11	14	8	30	48	21	80						
+Ill.	N	0	0	N	N	-	0	0	-	-	7	11	24	12	31						
+Ind.	-	14	36	5	46	-	1	4	-	1	1	3	8	4	11						
+Mich.	4	13	26	32	48	1	0	3	2	5	-	5	12	1	17						
+Ohio	32	27	43	103	110	1	2	7	6	5	-	8	17	4	19						
+Wis.	1	8	24	25	35	1	0	2	3	3	-	1	5	-	2						
+W.N. CENTRAL	4	2	28	13	11	-	0	2	-	1	-	6	13	1	22						
+Iowa	N	0	0	N	N	N	0	0	N	N	-	0	3	1	-						
+Kans.	N	0	0	N	N	N	0	0	N	N	-	0	4	-	-						
+Minn.	-	0	0	-	-	-	0	0	-	-	-	2	8	-	10						
+Mo.	N	0	0	N	N	-	0	0	-	-	-	2	6	-	11						
+Nebr.	4	2	9	13	11	-	0	2	-	1	-	0	2	-	1						
+N. Dak.	-	0	25	-	-	-	0	1	-	-	-	0	0	-	-						
+S. Dak.	N	0	0	N	N	-	0	0	-	-	-	0	0	-	-						
+S. ATLANTIC	38	67	143	211	402	4	5	15	13	24	20	68	100	93	146						
+Del.	1	1	5	4	9	-	0	0	-	-	1	0	4	2	2						
+D.C.	-	1	5	1	2	-	0	1	1	-	6	3	8	13	8						
+Fla.	21	21	55	92	170	1	2	8	5	10	1	23	36	28	71						
+Ga.	8	19	38	58	110	1	2	5	5	8	2	15	31	17	16						
+Md.	2	9	29	20	65	-	1	3	-	5	3	8	20	5	13						
+N.C.	N	0	0	N	N	N	0	0	N	N	7	8	21	19	17						
+S.C.	-	8	22	23	46	-	0	3	-	1	-	4	11	-	8						
+Va.	N	0	0	N	N	-	0	0	-	-	-	4	12	9	11						
+W. Va.	6	0	48	13	-	2	0	4	2	-	-	0	1	-	-						
+E.S. CENTRAL	21	23	45	74	102	2	2	4	7	11	-	15	30	4	32						
+Ala.	N	0	0	N	N	N	0	0	N	N	-	4	11	-	13						
+Ky.	3	4	12	14	20	-	0	3	-	3	-	2	8	2	3						
+Miss.	N	0	0	N	N	-	0	0	-	-	-	3	14	-	1						
+Tenn.	18	19	39	60	82	2	2	4	7	8	-	5	11	2	15						
+W.S. CENTRAL	16	31	96	49	100	1	3	10	6	1	16	36	50	66	84						
+Ark.	4	4	14	11	19	1	0	4	2	1	-	4	10	-	9						
+La.	-	2	11	1	20	-	0	2	-	-	3	7	25	9	6						
+Okla.	N	0	0	N	N	-	0	0	-	-	-	1	6	-	2						
+Tex.	12	24	83	37	61	-	3	9	4	-	13	23	38	57	67						
+MOUNTAIN	9	26	72	65	162	-	2	8	3	8	-	12	20	4	21						
+Ariz.	7	11	45	43	80	-	1	5	2	2	-	4	10	3	12						
+Colo.	-	8	23	10	39	-	0	4	-	1	-	2	6	1	2						
+Idaho	N	0	0	N	N	-	0	0	-	-	-	0	4	-	-						
+Mont.	N	0	0	N	N	N	0	0	N	N	-	0	1	-	2						
+Nev.	N	0	0	N	N	N	0	0	N	N	-	2	9	-	5						
+N. Mex.	2	4	12	12	24	-	0	2	1	1	-	1	4	-	-						
+Utah	-	2	8	-	16	-	0	3	-	4	-	0	2	-	-						
+Wyo.	-	0	3	-	3	-	0	0	-	-	-	0	0	-	-						
+PACIFIC	-	3	11	6	9	-	0	2	3	-	5	56	74	48	154						
+Alaska	-	2	11	6	9	-	0	2	3	-	-	0	2	-	-						
+Calif.	N	0	0	N	N	N	0	0	N	N	3	44	62	39	130						
+Hawaii	-	0	1	-	-	-	0	1	-	-	-	0	3	-	-						
+Oreg.	N	0	0	N	N	N	0	0	N	N	-	4	14	2	5						
+Wash.	N	0	0	N	N	N	0	0	N	N	2	6	11	7	19						
+Amer. Samoa	N	0	0	N	N	-	0	0	-	-	-	0	0	-	-						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+P.R.	-	0	0	-	-	-	0	0	-	-	-	4	15	4	7						
+V.I.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Case counts for reporting years 2011 and 2012 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+Data for TB are displayed in Table IV, which appears quarterly.
+
+† Includes drug resistant and susceptible cases of invasive Streptococcus pneumoniae disease among
+children <5 years and among all ages.  Case definition: Isolation of S. pneumoniae from a normally
+sterile body site (e.g. blood or cerebrospinal fluid).
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

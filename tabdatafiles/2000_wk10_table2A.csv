@@ -1,0 +1,101 @@
+
+TABLE II. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending March 11, 2000 (WEEK 10)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+AIDS § cummulative for 2000
+AIDS § cummulative for 1999
+Chlamydia† cummulative for 2000
+Chlamydia† cummulative for 1999
+Cryptosporidiosis cummulative for 2000
+Cryptosporidiosis cummulative for 1999
+Escherichia coli O157:H7 NETSS cummulative for 2000
+Escherichia coli O157:H7 NETSS cummulative for 1999
+Escherichia coli O157:H7 PHLIS cummulative for 2000
+Escherichia coli O157:H7 PHLIS cummulative for 1999
+
+tab delimited data:
+test
+UNITED STATES	6,288	6,945	92,763	126,196	183	264	246	206	123	176											
+NEW ENGLAND	511	352	3,803	3,991	7	11	21	31	18	31											
+Maine	6	5	247	141	1	1	1	2	1	-											
+N.H.	5	13	155	199	-	1	4	1	3	1											
+Vt.	1	4	109	89	5	1	1	1	2	-											
+Mass.	370	238	1,506	1,735	-	7	7	18	4	16											
+R.I.	17	20	424	412	1	-	-	-	-	1											
+Conn.	112	72	1,362	1,415	-	1	8	9	8	13											
+MID. ATLANTIC	1,592	1,492	4,001	14,785	19	51	23	13	20	2											
+Upstate N.Y.	65	76	N	N	12	19	23	9	20	-											
+N.Y. City	986	835	-	7,244	4	26	-	1	-	1											
+N.J.	387	370	637	2,433	-	2	-	3	-	1											
+Pa.	154	211	3,364	5,108	3	4	N	N	-	-											
+E.N. CENTRAL	590	489	16,192	19,901	19	50	29	38	8	23											
+Ohio	92	97	3,877	6,536	12	6	9	20	3	7											
+Ind.	56	52	2,254	2,135	3	3	3	8	1	7											
+Ill.	353	231	4,453	5,108	-	6	9	5	-	3											
+Mich.	67	81	4,191	3,866	4	7	8	5	2	3											
+Wis.	22	28	1,417	2,256	-	28	N	N	2	3											
+W.N. CENTRAL	151	161	4,620	7,976	11	19	60	38	27	48											
+Minn.	32	28	1,098	1,493	3	10	11	10	10	12											
+Iowa	10	13	605	446	1	1	11	5	4	2											
+Mo.	70	84	902	3,643	3	4	30	3	8	2											
+N. Dak.	-	3	-	175	1	-	2	2	1	1											
+S. Dak.	2	3	347	398	1	1	-	-	-	-											
+Nebr.	7	10	611	728	2	1	2	4	2	31											
+Kans.	30	20	1,057	1,093	-	2	4	14	2	-											
+S. ATLANTIC	1,531	1,832	20,330	27,019	33	39	24	21	15	11											
+Del.	26	31	546	592	-	-	-	1	-	-											
+Md.	153	252	1,185	2,600	2	4	5	1	1	-											
+D.C.	112	69	552	N	-	3	-	-	U	U											
+Va.	115	102	2,761	2,973	-	-	5	6	5	2											
+W. Va.	6	14	267	452	-	-	2	-	1	1											
+N.C.	75	125	6,859	4,357	3	1	6	5	1	4											
+S.C.	156	128	669	4,596	-	-	-	1	-	1											
+Ga.	183	207	3,054	5,554	20	27	2	1	3	U											
+Fla.	705	904	4,437	5,895	8	4	4	6	4	3											
+E.S. CENTRAL	281	300	8,495	8,500	6	2	10	16	6	11											
+Ky.	37	37	1,531	1,486	-	1	4	5	2	4											
+Tenn.	105	130	2,243	2,676	-	1	5	6	4	3											
+Ala.	92	69	2,810	2,848	6	-	1	2	-	3											
+Miss.	47	64	1,911	1,490	-	-	-	3	-	1											
+W.S. CENTRAL	542	980	15,793	16,368	6	15	10	7	11	10											
+Ark.	20	34	844	1,077	1	-	4	2	1	2											
+La.	92	67	2,232	1,680	-	12	-	3	6	2											
+Okla.	16	19	1,517	1,500	1	1	3	1	3	-											
+Tex.	414	860	11,200	12,111	4	2	3	1	1	6											
+MOUNTAIN	213	207	3,637	6,683	12	22	26	14	8	11											
+Mont.	3	3	-	210	1	1	8	-	-	-											
+Idaho	3	5	64	371	1	2	3	-	-	2											
+Wyo.	1	-	156	151	1	-	2	1	2	1											
+Colo.	52	56	658	1,458	1	2	8	4	2	1											
+N. Mex.	26	9	334	918	1	10	-	1	-	-											
+Ariz.	56	86	1,407	2,617	2	7	3	3	3	1											
+Utah	28	27	431	339	5	N	1	5	1	5											
+Nev.	44	21	587	619	-	-	1	-	-	1											
+PACIFIC	877	1,132	15,892	20,973	70	55	43	28	10	29											
+Wash.	102	58	2,473	2,354	N	N	5	1	3	12											
+Oreg.	22	32	900	1,162	1	3	5	12	4	9											
+Calif.	727	1,021	12,276	16,472	69	52	30	15	-	8											
+Alaska	-	5	243	370	-	-	-	-	-	-											
+Hawaii	26	16	-	615	-	-	3	-	3	-											
+Guam	9	1	-	88	-	-	N	N	U	U											
+P.R.	153	215	142	U	-	-	-	1	U	U											
+V.I.	6	3	-	U	-	U	-	U	U	U											
+Amer. Samoa	-	-	-	U	-	U	-	U	U	U											
+C.N.M.I.	-	-	-	U	-	U	-	U	U	U											
+
+N: Not notifiable
+U: Unavailable
+-: No reported cases
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+
+* Incidence data for reporting years 1999 and 2000 are provisional and cumulative (year-to-date).
+
+† Chlamydia refers to genital infections caused by Chlamydia trachomatis.
+
+§ Updated monthly from reports to the Division of HIV/AIDS Prevention, National Center for HIV, STD, and TB Prevention. 
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

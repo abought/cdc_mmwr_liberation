@@ -1,0 +1,106 @@
+
+TABLE II. (Part 5)  Provisional cases of selected notifiable diseases, United States, week ending December 15, 2007 (WEEK 50)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Pertussis current week
+Pertussis previous 52 weeks median 
+Pertussis previous 52 weeks maximum 
+Pertussis cummulative for 2007
+Pertussis cummulative for 2006
+Rabies, animal current week
+Rabies, animal previous 52 weeks median 
+Rabies, animal previous 52 weeks maximum 
+Rabies, animal cummulative for 2007
+Rabies, animal cummulative for 2006
+Rocky Mountain Spotted Fever current week
+Rocky Mountain Spotted Fever previous 52 weeks median 
+Rocky Mountain Spotted Fever previous 52 weeks maximum 
+Rocky Mountain Spotted Fever cummulative for 2007
+Rocky Mountain Spotted Fever cummulative for 2006
+
+tab delimited data:
+test
+UNITED STATES	86	171	1,479	8,399	13,813	40	103	188	5,245	5,363	3	34	211	2,023	2,043						
+NEW ENGLAND	-	26	77	1,205	1,854	6	11	22	546	477	-	0	10	6	13						
+Conn.	-	1	5	59	123	2	4	10	212	204	-	0	0	-	-						
+Maine	-	1	13	74	158	-	2	5	80	125	-	0	1	1	N						
+Mass.	-	21	38	928	1,176	-	0	0	-	N	-	0	1	4	11						
+N.H.	-	1	5	60	220	1	1	4	53	47	-	0	1	1	1						
+R.I.	-	0	31	32	70	-	0	4	40	30	-	0	9	-	1						
+Vt.	-	0	9	52	107	3	3	13	161	71	-	0	0	-	-						
+MID. ATLANTIC	10	23	155	1,142	1,867	5	25	56	1,343	527	-	1	7	81	87						
+N.J.	-	2	10	139	297	N	0	0	N	N	-	0	3	23	40						
+N.Y. (Upstate)	10	10	146	530	885	5	10	20	504	N	-	0	1	3	-						
+N.Y. City	-	2	6	122	110	-	1	5	42	43	-	0	3	28	23						
+Pa.	-	7	18	351	575	-	15	44	797	484	-	0	3	27	24						
+E.N. CENTRAL	3	27	79	1,279	2,249	2	4	48	389	162	-	1	4	43	64						
+Ill.	-	3	17	150	575	-	1	15	113	46	-	0	3	26	26						
+Ind.	-	0	45	55	231	-	0	1	12	11	-	0	2	4	6						
+Mich.	-	5	17	270	616	-	1	27	180	47	-	0	1	3	5						
+Ohio	3	12	54	605	609	2	1	11	84	58	-	0	2	10	26						
+Wis.	-	1	24	199	218	N	0	0	N	N	-	0	0	-	1						
+W.N. CENTRAL	48	12	151	757	1,243	1	4	13	255	303	2	5	37	456	196						
+Iowa	-	2	14	136	327	-	0	3	32	57	-	0	4	15	5						
+Kans.	-	3	8	133	302	-	2	7	101	78	-	0	2	13	1						
+Minn.	46	0	119	259	164	-	0	6	39	39	-	0	1	2	4						
+Mo.	-	2	9	97	304	-	0	3	38	66	2	5	29	408	161						
+Nebr.	-	1	12	65	96	-	0	0	-	-	-	0	2	14	25						
+N. Dak.	2	0	18	10	25	1	0	6	22	26	-	0	0	-	-						
+S. Dak.	-	1	7	57	25	-	0	2	23	37	-	0	1	4	-						
+S. ATLANTIC	2	16	163	872	1,097	22	40	76	2,063	2,234	-	15	112	943	1,149						
+Del.	-	0	2	11	3	-	0	0	-	-	-	0	2	15	21						
+D.C.	-	0	1	2	6	-	0	0	-	-	-	0	1	1	1						
+Fla.	1	4	18	208	201	-	0	29	117	176	-	0	4	22	16						
+Ga.	-	0	2	29	102	-	4	34	265	259	-	0	5	38	53						
+Md.	1	2	6	111	148	10	7	18	386	404	-	1	4	65	89						
+N.C.	-	4	112	292	189	4	9	19	471	505	-	5	96	610	815						
+S.C.	-	1	5	68	193	-	0	11	46	174	-	0	7	60	43						
+Va.	-	2	11	121	208	8	13	31	701	602	-	2	11	127	108						
+W. Va.	-	0	19	30	47	-	0	11	77	114	-	0	3	5	3						
+E.S. CENTRAL	-	6	35	405	348	-	3	9	140	239	1	4	16	255	367						
+Ala.	-	1	18	82	88	-	0	1	-	82	-	1	10	90	91						
+Ky.	-	0	4	27	58	-	0	3	18	28	-	0	2	5	3						
+Miss.	-	1	32	218	37	-	0	1	1	4	-	0	2	14	9						
+Tenn.	-	1	5	78	165	-	2	7	121	125	1	2	10	146	264						
+W.S. CENTRAL	2	19	226	965	893	2	1	23	79	969	-	1	168	195	119						
+Ark.	2	1	17	137	95	1	1	2	33	31	-	0	53	101	51						
+La.	-	0	2	19	24	-	0	0	-	7	-	0	1	3	5						
+Okla.	-	0	36	49	28	1	0	22	46	66	-	0	108	53	31						
+Tex.	-	15	174	760	746	-	0	14	-	865	-	1	7	38	32						
+MOUNTAIN	6	21	61	1,082	2,418	-	3	14	216	211	-	0	4	36	46						
+Ariz.	-	4	13	197	500	-	2	12	149	138	-	0	2	10	11						
+Colo.	5	6	14	300	705	-	0	0	-	-	-	0	2	4	4						
+Idaho	1	1	5	42	86	-	0	0	-	24	-	0	1	4	14						
+Mont.	-	0	7	43	114	-	0	3	20	15	-	0	1	1	2						
+Nev.	-	0	3	9	71	-	0	1	1	5	-	0	0	-	-						
+N. Mex.	-	1	7	66	142	-	0	2	12	10	-	0	1	4	8						
+Utah	-	7	47	402	721	-	0	2	16	11	-	0	1	1	-						
+Wyo.	-	0	4	23	79	-	0	4	18	8	-	0	2	12	7						
+PACIFIC	15	12	547	692	1,844	2	4	10	214	241	-	0	3	8	2						
+Alaska	-	0	8	50	90	-	0	6	40	17	N	0	0	N	N						
+Calif.	5	4	167	244	1,560	2	3	8	162	199	-	0	3	6	-						
+Hawaii	-	0	1	4	87	N	0	0	N	N	N	0	0	N	N						
+Oreg.	-	2	14	111	107	-	0	3	12	25	-	0	1	2	2						
+Wash.	10	3	377	283	-	-	0	0	-	-	N	0	0	N	N						
+Amer. Samoa	-	0	0	-	-	N	0	0	N	N	N	0	0	N	N						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	0	1	-	64	-	0	0	-	-	N	0	0	N	N						
+P.R.	-	0	1	1	3	-	0	5	47	77	N	0	0	N	N						
+V.I.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not notifiable.
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Incidence data for reporting year 2007 are provisional.
+Data for HIV/AIDS, AIDS, and TB, when available, are displayed in Table IV, which appears quarterly.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

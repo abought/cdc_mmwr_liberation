@@ -1,0 +1,111 @@
+
+TABLE II. (Part 7)  Provisional cases of selected notifiable diseases, United States, week ending October 30, 2010 (WEEK 43)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Meningococcal diseases, invasive †, All groups current week
+Meningococcal diseases, invasive †, All groups previous 52 weeks median 
+Meningococcal diseases, invasive †, All groups previous 52 weeks maximum 
+Meningococcal diseases, invasive †, All groups cummulative for 2010
+Meningococcal diseases, invasive †, All groups cummulative for 2009
+Pertussis current week
+Pertussis previous 52 weeks median 
+Pertussis previous 52 weeks maximum 
+Pertussis cummulative for 2010
+Pertussis cummulative for 2009
+Rabies, animal current week
+Rabies, animal previous 52 weeks median 
+Rabies, animal previous 52 weeks maximum 
+Rabies, animal cummulative for 2010
+Rabies, animal cummulative for 2009
+
+tab delimited data:
+test
+UNITED STATES	8	16	43	603	778	191	309	1,756	15,605	12,925	15	67	140	2,803	4,494						
+NEW ENGLAND	-	0	2	13	29	-	7	21	348	561	1	4	15	205	295						
+Conn.	-	0	2	2	3	-	1	8	95	45	-	0	14	59	130						
+Maine	-	0	1	3	4	-	0	5	37	76	-	1	4	55	48						
+Mass.	-	0	1	3	14	-	4	11	164	318	-	0	0	-	-						
+N.H.	-	0	0	-	3	-	0	2	15	72	-	0	5	12	29						
+R.I.	-	0	0	-	4	-	0	9	26	39	-	1	4	31	38						
+Vt.	-	0	1	5	1	-	0	4	11	11	1	1	5	48	50						
+MID. ATLANTIC	-	1	4	52	85	41	23	64	1,237	1,002	10	18	41	869	507						
+N.J.	-	0	2	9	16	-	3	8	103	209	-	0	0	-	-						
+N.Y. (Upstate)	-	0	3	11	17	24	8	27	443	183	10	9	19	439	389						
+N.Y. City	-	0	2	14	14	-	0	9	73	80	-	2	12	120	18						
+Pa.	-	0	2	18	38	17	10	40	618	530	-	5	24	310	100						
+E.N. CENTRAL	1	2	8	108	141	51	74	173	3,793	2,713	-	2	27	218	213						
+Ill.	-	0	4	19	37	-	12	29	615	563	-	1	11	112	80						
+Ind.	-	0	3	22	31	-	9	26	429	314	-	0	0	-	25						
+Mich.	-	0	2	18	18	-	23	51	1,056	738	-	1	5	63	63						
+Ohio	1	1	2	28	34	51	23	69	1,345	946	-	0	12	43	45						
+Wis.	-	0	2	21	21	-	6	17	348	152	-	0	0	-	-						
+W.N. CENTRAL	-	1	6	42	65	29	30	627	1,830	1,852	2	4	16	210	349						
+Iowa	-	0	3	9	8	-	8	26	407	206	-	0	2	7	31						
+Kans.	-	0	2	6	13	2	3	9	136	215	1	1	4	56	69						
+Minn.	-	0	2	2	11	-	0	601	692	366	-	0	9	26	55						
+Mo.	-	0	3	18	21	25	8	25	346	880	1	1	6	64	64						
+Nebr.	-	0	2	5	7	2	2	13	182	128	-	1	4	44	77						
+N. Dak.	-	0	1	2	1	-	0	30	41	17	-	0	7	13	4						
+S. Dak.	-	0	2	-	4	-	1	5	26	40	-	0	2	-	49						
+S. ATLANTIC	-	3	7	114	142	23	27	78	1,294	1,425	-	21	73	908	1,865						
+Del.	-	0	1	2	2	-	0	4	11	13	-	0	0	-	-						
+D.C.	-	0	0	-	-	-	0	1	5	6	-	0	0	-	-						
+Fla.	-	1	5	51	45	5	5	28	269	464	-	0	60	72	161						
+Ga.	-	0	2	9	29	7	3	18	202	208	-	0	13	-	352						
+Md.	-	0	1	7	9	3	3	8	111	126	-	7	14	313	341						
+N.C.	-	0	2	14	27	-	1	32	124	179	-	0	10	-	423						
+S.C.	-	0	1	10	11	1	5	19	294	225	-	0	0	-	-						
+Va.	-	0	2	19	14	4	5	15	194	176	-	10	25	458	486						
+W. Va.	-	0	2	2	5	3	1	13	84	28	-	1	7	65	102						
+E.S. CENTRAL	2	1	4	37	25	8	14	33	623	684	2	3	7	132	130						
+Ala.	-	0	2	6	7	-	4	8	167	267	1	0	4	44	-						
+Ky.	1	0	2	17	4	4	4	13	216	200	1	0	4	19	44						
+Miss.	-	0	1	4	3	-	1	7	54	58	-	0	1	1	4						
+Tenn.	1	0	2	10	11	4	4	11	186	159	-	1	4	68	82						
+W.S. CENTRAL	2	1	9	70	76	25	57	753	2,357	2,742	-	1	30	61	811						
+Ark.	-	0	1	5	8	7	3	29	159	304	-	0	7	21	38						
+La.	-	0	4	12	16	-	1	4	30	136	-	0	0	-	-						
+Okla.	-	0	7	15	11	-	0	41	54	41	-	0	30	40	30						
+Tex.	2	1	7	38	41	18	48	681	2,114	2,261	-	0	19	-	743						
+MOUNTAIN	-	1	6	46	55	4	23	56	1,133	823	-	1	8	76	97						
+Ariz.	-	0	2	11	12	2	7	16	348	214	-	0	5	-	-						
+Colo.	-	0	4	15	18	-	4	16	198	190	-	0	0	-	-						
+Idaho	-	0	2	7	7	2	3	19	174	68	-	0	2	11	8						
+Mont.	-	0	1	1	5	-	1	12	66	52	-	0	3	16	25						
+Nev.	-	0	1	8	4	-	0	7	30	24	-	0	2	7	6						
+N. Mex.	-	0	1	3	3	-	2	10	108	60	-	0	2	11	25						
+Utah	-	0	1	1	2	-	4	14	199	193	-	0	2	10	12						
+Wyo.	-	0	1	-	4	-	0	2	10	22	-	0	4	21	21						
+PACIFIC	3	3	16	121	160	10	39	205	2,990	1,123	-	3	12	124	227						
+Alaska	-	0	1	1	6	-	0	6	35	38	-	0	2	12	11						
+Calif.	2	1	13	77	103	-	27	177	2,277	573	-	2	12	100	205						
+Hawaii	-	0	1	1	5	-	0	6	39	37	-	0	0	-	-						
+Oreg.	1	1	2	27	33	-	6	16	289	234	-	0	2	12	11						
+Wash.	-	0	7	15	13	10	5	38	350	241	-	0	0	-	-						
+Amer. Samoa	-	0	0	-	-	-	0	0	-	-	N	0	0	N	N						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	0	0	-	-	-	0	2	-	-	-	0	0	-	-						
+P.R.	-	0	1	-	-	-	0	1	2	1	-	1	3	36	37						
+V.I.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Case counts for reporting year 2010 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+Data for HIV/AIDS, AIDS, and TB, when available, are displayed in Table IV, which appears quarterly.
+
+† Data for meningococcal disease, invasive caused by serogroups A, C, Y, & W-135; serogroup B; other serogroup; and 
+unknown serogroup are available in Table I.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

@@ -1,0 +1,139 @@
+
+TABLE I.  Provisional cases of infrequently reported notifiable diseases (<1,000 cases reported during the preceding year), United States, week ending August 15, 2009 (WEEK 32)*
+
+column labels in same order that data fields appears in each record below:
+Disease
+Current week
+Cummulative for 2009
+5-year weekly average†
+Total cases reported for year 2008
+Total cases reported for year 2007
+Total cases reported for year 2006
+Total cases reported for year 2005
+Total cases reported for year 2004
+States reporting cases during current week (No.)
+
+tab delimited data:
+test
+Anthrax	-	-	-	-	1	1	-	-		
+Botulism:										
+foodborne	-	11	1	17	32	20	19	16		
+infant	-	29	2	109	85	97	85	87		
+other(wound & unspecified)	-	14	1	19	27	48	31	30		
+Brucellosis	1	60	3	80	131	121	120	114	CA (1 )	
+Chancroid	-	23	0	25	23	33	17	30		
+Cholera	-	2	0	5	7	9	8	6		
+Cyclosporiasis §	6	88	5	139	93	137	543	160	NY (2 ), FL (3 ), TX (1 )	
+Diphtheria	-	-	-	-	-	-	-	-		
+Domestic arboviral diseases §, ¶ :										
+California serogroup	-	3	5	62	55	67	80	112		
+eastern equine	-	1	1	4	4	8	21	6		
+Powassan	-	-	0	2	7	1	1	1		
+St. Louis	-	6	1	13	9	10	13	12		
+western equine	-	-	-	-	-	-	-	-		
+Ehrlichiosis/Anaplasmosis §,**:										
+Ehrlichia chaffeensis	13	379	27	1,137	828	578	506	338	NY (2 ), MO (2 ), MD (1 ), VA (4 ), KY (1 ), TN (2 ), AL (1 )	
+Ehrlichia ewingii	-	2	0	9	-	-	-	-		
+Anaplasma phagocytophilum	3	281	23	1,026	834	646	786	537	NY (1 ), MN (2 )	
+undetermined	3	74	6	180	337	231	112	59	MN (1 ), MO (1 ), TN (1 )	
+Haemophilus influenzae ††, invasive disease (age &lt;5 yrs):										
+serotype B	-	13	0	30	22	29	9	19		
+nonserotype B	-	126	3	244	199	175	135	135		
+unknown serotype	-	137	3	163	180	179	217	177		
+Hansen disease §	5	41	1	80	101	66	87	105	CA (1 ), HI (4 )	
+Hantavirus pulmonary syndrome §	-	6	0	18	32	40	26	24		
+Hemolytic uremic syndrome, post-diarrheal §	4	117	8	330	292	288	221	200	NY (2 ), NC (1 ), OK (1 )	
+Hepatitis C viral, acute	7	979	16	878	845	766	652	720	ME (1 ), PA (2 ), MI (1 ), FL (1 ), OK (1 ), CA (1 )	
+HIV infection, pediatric (age &lt;13 yrs) §§	-	-	3	-	-	-	380	436		
+Influenza-associated pediatric mortality §, ¶¶	4	106	0	90	77	43	45	-	FL (1 ), AZ (1 ), WA (1 ), WI (1 )	
+Listeriosis	15	375	22	759	808	884	896	753	NY (2 ), MI (1 ), MD (1 ), NC (1 ), OK (2 ), WA (1 ), CA (7 )	
+Measles ***	1	48	1	140	43	55	66	37	NV (1 )	
+Meningococcal disease, invasive ††† :										
+A,C,Y, and W-135	1	175	4	330	325	318	297	-	TX (1 )	
+serogroup B	-	93	2	188	167	193	156	-		
+other serogroup	-	18	1	38	35	32	27	-		
+unknown serogroup	12	304	8	616	550	651	765	-	MO (2 ), FL (2 ), AZ (1 ), OR (1 ), CA (6 )	
+Mumps	3	208	14	454	800	6,584	314	258	AZ (1 ), CA (2 )	
+Novel influenza A infection virus §§§	-	&#167;&#167;&#167	0	2	4	N	N	N		
+Plague	-	6	0	3	7	17	8	3		
+Poliomyelitis, paralytic	-	-	-	-	-	-	1	-		
+Poliovirus infection, nonparalytic §	-	-	-	-	-	N	N	N		
+Psittacosis §	-	7	0	8	12	21	16	12		
+Q fever total §,¶¶¶:	1	46	3	124	171	169	136	70		
+acute	1	39	1	110	-	-	-	-	OH (1 )	
+chronic	-	7	0	14	-	-	-	-		
+Rabies, human	-	1	0	2	1	3	2	7		
+Rubella ****	-	3	0	16	12	11	11	10		
+Rubella, congenital syndrome	-	1	-	-	-	1	1	-		
+SARS CoV §, ††††	-	-	-	-	-	-	-	-		
+Smallpox §	-	-	-	-	-	-	-	-		
+Streptococcal toxic-shock syndrome §	1	94	1	157	132	125	129	132	CT (1 )	
+Syphilis, congenital (age &lt;1 yr)	-	108	8	434	430	349	329	353		
+Tetanus	-	6	0	19	28	41	27	34		
+Toxic-shock syndrome (staphylococcal) §	-	48	2	71	92	101	90	95		
+Trichinellosis	-	12	0	39	5	15	16	5		
+Tularemia	1	41	5	123	137	95	154	134	CO (1 )	
+Typhoid fever	4	204	9	449	434	353	324	322	FL (1 ), CA (3 )	
+Vancomycin-intermediate Staphylococcus aureus §	1	45	0	63	37	6	2	-	OH (1 )	
+Vancomycin-resistant Staphylococcus aureus §	-	-	-	-	2	1	3	1		
+Vibriosis (non-cholera Vibrio species infections) §	15	233	13	492	549	N	N	N	MD (1 ), VA (1 ), FL (3 ), OK (1 ), CO (1 ), WA (2 ), CA (5 ), HI (1 )	
+Yellow fever	-	-	-	-	-	-	-	-		
+
+-: No reported cases
+N: Not reportable
+Cum: Cumulative year-to-date counts.
+
+* Incidence data for reporting years 2008 and 2009 are provisional, whereas data for 
+2004, 2005, 2006, and 2007 are finalized.
+
+† Calculated by summing the incidence counts for the current week, the 2 weeks preceding the current week, and the 2 weeks 
+following the current week, for a total of 5 preceding years.  The total sum of incident cases is then 
+divided by 25 weeks. Additional information is available at 
+http://wwwn.cdc.gov/nndss/document/5yearweeklyaverage.pdf.
+
+§ Not reportable in all states.  Data from states where the condition is not reportable are excluded from this table, 
+except starting in 2007 for the Arboviral diseases and influenza-associated pediatic mortality, and in 2003 for 
+SARS-CoV.  Reporting exceptions are available at http://wwwn.cdc.gov/nndss/document/SRCA_FINAL_REPORT_2006-2010.xlsx.
+
+¶ Includes both neuroinvasive and non-neuroinvasive. Updated weekly from reports to the Division of Vector-Borne Infectious 
+Diseases, National Center for Zoonotic, Vector-Borne, and Enteric Diseases (ArboNET Surveillance). Data for 
+West Nile virus are available in Table II.
+
+** The names of the reporting categories changed in 2008 as a result of revisions to the case definitions. Cases 
+reported prior to 2008 were reported in the categories: Ehrlichiosis, human monocytic (analogous to E. chaffeensis); 
+Ehrlichiosis, human granulocytic (analogous to Anaplasma phagocytophilum), and Ehrlichiosis, unspecified, or other agent 
+(which included cases unable to be clearly placed in other categories, as well as possible cases of E. ewingii). 
+
+†† Data for H. influenzae (all ages, all serotypes) are available in Table II.
+
+§§ Updated monthly from reports to the Division of HIV/AIDS Prevention, National Center for HIV/AIDS, 
+Viral Hepatitis, STD, and TB Prevention. Implementation of HIV reporting influences the 
+number of cases reported. Updates of pediatric HIV data have been temporarily suspended until upgrading 
+of the national HIV/ AIDS surveillance data management system is completed. Data for HIV/AIDS usually are 
+available quarterly in Table IV.
+
+¶¶ Updated weekly from reports to the Influenza Division, National Center for Immunization and Respiratory 
+Diseases. Please refer to the MMWR publication for weekly updates to the footnote for this condition.
+
+*** Please refer to the MMWR publication for weekly updates to the footnote for this condition.
+
+††† Data for meningococcal disease (all serogroups) are available in Table II.
+
+§§§ CDC discontinued reporting of individual confirmed and probable cases of novel influenza A (H1N1) 
+viruses infections on July 24, 2009.  CDC will report the total number of novel influenza A (H1N1) 
+hospitalizations and deaths weekly on the CDC H1N1 influenza website
+http://www.cdc.gov/h1n1flu.
+
+¶¶¶ In 2008, Q fever acute and chronic reporting categories were recognized as a result of revisions 
+to the Q fever case definition. Prior to that time, case counts were not differentiated with respect 
+to acute and chronic Q fever cases.
+
+**** Please refer to the MMWR publication for weekly updates to the footnote for this condition.
+
+†††† Updated weekly from reports to the Division of Viral and Rickettsial Diseases, National Center for Zoonotic, 
+Vector-Borne, and Enteric Diseases.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

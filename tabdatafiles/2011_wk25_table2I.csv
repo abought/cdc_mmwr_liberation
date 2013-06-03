@@ -1,0 +1,110 @@
+
+TABLE II. (Part 9)  Provisional cases of selected notifiable diseases, United States, week ending June 25, 2011 (WEEK 25)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Shigellosis current week
+Shigellosis previous 52 weeks median 
+Shigellosis previous 52 weeks maximum 
+Shigellosis cummulative for 2011
+Shigellosis cummulative for 2010
+Spotted Fever Rickettsiosis (including RMSF) † Confirmed current week
+Spotted Fever Rickettsiosis (including RMSF) † Confirmed previous 52 weeks median 
+Spotted Fever Rickettsiosis (including RMSF) † Confirmed previous 52 weeks maximum 
+Spotted Fever Rickettsiosis (including RMSF) † Confirmed cummulative for 2011
+Spotted Fever Rickettsiosis (including RMSF) † Confirmed cummulative for 2010
+Spotted Fever Rickettsiosis (including RMSF) † Probable current week
+Spotted Fever Rickettsiosis (including RMSF) † Probable previous 52 weeks median 
+Spotted Fever Rickettsiosis (including RMSF) † Probable previous 52 weeks maximum 
+Spotted Fever Rickettsiosis (including RMSF) † Probable cummulative for 2011
+Spotted Fever Rickettsiosis (including RMSF) † Probable cummulative for 2010
+
+tab delimited data:
+test
+UNITED STATES	193	258	742	4,385	6,492	2	2	11	40	59	12	20	245	286	455						
+NEW ENGLAND	-	3	20	77	179	-	0	0	-	-	-	0	1	1	1						
+Conn.	-	0	18	18	69	-	0	0	-	-	-	0	0	-	-						
+Maine	-	0	4	14	3	-	0	0	-	-	-	0	1	-	1						
+Mass.	-	2	16	42	92	-	0	0	-	-	-	0	0	-	-						
+N.H.	-	0	2	1	5	-	0	0	-	-	-	0	1	-	-						
+R.I.	-	0	4	-	9	-	0	0	-	-	-	0	1	1	-						
+Vt.	-	0	1	2	1	-	0	0	-	-	-	0	0	-	-						
+MID. ATLANTIC	22	15	74	269	872	-	0	1	3	2	3	1	6	11	37						
+N.J.	-	3	16	40	202	-	0	0	-	1	-	0	4	-	26						
+N.Y. (Upstate)	18	3	15	84	79	-	0	0	-	1	1	0	3	2	2						
+N.Y. City	-	4	14	96	160	-	0	0	-	-	-	0	2	4	4						
+Pa.	4	4	56	49	431	-	0	1	3	-	2	0	1	5	5						
+E.N. CENTRAL	1	17	37	255	933	-	0	1	-	-	-	1	7	19	31						
+Ill.	-	6	20	64	594	-	0	1	-	-	-	0	4	11	16						
+Ind.	-	1	4	27	26	-	0	1	-	-	-	0	3	6	9						
+Mich.	1	4	9	70	117	-	0	0	-	-	-	0	1	-	1						
+Ohio	-	5	15	94	152	-	0	0	-	-	-	0	2	2	3						
+Wis.	-	0	4	-	44	-	0	0	-	-	-	0	1	-	2						
+W.N. CENTRAL	4	15	52	166	1,406	-	0	2	4	4	-	3	17	60	98						
+Iowa	1	0	4	9	28	-	0	0	-	-	-	0	1	1	2						
+Kans.	2	3	12	31	144	-	0	0	-	-	-	0	0	-	-						
+Minn.	-	0	4	-	23	-	0	0	-	-	-	0	2	-	-						
+Mo.	-	9	41	119	1,192	-	0	2	4	2	-	3	17	59	95						
+Nebr.	1	0	10	4	15	-	0	2	-	2	-	0	1	-	1						
+N. Dak.	-	0	0	-	-	-	0	0	-	-	-	0	1	-	-						
+S. Dak.	-	0	2	3	4	-	0	0	-	-	-	0	0	-	-						
+S. ATLANTIC	79	63	127	1,673	949	2	1	7	24	39	3	6	59	82	117						
+Del.	-	0	2	1	33	-	0	1	1	1	-	0	2	6	9						
+D.C.	-	0	3	6	18	-	0	1	1	-	-	0	0	-	-						
+Fla.	68	33	99	1,218	355	-	0	1	2	2	1	0	2	2	6						
+Ga.	6	13	26	224	340	2	0	5	15	32	-	0	0	-	-						
+Md.	1	2	8	40	48	-	0	1	1	-	-	0	5	6	16						
+N.C.	2	3	36	115	70	-	0	3	1	3	-	1	47	32	49						
+S.C.	1	1	5	25	33	-	0	1	3	-	-	0	2	8	4						
+Va.	1	2	8	40	51	-	0	2	-	1	1	2	12	26	33						
+W. Va.	-	0	66	4	1	-	0	0	-	-	1	0	1	2	-						
+E.S. CENTRAL	3	13	29	234	356	-	0	3	3	7	6	5	31	84	140						
+Ala.	2	5	15	82	56	-	0	1	-	-	-	1	9	18	27						
+Ky.	-	1	6	30	160	-	0	1	-	5	-	0	0	-	-						
+Miss.	1	2	7	58	17	-	0	1	-	-	-	0	4	1	8						
+Tenn.	-	4	14	64	123	-	0	3	3	2	6	4	20	65	105						
+W.S. CENTRAL	68	55	503	978	1,077	-	0	8	-	1	-	1	235	7	26						
+Ark.	2	2	7	27	22	-	0	2	-	-	-	0	28	1	8						
+La.	-	5	13	49	123	-	0	0	-	-	-	0	1	-	1						
+Okla.	-	2	161	40	150	-	0	5	-	-	-	0	202	4	8						
+Tex.	66	46	338	862	782	-	0	1	-	1	-	0	5	2	9						
+MOUNTAIN	11	16	32	321	297	-	0	5	6	2	-	0	7	22	4						
+Ariz.	4	7	19	93	160	-	0	4	6	-	-	0	7	19	-						
+Colo.	3	2	7	38	39	-	0	1	-	-	-	0	1	1	-						
+Idaho	-	0	3	8	11	-	0	0	-	-	-	0	1	-	1						
+Mont.	4	0	15	99	4	-	0	0	-	2	-	0	0	-	1						
+Nev.	-	0	6	10	15	-	0	0	-	-	-	0	0	-	-						
+N. Mex.	-	3	10	52	52	-	0	0	-	-	-	0	0	-	1						
+Utah	-	1	4	20	16	-	0	0	-	-	-	0	1	-	1						
+Wyo.	-	0	1	1	-	-	0	0	-	-	-	0	1	2	-						
+PACIFIC	5	23	63	412	423	-	0	2	-	4	-	0	1	-	1						
+Alaska	-	0	2	3	-	N	0	0	N	N	N	0	0	N	N						
+Calif.	4	18	59	317	335	-	0	2	-	4	-	0	0	-	-						
+Hawaii	-	1	4	27	30	N	0	0	N	N	N	0	0	N	N						
+Oreg.	-	1	4	26	29	-	0	0	-	-	-	0	1	-	1						
+Wash.	1	2	22	39	29	-	0	1	-	-	-	0	0	-	-						
+Amer. Samoa	-	1	1	1	1	N	0	0	N	N	N	0	0	N	N						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	0	2	1	3	N	0	0	N	N	N	0	0	N	N						
+P.R.	-	0	1	-	2	N	0	0	N	N	N	0	0	N	N						
+V.I.	-	0	0	-	-	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not reportable.
+NN: Not Nationally Notifiable
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Case counts for reporting years 2010 and 2011 are provisional and subject to change.
+For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. 
+Data for TB are displayed in Table IV, which appears quarterly.
+
+† Illnesses with similar clinical presentation that result from Spotted fever group rickettsia infections are reported as Spotted fever rickettsiosis. Rocky Mountain Spotted Fever (RMSF) caused by Rickettsia rickettsii, is the most common and well-known spotted fever.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

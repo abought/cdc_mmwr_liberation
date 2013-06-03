@@ -1,0 +1,108 @@
+
+TABLE II. (Part 1)  Provisional cases of selected notifiable diseases, United States, week ending June 14, 2008 (WEEK 24)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Chlamydia† current week
+Chlamydia† previous 52 weeks median 
+Chlamydia† previous 52 weeks maximum 
+Chlamydia† cummulative for 2008
+Chlamydia† cummulative for 2007
+Coccidioidomycosis current week
+Coccidioidomycosis previous 52 weeks median 
+Coccidioidomycosis previous 52 weeks maximum 
+Coccidioidomycosis cummulative for 2008
+Coccidioidomycosis cummulative for 2007
+Cryptosporidiosis current week
+Cryptosporidiosis previous 52 weeks median 
+Cryptosporidiosis previous 52 weeks maximum 
+Cryptosporidiosis cummulative for 2008
+Cryptosporidiosis cummulative for 2007
+
+tab delimited data:
+test
+UNITED STATES	12,429	21,368	28,892	474,793	496,702	124	129	341	3,059	3,578	30	88	975	1,516	1,395						
+NEW ENGLAND	520	676	1,516	15,750	16,056	-	0	1	1	2	-	6	15	103	119						
+Conn.	192	206	1,093	4,343	4,712	N	0	0	N	N	-	0	13	13	42						
+Maine	-	48	67	1,091	1,180	N	0	0	N	N	-	1	6	10	12						
+Mass.	230	311	660	7,860	7,245	N	0	0	N	N	-	2	11	31	34						
+N.H.	26	39	73	954	903	-	0	1	1	2	-	1	4	24	16						
+R.I.	54	56	98	1,347	1,540	-	0	0	-	-	-	0	3	3	4						
+Vt.	18	15	36	155	476	N	0	0	N	N	-	1	4	22	11						
+MID. ATLANTIC	2,788	2,740	4,840	66,039	65,185	-	0	0	-	-	6	13	120	205	161						
+N.J.	217	406	526	7,857	9,826	N	0	0	N	N	-	1	8	10	10						
+N.Y. (Upstate)	601	561	2,177	12,562	11,735	N	0	0	N	N	5	5	20	66	47						
+N.Y. City	1,360	951	3,149	26,534	23,467	N	0	0	N	N	-	2	8	34	32						
+Pa.	610	800	1,031	19,086	20,157	N	0	0	N	N	1	6	103	95	72						
+E.N. CENTRAL	1,157	3,460	4,373	76,205	82,813	-	1	3	22	16	7	22	134	373	307						
+Ill.	-	1,014	1,711	18,989	23,403	N	0	0	N	N	-	2	13	26	36						
+Ind.	279	395	656	9,450	9,712	N	0	0	N	N	-	2	41	63	22						
+Mich.	569	766	1,220	21,148	17,804	-	0	2	15	12	-	5	11	84	69						
+Ohio	37	859	1,530	18,133	22,848	-	0	1	7	4	6	5	60	106	80						
+Wis.	272	378	614	8,485	9,046	N	0	0	N	N	1	7	60	94	100						
+W.N. CENTRAL	810	1,229	1,695	28,875	28,741	-	0	77	-	4	4	17	126	264	204						
+Iowa	127	164	251	3,911	3,971	N	0	0	N	N	2	4	61	53	39						
+Kans.	211	158	529	4,203	3,742	N	0	0	N	N	1	1	16	20	27						
+Minn.	-	256	372	5,607	6,160	-	0	77	-	-	-	4	34	70	46						
+Mo.	328	468	576	11,089	10,564	-	0	1	-	4	1	3	14	60	38						
+Nebr.	70	91	162	1,979	2,381	N	0	0	N	N	-	3	24	39	10						
+N. Dak.	7	33	65	796	799	N	0	0	N	N	-	0	51	2	1						
+S. Dak.	67	53	81	1,290	1,124	N	0	0	N	N	-	2	16	20	43						
+S. ATLANTIC	3,172	3,958	7,609	86,826	95,561	-	0	1	2	2	7	19	65	305	323						
+Del.	94	65	144	1,644	1,554	-	0	0	-	-	-	0	4	6	2						
+D.C.	89	116	202	2,921	2,759	-	0	1	-	-	-	0	2	3	1						
+Fla.	1,026	1,301	1,554	31,411	23,568	N	0	0	N	N	3	8	35	143	143						
+Ga.	8	649	1,338	2,936	18,585	N	0	0	N	N	3	4	14	96	73						
+Md.	227	469	683	10,146	9,433	-	0	1	2	2	-	0	3	7	12						
+N.C.	350	206	4,783	9,289	13,879	N	0	0	N	N	-	1	18	11	35						
+S.C.	750	472	3,081	12,945	12,812	N	0	0	N	N	1	1	15	14	26						
+Va.	621	508	1,062	14,116	11,525	N	0	0	N	N	-	1	6	18	27						
+W. Va.	7	62	96	1,418	1,446	N	0	0	N	N	-	0	5	7	4						
+E.S. CENTRAL	715	1,493	2,394	35,335	38,627	-	0	0	-	-	-	4	64	47	61						
+Ala.	12	481	605	9,768	11,627	N	0	0	N	N	-	1	14	18	23						
+Ky.	191	222	361	5,057	3,671	N	0	0	N	N	-	1	40	9	18						
+Miss.	-	300	1,048	7,893	10,355	N	0	0	N	N	-	1	11	5	9						
+Tenn.	512	518	716	12,617	12,974	N	0	0	N	N	-	1	18	15	11						
+W.S. CENTRAL	1,553	2,718	4,426	66,258	54,126	-	0	1	1	-	-	6	29	64	83						
+Ark.	237	229	455	6,389	4,113	N	0	0	N	N	-	1	8	12	11						
+La.	-	380	851	7,909	8,400	-	0	1	1	-	-	0	4	3	26						
+Okla.	223	235	416	5,396	5,675	N	0	0	N	N	-	1	11	16	15						
+Tex.	1,093	1,809	3,923	46,564	35,938	N	0	0	N	N	-	3	18	33	31						
+MOUNTAIN	282	1,392	1,836	25,787	33,779	92	89	170	2,095	2,214	6	9	567	124	101						
+Ariz.	55	458	679	8,280	10,906	89	87	168	2,050	2,150	3	1	4	20	20						
+Colo.	61	313	488	5,031	8,088	N	0	0	N	N	-	2	26	31	29						
+Idaho	17	55	233	1,483	1,779	N	0	0	N	N	3	2	71	28	5						
+Mont.	-	50	363	1,307	1,300	N	0	0	N	N	-	1	7	14	6						
+Nev.	149	185	411	4,446	4,342	3	1	7	30	23	-	0	6	3	4						
+N. Mex.	-	145	561	2,636	4,450	-	0	3	12	16	-	2	9	13	28						
+Utah	-	119	209	2,593	2,352	-	0	7	3	25	-	1	484	9	2						
+Wyo.	-	14	34	11	562	-	0	1	-	-	-	0	8	6	7						
+PACIFIC	1,432	3,371	4,676	73,718	81,814	32	31	217	938	1,340	-	2	20	31	36						
+Alaska	56	94	129	2,122	2,262	N	0	0	N	N	-	0	2	1	-						
+Calif.	1,211	2,796	4,115	64,354	63,947	32	31	217	938	1,340	-	0	0	-	-						
+Hawaii	-	110	152	2,440	2,629	N	0	0	N	N	-	0	4	1	-						
+Oreg.	165	189	402	4,689	4,307	N	0	0	N	N	-	2	16	29	36						
+Wash.	-	278	659	113	8,669	N	0	0	N	N	-	0	0	-	-						
+Amer. Samoa	-	0	22	62	73	N	0	0	N	N	N	0	0	N	N						
+C.N.M.I.	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-						
+Guam	-	12	26	86	380	-	0	0	-	-	-	0	0	-	-						
+P.R.	-	113	612	3,064	3,560	N	0	0	N	N	N	0	0	N	N						
+V.I.	-	6	21	260	97	-	0	0	-	-	-	0	0	-	-						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not notifiable.
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Incidence data for reporting years 2007 and 2008 are provisional.
+Data for HIV/AIDS, AIDS, and TB, when available, are displayed in Table IV, which appears quarterly.
+
+† Chlamydia refers to genital infections caused by Chlamydia trachomatis.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+

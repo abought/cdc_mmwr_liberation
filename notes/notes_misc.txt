@@ -1,0 +1,28 @@
+Here are some sample table headers/descriptions and misc notes to help figure out which tables are the same or different.
+The headers can be mass-examined using the unix command:
+head -2 *table2A*
+or similar
+
+
+
+Table 1:
+TABLE I.  Provisional cases of infrequently reported notifiable diseases (<1,000 cases reported during the
+preceding year), United States, week ending March 2, 2013 (WEEK 09)
+
+
+TABLE II. (Part 8)  Provisional cases of selected notifiable diseases, United States,
+week ending March 3, 2007 (WEEK 09)*
+
+TABLE IV.  Provisional cases of selected notifiable diseases, United States,  quarter ending December 30, 2006 (52 WEEK)
+
+
+
+THE CDC CAN'T SPELL- and hasn't proofread in years!
+Such as table 2H (some data moved to 2J ~2008 or 2009)
+"Syphillis, primary & secondary cummulative for 2007"
+Possible that's just an issue with the web formatter script, not the print tables?
+
+Also: special, weird footnote characters make sense in print. But in a tab-separated values file, there must be a
+way that doesn't kick up so many programmer-unfriendly encoding errors. One tableset (2007 wk 13) doesn't even
+download via the bulk script- consistently kicks back HTTPError 500: internal server error.
+It seems to hang the CDC script on the server too when I tried to read the HTML version via the website.

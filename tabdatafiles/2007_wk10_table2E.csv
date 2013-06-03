@@ -1,0 +1,106 @@
+
+TABLE II. (Part 5)  Provisional cases of selected notifiable diseases, United States, week ending March 10, 2007 (WEEK 10)*
+
+column labels in same order that data fields appears in each record below:
+Reporting Area
+Pertussis current week
+Pertussis previous 52 weeks median 
+Pertussis previous 52 weeks maximum 
+Pertussis cummulative for 2007
+Pertussis cummulative for 2006
+Rabies, animal current week
+Rabies, animal previous 52 weeks median 
+Rabies, animal previous 52 weeks maximum 
+Rabies, animal cummulative for 2007
+Rabies, animal cummulative for 2006
+Rocky Mountain Spotted Fever current week
+Rocky Mountain Spotted Fever previous 52 weeks median 
+Rocky Mountain Spotted Fever previous 52 weeks maximum 
+Rocky Mountain Spotted Fever cummulative for 2007
+Rocky Mountain Spotted Fever cummulative for 2006
+
+tab delimited data:
+test
+UNITED STATES	115	258	743	1,206	2,675	26	107	173	480	858	2	32	118	65	252						
+NEW ENGLAND	1	21	53	41	290	6	11	26	75	79	-	0	1	-	-						
+Conn.	-	1	9	-	17	2	4	14	35	20	-	0	0	-	-						
+Maine	-	2	14	19	17	3	2	8	14	11	N	0	0	N	N						
+Mass.	-	3	28	-	221	-	2	17	-	34	-	0	1	-	-						
+N.H.	1	2	27	7	2	-	1	5	8	2	-	0	1	-	-						
+R.I.	-	0	17	-	11	-	0	3	4	2	-	0	1	-	-						
+Vt.	-	1	14	15	22	1	2	5	14	10	-	0	0	-	-						
+MID. ATLANTIC	26	37	156	274	315	-	17	57	38	108	-	1	6	7	9						
+N.J.	-	4	11	8	85	-	0	0	-	-	-	0	1	-	1						
+N.Y. (Upstate)	20	20	150	194	72	-	0	0	-	-	-	0	2	-	-						
+N.Y. City	-	0	8	-	18	-	1	5	8	-	-	0	3	1	2						
+Pa.	6	10	25	72	140	-	16	56	30	108	-	1	4	6	6						
+E.N. CENTRAL	8	41	78	267	442	1	2	18	1	4	-	1	6	1	3						
+Ill.	-	10	23	35	115	-	0	7	-	1	-	0	4	-	1						
+Ind.	-	3	34	1	21	-	0	2	-	-	-	0	1	-	-						
+Mich.	1	11	39	64	88	-	0	5	-	2	-	0	1	1	-						
+Ohio	7	12	56	163	149	1	0	9	1	1	-	0	4	-	2						
+Wis.	-	2	7	4	69	-	0	0	-	-	-	0	1	-	-						
+W.N. CENTRAL	-	18	97	84	347	2	6	20	24	28	-	3	14	9	3						
+Iowa	-	5	16	26	97	-	1	7	2	4	-	0	1	-	-						
+Kans.	-	4	13	38	93	1	2	5	15	10	-	0	1	-	-						
+Minn.	-	0	80	-	-	1	0	6	3	2	-	0	2	-	-						
+Mo.	-	5	10	9	109	-	1	6	1	2	-	2	12	9	3						
+Nebr.	-	1	9	1	43	-	0	0	-	-	-	0	5	-	-						
+N. Dak.	-	0	9	1	4	-	0	7	3	2	-	0	0	-	-						
+S. Dak.	-	0	4	9	1	-	0	4	-	8	-	0	0	-	-						
+S. ATLANTIC	40	17	136	160	187	15	39	62	277	469	1	13	68	34	227						
+Del.	-	0	1	-	1	-	0	0	-	-	-	0	3	1	2						
+D.C.	-	0	2	1	2	-	0	0	-	-	-	0	1	-	-						
+Fla.	17	4	20	65	48	-	0	7	27	176	1	0	5	2	5						
+Ga.	-	0	3	-	7	-	5	16	36	40	-	1	5	1	2						
+Md.	-	2	6	20	46	-	6	13	18	61	-	1	7	6	11						
+N.C.	23	0	94	43	27	8	9	22	72	46	-	5	61	18	206						
+S.C.	-	3	11	15	28	-	3	11	19	24	-	0	5	2	1						
+Va.	-	2	19	16	26	7	12	27	97	106	-	2	13	4	-						
+W. Va.	-	0	9	-	2	-	2	7	8	16	-	0	2	-	-						
+E.S. CENTRAL	4	6	28	53	61	-	4	13	19	32	1	6	31	12	7						
+Ala.	-	2	19	16	15	-	1	8	-	11	-	2	11	5	2						
+Ky.	-	0	5	-	12	-	0	4	5	1	-	0	1	-	-						
+Miss.	-	0	5	5	9	-	0	2	-	-	-	0	1	-	-						
+Tenn.	4	3	11	32	25	-	2	8	14	20	1	4	22	7	5						
+W.S. CENTRAL	-	17	123	36	104	-	4	34	12	98	-	1	27	-	3						
+Ark.	-	1	13	-	6	-	0	5	3	1	-	0	10	-	3						
+La.	-	0	2	2	3	-	0	0	-	-	-	0	1	-	-						
+Okla.	-	0	9	-	1	-	1	9	9	8	-	0	18	-	-						
+Tex.	-	14	110	34	94	-	0	29	-	89	-	0	5	-	-						
+MOUNTAIN	27	40	87	237	652	-	3	28	9	20	-	0	5	2	-						
+Ariz.	7	6	28	47	122	-	2	10	8	19	-	0	2	-	-						
+Colo.	7	9	26	76	298	-	0	0	-	-	-	0	1	1	-						
+Idaho	-	1	7	9	18	-	0	24	-	-	-	0	3	1	-						
+Mont.	-	1	8	9	25	-	0	2	-	-	-	0	2	-	-						
+Nev.	-	0	6	-	6	-	0	0	-	-	-	0	0	-	-						
+N. Mex.	-	2	8	6	12	-	0	2	-	1	-	0	2	-	-						
+Utah	13	13	39	81	161	-	0	1	1	-	-	0	2	-	-						
+Wyo.	-	1	8	9	10	-	0	2	-	-	-	0	1	-	-						
+PACIFIC	9	29	227	54	277	2	4	12	25	20	-	0	1	-	-						
+Alaska	-	1	8	8	24	1	0	6	16	7	N	0	0	N	N						
+Calif.	-	21	224	-	152	1	3	11	9	13	-	0	1	-	-						
+Hawaii	-	1	6	4	29	N	0	0	N	N	N	0	0	N	N						
+Oreg.	-	2	8	16	38	-	0	4	-	-	-	0	1	-	-						
+Wash.	9	4	46	26	34	-	0	0	-	-	N	0	0	N	N						
+Amer. Samoa	U	0	0	U	U	U	0	0	U	U	U	0	0	U	U						
+C.N.M.I.	U	0	0	U	U	U	0	0	U	U	U	0	0	U	U						
+Guam	-	0	0	-	-	-	0	0	-	-	N	0	0	N	N						
+P.R.	-	0	1	-	-	-	1	6	15	21	N	0	0	N	N						
+V.I.	U	0	0	U	U	U	0	0	U	U	U	0	0	U	U						
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands.
+U: Unavailable.
+-: No reported cases.
+N: Not notifiable.
+Cum: Cumulative year-to-date counts.
+Med: Median.
+Max: Maximum.
+
+* Incidence data for reporting years 2006 and 2007 are provisional.
+Data for HIV/AIDS, AIDS, and TB, when available, are displayed in Table IV, which appears quarterly.
+
+
+MMWR web application provided by CDC WONDER; http://wonder.cdc.gov
+
+
