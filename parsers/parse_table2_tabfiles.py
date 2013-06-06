@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-import os, re
+import os, re, subprocess, glob, pprint
 
 __author__ = 'Andrew Boughton and the A2 Hack for Change team'
 # Parse CDC MMWR data- the parser in this file is currently aimed at the format and contents of "table 2"
@@ -222,7 +222,6 @@ def get_filenames_from_grep(searchterm, searchpath='*'):
     :param searchterm:
     :param searchpath:
     """
-    import subprocess
     try:
         search_results = subprocess.check_output(
             'grep -il {0} {1}'.format(searchterm, searchpath),
@@ -245,8 +244,6 @@ def get_filenames_in_directory(directory_name, pattern='*.tab'):
     :param directory_name: The directory to search for files in
     :param pattern: The pattern of filename to match (defaults to *.tab)
     """
-    import glob
-
     pattern_in_path = os.path.join(directory_name, pattern)
     return [os.path.split(line)[1] for line in glob.glob(pattern_in_path)]
 
@@ -331,7 +328,6 @@ if __name__ == "__main__":
                                         'Syphillis, primary & secondary current week',
                                         'Oreg.',
                                         empty_cell_default='N')
-        import pprint
         pprint.pprint(time_series)
     else:
         print "No file names matched the specified query; no files opened"
