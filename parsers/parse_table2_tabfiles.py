@@ -25,35 +25,41 @@ class TabFileParser(object):
          for examination via attributes
             .sections[sectionnames] , .parsed[columnnames][rownames], .fileinfo[filename or date]
         """
+        list_of_lines_in_file = self.load_file(filename, filepath)
 
-        # TODO: Pathname is manually specified, which is probably bad.
+        self.sections = self.get_sections(list_of_lines_in_file)
+        self.sections = self.postprocess_sections(self.sections)
+
+        self.table_data = self.parse_tabledata(self.sections)
+
+        self.metadata = self.get_metadata(filename, self.sections)
+
+    def load_file(self, filename, filepath):
         fullfilename = os.path.join(filepath, filename)
         with open(fullfilename, 'rU') as f:
             list_of_lines_in_file = f.read().splitlines()
+        return list_of_lines_in_file
 
-        self.sections = self.get_sections(list_of_lines_in_file)
-
-        # Data section begins with notification that data is beginning, and the word "test". Column section begins with
-        #  statement that column section is beginning. In both cases, we only want to pass data to the data parser.
-        self.parse_datasection(self.datarows[2:],
-                               self.column_names[1:],
-                               self.footnotes)
+    def get_metadata(self, filename, sections):
+        filename_sections = re.findall(r'^(\d+)_wk(\d+)_table(\w+).tab$', filename)[0]
+        metadata = {'date': self.parse_header(sections['header']),
+                    'year_and_week': filename_sections[0:2],
+                    'table_name': filename_sections[2],
+                    'filename': filename}
+        return metadata
 
     def get_sections(self, list_of_lines_in_file):
         """
         Break the file into sections. This can be changed in a subclass if needed.
+        :param list_of_lines_in_file:
         """
-        # Occasionally I'll reference seemingly weirdly chosen rows of the file- this indicates where the CDC
-        # tab-separated file format consistently has useless rows (junk data like the word "test",
-        # generic section descriptions, etc). We want to skip those.
         sections = {}
         sections['header'] = list_of_lines_in_file[1]
 
         # Switch data processing mode when new block of file encountered. We can't use separate for loops to pick
         # out every section, because we'd prefer to resume processing the file where we left off (not from the start).
 
-        # So to keep track of progress through the file,
-        #  we use a generator expression to keep track of where we are in the list of rows, and specify
+        # Use a generator expression to keep track of where we are in the list of rows, and specify
         # manually when we want the next line.
         # First 3 rows of datafile are blank + date header + blank. No point looping through them when we parse.
         line_stepper = (d for d in list_of_lines_in_file[3:])
@@ -61,7 +67,6 @@ class TabFileParser(object):
         # Now read through the distinct "sections" of the file. When we hit a blank line, while+break will
         # stop collecting lines for the given section and move on to the next.
 
-        # TODO: Making the crawler more generic/subclassable by implementing get_sections functions for this stuff
         sections['column_names'] = []
         while True:
             info = line_stepper.next()
@@ -70,7 +75,7 @@ class TabFileParser(object):
             else:
                 break
 
-        sections['data'] = []
+        sections['table_data'] = []
         while True:
             info = line_stepper.next()
             if info:
@@ -85,6 +90,17 @@ class TabFileParser(object):
                 sections['footnotes'].append(info)
             else:
                 break
+        return sections
+
+    def postprocess_sections(self, sections):
+        """
+        Performs post-processing of sections of file: for example, gets rid of the first row of the columns section
+        because it contains no column names
+        """
+        # Data section begins with notification that data is beginning, and the word "test". Column section begins with
+        #  statement that column section is beginning. In both cases, we only want to pass data to the data parser.
+        sections['column_names'] = sections['column_names'][1:]
+        sections['table_data'] = sections['table_data'][2:]
         return sections
 
     def parse_header(self, header):
@@ -104,7 +120,7 @@ class TabFileParser(object):
         date_tuple = re.findall(r'(\w+)\s(\d+),\s(\d+)', date_string)[0]
         return date_tuple
 
-    def parse_column_names(self):
+    def parse_columnnames(self):
         """
         Return dict with metadata on disease name, duration, and other relevant info
 
@@ -124,7 +140,7 @@ class TabFileParser(object):
         # And hey, disease lists for previous years can be viewed by changing year URL parameter!!
         return
 
-    def parse_datasection(self, datachunk, column_names, footnote_dict):
+    def parse_tabledata(self, sections):
         """
         Produce nested dictionary with parsed data, ie d[columnname][rowname] for a single datapoint
         It's probably be better to set the class attribute variable based on the return value of the function,
@@ -133,22 +149,19 @@ class TabFileParser(object):
         # Datachunk and columnheaders should only be actual info- truncate and discard junk rows before passing in
 
         # Create data dictionary with keys = columnheaders
-        self.data_dict = {k: {} for k in column_names}
+        table_data = {k: {} for k in sections['column_names']}
 
-        # Also store
-        self.data_dict['date'] = self.parse_header(self.header_row)
-
-        for l in datachunk:
-            data = l.split('\t')
+        for row in sections['table_data']:
+            row_values = row.split('\t')
             # Now map the data in the line to the data dictionary. Need to get column headers lines up with rows,
             # using a smidge of trickery since the data dictionary is a hash table
             # (doesn't preserve order of key addition- we want to associate the correct
             # part of the row with the right column name)
 
-            for i, dp in enumerate(column_names):
+            for i, col_name in enumerate(sections['column_names']):
                 # There are a bunch of blank columns at the end of every row for some reason
-                self.data_dict[dp][data[0]] = data[i]
-
+                table_data[col_name][row_values[0]] = row_values[i]
+            return sections
 
     def parse_footnotes(self, footnotechunk):
         """Creates a dictionary to replace footnote codes with footnote text when seen later"""
@@ -160,6 +173,7 @@ class TabFileParser(object):
         line_tuples = [l.lower().strip('.').split(': ')
                        for l in footnotechunk.splitlines()]
         return dict(line_tuples)
+
 
 ########
 # Utility functions for parsing collections of files
@@ -204,15 +218,14 @@ def get_filenames_from_grep(searchterm, searchpath):
     return search_results.splitlines()
 
 
-def get_filenames_in_directory(directory_name):
+def get_filenames_in_directory(directory_name, pattern='*.tab'):
     """
-    Gets the filename of every file in a specified directory
+    Gets the filename of every file in a specified directory, according to a specified pattern
+    (by default restricts it to those with .tab extension)
     """
-    try:
-        filenames = os.listdir(directory_name)
-    except:
-        return None
-    return filenames
+    import glob
+    pattern_in_path = os.path.join(directory_name, pattern)
+    return glob.glob(pattern_in_path)
 
 
 def get_tables_timerange(startyear=1, endyear=1, startweek=1, endweek=52, tablename="2J"):
@@ -247,7 +260,9 @@ def get_tables_timerange(startyear=1, endyear=1, startweek=1, endweek=52, tablen
 # Functions to parse data and produce a specific time series
 #######
 def timeseries():
-    pass
+    visit_scenic_oregon = [(week_data.data_dict['date'],
+                            week_data.data_dict['Syphillis, primary & secondary current week']['Oreg.'])
+                           for week_data in parsed_data]
 
 
 month_lookup = {'January': 0, 'February': 1, 'March': 2, 'April': 3, 'May': 4,
@@ -270,8 +285,6 @@ if __name__ == "__main__":
     # Also note that State names in the files obey wildly, insanely inconsistent abbreviations,
     # and column/field names should be manually looked up.
     # Syphilis data is always in table 2H until 2008-9 and 2J thereafter
-    visit_scenic_oregon = [(week_data.data_dict['date'],
-                            week_data.data_dict['Syphillis, primary & secondary current week']['Oreg.'])
-                           for week_data in parsed_data]
+
     # Above example only works because our dataset here is limited to files mentioning syphilis.
     #  If we had other files in the mix, those would yield a KeyError when given the disease name
