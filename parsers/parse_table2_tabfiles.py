@@ -4,7 +4,7 @@ __author__ = 'Andrew Boughton and the A2 Hack for Change team'
 # as it is published weekly, and has only been tested on data 2006-2013.
 # Results not guaranteed for other tables. Assumes datafiles in a subfolder of script directory named "tabdatafiles/"
 
-import re
+import re, subprocess
 # JSON output of files seems stymied by the presence of strange characters that python json module can't parse
 # These are probably the symbols used in the publication to indicate footnotes
 
@@ -20,7 +20,7 @@ class TabFileParser(object):
         """
 
         # TODO: Pathname is manually specified, which is probably bad.
-        with open("tabdatafiles/" + filename, 'rU') as f:
+        with open("../tabdatafiles/" + filename, 'rU') as f:
             fdata = f.read().splitlines()
 
         # Occasionally I'll reference seemingly weirdly chosen rows of the file- this indicates where the CDC
@@ -146,20 +146,16 @@ class TabFileParser(object):
         return dict(line_tuples)
 
 
-def get_file_list():
+def get_file_list(query):
     """
     Oftentimes- such as when studying one specific disease- it'd be a waste of time to parse files that
     don't mention the disease.
     Find the filenames of interest- datasets specific to a given disease
     """
-    # TODO: This would run command but no capture the output; figure out getting stdout later.
-    # subprocess.Popen('grep -il syphilis tabdatafiles/*', shell=True)
-
-    # Instead use manually generated list by doing that grep at command line. Hardcoding filenames
-    # does probably save performance anyway when you do repeat runs. Assumes filelist in same folder as script.
-    fhandle = open('syphilis_datafilenames.txt', 'rU')
-
-    return fhandle.read().splitlines()
+    re_query = 'grep -il %s ../tabdatafiles/*' % query
+    filelist = subprocess.check_output(re_query, stderr=subprocess.STDOUT,
+                                       shell=True)
+    return filelist.splitlines()
 
 month_lookup = {'January':0,'February':1, 'March':2, 'April':3, 'May':4,
                 'June':5,'July':6, 'August':7,'September':8,'October':9,
@@ -168,7 +164,7 @@ month_lookup = {'January':0,'February':1, 'March':2, 'April':3, 'May':4,
 
 if __name__ == "__main__":
     # For each file read, creates a python object with many attributes (raw and parsed data). Output is a list of objects.
-    parsed_data = [TabFileParser(f) for f in get_file_list()]
+    parsed_data = [TabFileParser(f) for f in get_file_list('syphillis')]
 
     # Query each datafile using a nested dictionary: for each file (represented by a TabFileParser object instance),
     # the user can find out syphilis instances that week using <week_object>.data_dict['Column name']['location']
