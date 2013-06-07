@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 import os, re, subprocess, glob, pprint
+from lookup_data import month_lookup
 
 __author__ = 'Andrew Boughton and the A2 Hack for Change team'
 # Parse CDC MMWR data- the parser in this file is currently aimed at the format and contents of "table 2"
@@ -311,12 +312,6 @@ def create_timeseries(list_of_parsed_objects, column_name, row_name, empty_cell_
                            for week_data in list_of_parsed_objects if column_name in week_data.table_data]
     return visit_scenic_oregon
 
-#########
-# Utility/ lookup information
-#########
-month_lookup = {'January': 0, 'February': 1, 'March': 2, 'April': 3, 'May': 4,
-                'June': 5, 'July': 6, 'August': 7, 'September': 8, 'October': 9,
-                'November': 10, 'December': 11}
 
 ####################
 # Example usecase
