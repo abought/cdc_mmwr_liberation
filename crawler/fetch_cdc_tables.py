@@ -48,7 +48,7 @@ class CrawlTables(object):
                     # Default is to save to the same folder as this script; I moved them later via command line.
                     #  Messy, but efficient.
                     for t in tables:
-                        fname = "{0}_wk{1:02}_table{2}.csv".format(year, w, t)
+                        fname = "{0}_wk{1:02}_table{2}.tab".format(year, w, t)
                         with open(fname, 'w') as f:
                             f.write(self.get_tabfile(year, w, t))
 
